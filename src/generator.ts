@@ -18,6 +18,7 @@ const generateDataSet = (count: number): Data[] => {
 		// Generate between 3-8 numbers
 		const numbersCount = generateRandomNumber(3, 8);
 		const numbers: number[] = [];
+		const intermediateResults: number[] = [];
 
 		// Generate random numbers between 1 and 100
 		for (let j = 0; j < numbersCount; j++) {
@@ -35,12 +36,14 @@ const generateDataSet = (count: number): Data[] => {
 		for (let j = 1; j < numbers.length; j++) {
 			const operation = operationsList[j - 1];
 			currentResult = doOperation(operation, [currentResult, numbers[j]]);
+			intermediateResults.push(currentResult);
 		}
 
 		dataset.push({
 			numbers,
 			operations: operationsList,
 			answer: currentResult,
+			intermediateResults,
 		});
 	}
 

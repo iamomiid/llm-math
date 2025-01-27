@@ -1,4 +1,5 @@
 import { writeFileSync } from "fs";
+import path from "path";
 import { operations, type Data, type Operation } from "./types";
 import { doOperation } from "./utils";
 
@@ -52,4 +53,7 @@ const generateDataSet = (count: number): Data[] => {
 
 // Generate 1000 samples and save to file
 const dataset = generateDataSet(1000);
-writeFileSync("dataset.json", JSON.stringify(dataset, null, 2));
+writeFileSync(
+	path.join(__dirname, "dataset.json"),
+	JSON.stringify(dataset, null, 2)
+);

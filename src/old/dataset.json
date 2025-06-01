@@ -1,0 +1,8242 @@
+[
+	{
+		"numbers": [94, 33, 91],
+		"operations": ["add", "multiply"],
+		"answer": 11557,
+		"intermediateResults": [127, 11557]
+	},
+	{
+		"numbers": [81, 63, 63, 84, 81, 73, 80, 4],
+		"operations": [
+			"add",
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 61000,
+		"intermediateResults": [144, 207, 291, 210, 15330, 15250, 61000]
+	},
+	{
+		"numbers": [83, 6, 98, 87, 19],
+		"operations": ["multiply", "add", "add", "multiply"],
+		"answer": 12977,
+		"intermediateResults": [498, 596, 683, 12977]
+	},
+	{
+		"numbers": [43, 51, 6, 41, 93, 79, 74, 70],
+		"operations": ["add", "add", "multiply", "add", "add", "add", "subtract"],
+		"answer": 4276,
+		"intermediateResults": [94, 100, 4100, 4193, 4272, 4346, 4276]
+	},
+	{
+		"numbers": [77, 13, 67, 21, 90, 60, 89],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply",
+			"subtract"
+		],
+		"answer": 4028071,
+		"intermediateResults": [1001, 67067, 67046, 67136, 4028160, 4028071]
+	},
+	{
+		"numbers": [85, 65, 15, 7, 72, 56, 11],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 60709,
+		"intermediateResults": [5525, 5510, 5503, 5575, 5519, 60709]
+	},
+	{
+		"numbers": [27, 15, 1, 60],
+		"operations": ["add", "subtract", "subtract"],
+		"answer": -19,
+		"intermediateResults": [42, 41, -19]
+	},
+	{
+		"numbers": [41, 20, 74],
+		"operations": ["multiply", "multiply"],
+		"answer": 60680,
+		"intermediateResults": [820, 60680]
+	},
+	{
+		"numbers": [88, 58, 55, 70, 29],
+		"operations": ["subtract", "multiply", "subtract", "add"],
+		"answer": 1609,
+		"intermediateResults": [30, 1650, 1580, 1609]
+	},
+	{
+		"numbers": [84, 38, 92, 77, 42, 56, 35],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"multiply"
+		],
+		"answer": 4445770,
+		"intermediateResults": [3192, 3100, 3023, 126966, 127022, 4445770]
+	},
+	{
+		"numbers": [56, 29, 3, 73, 9, 63, 19, 36],
+		"operations": [
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"add"
+		],
+		"answer": -46,
+		"intermediateResults": [27, 81, 8, -1, -63, -82, -46]
+	},
+	{
+		"numbers": [91, 66, 15, 73, 97, 79, 10, 45],
+		"operations": [
+			"multiply",
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"subtract"
+		],
+		"answer": 5895,
+		"intermediateResults": [6006, 6021, 5948, 5851, 5930, 5940, 5895]
+	},
+	{
+		"numbers": [2, 64, 69, 93, 41, 62, 65],
+		"operations": ["multiply", "subtract", "multiply", "add", "add", "add"],
+		"answer": 5655,
+		"intermediateResults": [128, 59, 5487, 5528, 5590, 5655]
+	},
+	{
+		"numbers": [42, 17, 88, 32, 16],
+		"operations": ["subtract", "add", "add", "multiply"],
+		"answer": 2320,
+		"intermediateResults": [25, 113, 145, 2320]
+	},
+	{
+		"numbers": [59, 4, 37, 80, 73, 72, 41, 83],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"add"
+		],
+		"answer": 8775,
+		"intermediateResults": [236, 8732, 8652, 8579, 8651, 8692, 8775]
+	},
+	{
+		"numbers": [23, 26, 80, 84],
+		"operations": ["add", "subtract", "subtract"],
+		"answer": -115,
+		"intermediateResults": [49, -31, -115]
+	},
+	{
+		"numbers": [97, 21, 18, 4, 91, 81],
+		"operations": ["add", "add", "subtract", "multiply", "add"],
+		"answer": 12093,
+		"intermediateResults": [118, 136, 132, 12012, 12093]
+	},
+	{
+		"numbers": [55, 72, 40, 26, 11, 52, 92],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": -54,
+		"intermediateResults": [-17, 23, -3, -14, 38, -54]
+	},
+	{
+		"numbers": [76, 55, 90, 78, 40, 69, 40],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add"
+		],
+		"answer": 12760771,
+		"intermediateResults": [4180, 4090, 319020, 12760800, 12760731, 12760771]
+	},
+	{
+		"numbers": [50, 93, 52],
+		"operations": ["subtract", "subtract"],
+		"answer": -95,
+		"intermediateResults": [-43, -95]
+	},
+	{
+		"numbers": [66, 93, 93, 73, 20, 64, 26, 36],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": 570739,
+		"intermediateResults": [
+			6138, 570834, 570761, 570741, 570677, 570703, 570739
+		]
+	},
+	{
+		"numbers": [71, 90, 55, 64],
+		"operations": ["add", "add", "add"],
+		"answer": 280,
+		"intermediateResults": [161, 216, 280]
+	},
+	{
+		"numbers": [58, 60, 29, 17, 9, 77, 34, 29],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"add"
+		],
+		"answer": 212087,
+		"intermediateResults": [118, 89, 72, 81, 6237, 212058, 212087]
+	},
+	{
+		"numbers": [43, 9, 24, 37],
+		"operations": ["multiply", "subtract", "multiply"],
+		"answer": 13431,
+		"intermediateResults": [387, 363, 13431]
+	},
+	{
+		"numbers": [63, 74, 52, 9, 99, 32, 87, 20],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"add"
+		],
+		"answer": -4789,
+		"intermediateResults": [-11, -63, -54, -153, -4896, -4809, -4789]
+	},
+	{
+		"numbers": [81, 42, 70, 75, 58],
+		"operations": ["multiply", "multiply", "subtract", "add"],
+		"answer": 238123,
+		"intermediateResults": [3402, 238140, 238065, 238123]
+	},
+	{
+		"numbers": [47, 39, 19],
+		"operations": ["multiply", "add"],
+		"answer": 1852,
+		"intermediateResults": [1833, 1852]
+	},
+	{
+		"numbers": [84, 12, 84, 40, 28, 17, 98, 86],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": 59,
+		"intermediateResults": [72, 156, 116, 88, 71, -27, 59]
+	},
+	{
+		"numbers": [11, 34, 20],
+		"operations": ["subtract", "add"],
+		"answer": -3,
+		"intermediateResults": [-23, -3]
+	},
+	{
+		"numbers": [40, 30, 91, 85, 26, 19],
+		"operations": ["add", "multiply", "add", "multiply", "multiply"],
+		"answer": 3188770,
+		"intermediateResults": [70, 6370, 6455, 167830, 3188770]
+	},
+	{
+		"numbers": [86, 99, 32],
+		"operations": ["multiply", "multiply"],
+		"answer": 272448,
+		"intermediateResults": [8514, 272448]
+	},
+	{
+		"numbers": [9, 1, 15, 85, 86, 38, 74],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": -560,
+		"intermediateResults": [9, -6, -510, -596, -634, -560]
+	},
+	{
+		"numbers": [99, 21, 24, 84],
+		"operations": ["subtract", "multiply", "subtract"],
+		"answer": 1788,
+		"intermediateResults": [78, 1872, 1788]
+	},
+	{
+		"numbers": [29, 52, 8, 25, 70, 53, 16, 69],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"add",
+			"add"
+		],
+		"answer": 862395,
+		"intermediateResults": [81, 648, 16200, 16270, 862310, 862326, 862395]
+	},
+	{
+		"numbers": [23, 11, 17, 81, 75, 21, 51, 85],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"add",
+			"multiply",
+			"add"
+		],
+		"answer": -15674,
+		"intermediateResults": [12, -5, -405, -330, -309, -15759, -15674]
+	},
+	{
+		"numbers": [60, 24, 20, 92],
+		"operations": ["multiply", "multiply", "subtract"],
+		"answer": 28708,
+		"intermediateResults": [1440, 28800, 28708]
+	},
+	{
+		"numbers": [59, 56, 41],
+		"operations": ["multiply", "add"],
+		"answer": 3345,
+		"intermediateResults": [3304, 3345]
+	},
+	{
+		"numbers": [86, 80, 91, 53, 25, 100, 27, 16],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply",
+			"add"
+		],
+		"answer": 895922521,
+		"intermediateResults": [
+			6880, 626080, 33182240, 33182215, 33182315, 895922505, 895922521
+		]
+	},
+	{
+		"numbers": [51, 36, 81, 73, 28, 35, 39, 49],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": -185,
+		"intermediateResults": [15, 96, 23, -5, -175, -136, -185]
+	},
+	{
+		"numbers": [66, 19, 39],
+		"operations": ["add", "multiply"],
+		"answer": 3315,
+		"intermediateResults": [85, 3315]
+	},
+	{
+		"numbers": [9, 37, 79],
+		"operations": ["add", "add"],
+		"answer": 125,
+		"intermediateResults": [46, 125]
+	},
+	{
+		"numbers": [18, 12, 78, 15, 10],
+		"operations": ["subtract", "multiply", "add", "add"],
+		"answer": 493,
+		"intermediateResults": [6, 468, 483, 493]
+	},
+	{
+		"numbers": [41, 95, 95, 34, 57, 89],
+		"operations": ["subtract", "multiply", "add", "multiply", "subtract"],
+		"answer": -290561,
+		"intermediateResults": [-54, -5130, -5096, -290472, -290561]
+	},
+	{
+		"numbers": [39, 85, 40, 40, 51, 1],
+		"operations": ["multiply", "multiply", "add", "multiply", "add"],
+		"answer": 6764641,
+		"intermediateResults": [3315, 132600, 132640, 6764640, 6764641]
+	},
+	{
+		"numbers": [92, 17, 25, 21, 50, 83, 79, 46],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 7868275,
+		"intermediateResults": [75, 1875, 1896, 94800, 7868400, 7868321, 7868275]
+	},
+	{
+		"numbers": [38, 79, 98],
+		"operations": ["subtract", "subtract"],
+		"answer": -139,
+		"intermediateResults": [-41, -139]
+	},
+	{
+		"numbers": [11, 59, 54, 100, 21, 23],
+		"operations": ["subtract", "add", "multiply", "subtract", "subtract"],
+		"answer": 556,
+		"intermediateResults": [-48, 6, 600, 579, 556]
+	},
+	{
+		"numbers": [76, 50, 15, 70, 81, 40, 8, 20],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"add",
+			"add",
+			"multiply",
+			"multiply"
+		],
+		"answer": 636160,
+		"intermediateResults": [3800, 3785, 3855, 3936, 3976, 31808, 636160]
+	},
+	{
+		"numbers": [25, 69, 46, 65, 72, 66, 16, 21],
+		"operations": ["add", "add", "add", "add", "subtract", "add", "subtract"],
+		"answer": 206,
+		"intermediateResults": [94, 140, 205, 277, 211, 227, 206]
+	},
+	{
+		"numbers": [27, 73, 36, 58],
+		"operations": ["subtract", "add", "subtract"],
+		"answer": -68,
+		"intermediateResults": [-46, -10, -68]
+	},
+	{
+		"numbers": [52, 60, 92, 21, 32, 40, 65],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": -137,
+		"intermediateResults": [112, 20, -1, -32, -72, -137]
+	},
+	{
+		"numbers": [81, 87, 24, 95, 65, 81],
+		"operations": ["multiply", "add", "add", "multiply", "add"],
+		"answer": 465871,
+		"intermediateResults": [7047, 7071, 7166, 465790, 465871]
+	},
+	{
+		"numbers": [76, 93, 7, 46, 47, 78, 35, 85],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": 84970,
+		"intermediateResults": [169, 1183, 1137, 1090, 85020, 85055, 84970]
+	},
+	{
+		"numbers": [51, 97, 15, 83, 93],
+		"operations": ["add", "add", "multiply", "add"],
+		"answer": 13622,
+		"intermediateResults": [148, 163, 13529, 13622]
+	},
+	{
+		"numbers": [58, 14, 60, 4, 79, 76, 61],
+		"operations": ["subtract", "add", "add", "add", "add", "subtract"],
+		"answer": 202,
+		"intermediateResults": [44, 104, 108, 187, 263, 202]
+	},
+	{
+		"numbers": [96, 93, 2, 55, 61, 58],
+		"operations": ["subtract", "add", "add", "multiply", "subtract"],
+		"answer": 3602,
+		"intermediateResults": [3, 5, 60, 3660, 3602]
+	},
+	{
+		"numbers": [17, 4, 53, 3],
+		"operations": ["multiply", "add", "add"],
+		"answer": 124,
+		"intermediateResults": [68, 121, 124]
+	},
+	{
+		"numbers": [15, 69, 74, 25, 28],
+		"operations": ["subtract", "multiply", "multiply", "multiply"],
+		"answer": -2797200,
+		"intermediateResults": [-54, -3996, -99900, -2797200]
+	},
+	{
+		"numbers": [27, 7, 46, 46, 93],
+		"operations": ["subtract", "subtract", "subtract", "subtract"],
+		"answer": -165,
+		"intermediateResults": [20, -26, -72, -165]
+	},
+	{
+		"numbers": [40, 44, 18, 78, 89, 2, 37, 34],
+		"operations": [
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply"
+		],
+		"answer": 58752,
+		"intermediateResults": [1760, 1778, 1856, 1767, 1765, 1728, 58752]
+	},
+	{
+		"numbers": [83, 34, 71, 85, 33],
+		"operations": ["add", "multiply", "multiply", "subtract"],
+		"answer": 706062,
+		"intermediateResults": [117, 8307, 706095, 706062]
+	},
+	{
+		"numbers": [47, 74, 29],
+		"operations": ["multiply", "add"],
+		"answer": 3507,
+		"intermediateResults": [3478, 3507]
+	},
+	{
+		"numbers": [89, 24, 50, 1, 86, 48, 46],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": -3454,
+		"intermediateResults": [65, 15, 15, -71, -3408, -3454]
+	},
+	{
+		"numbers": [61, 24, 64, 5, 39, 30, 62, 54],
+		"operations": [
+			"multiply",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"add"
+		],
+		"answer": 44636,
+		"intermediateResults": [1464, 1528, 1523, 1484, 44520, 44582, 44636]
+	},
+	{
+		"numbers": [5, 81, 15],
+		"operations": ["add", "subtract"],
+		"answer": 71,
+		"intermediateResults": [86, 71]
+	},
+	{
+		"numbers": [12, 28, 63, 53, 28, 58, 57, 9],
+		"operations": [
+			"add",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": -34124,
+		"intermediateResults": [40, -23, -1219, -34132, -34190, -34133, -34124]
+	},
+	{
+		"numbers": [11, 88, 99, 83, 71],
+		"operations": ["add", "add", "add", "subtract"],
+		"answer": 210,
+		"intermediateResults": [99, 198, 281, 210]
+	},
+	{
+		"numbers": [36, 81, 97, 38, 8, 22, 41, 60],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 11594084,
+		"intermediateResults": [
+			2916, 282852, 282814, 282806, 282784, 11594144, 11594084
+		]
+	},
+	{
+		"numbers": [5, 48, 81, 78, 40, 97, 64],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"add"
+		],
+		"answer": 19173,
+		"intermediateResults": [240, 159, 237, 197, 19109, 19173]
+	},
+	{
+		"numbers": [55, 49, 87, 92, 86, 35],
+		"operations": ["subtract", "add", "subtract", "add", "multiply"],
+		"answer": 3045,
+		"intermediateResults": [6, 93, 1, 87, 3045]
+	},
+	{
+		"numbers": [17, 56, 63, 94],
+		"operations": ["add", "multiply", "add"],
+		"answer": 4693,
+		"intermediateResults": [73, 4599, 4693]
+	},
+	{
+		"numbers": [40, 95, 66, 70],
+		"operations": ["subtract", "multiply", "subtract"],
+		"answer": -3700,
+		"intermediateResults": [-55, -3630, -3700]
+	},
+	{
+		"numbers": [92, 70, 39, 95, 59, 12],
+		"operations": ["subtract", "multiply", "multiply", "subtract", "add"],
+		"answer": 81463,
+		"intermediateResults": [22, 858, 81510, 81451, 81463]
+	},
+	{
+		"numbers": [77, 35, 8, 88, 78, 48, 71, 61],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 14729315,
+		"intermediateResults": [42, 50, 4400, 4322, 207456, 14729376, 14729315]
+	},
+	{
+		"numbers": [18, 92, 40, 76, 26, 68, 24],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": -14712,
+		"intermediateResults": [-74, -114, -190, -216, -14688, -14712]
+	},
+	{
+		"numbers": [55, 6, 98],
+		"operations": ["multiply", "add"],
+		"answer": 428,
+		"intermediateResults": [330, 428]
+	},
+	{
+		"numbers": [46, 64, 31, 36, 98, 26],
+		"operations": ["multiply", "multiply", "multiply", "subtract", "multiply"],
+		"answer": 85420556,
+		"intermediateResults": [2944, 91264, 3285504, 3285406, 85420556]
+	},
+	{
+		"numbers": [8, 50, 47, 75, 54],
+		"operations": ["subtract", "multiply", "subtract", "multiply"],
+		"answer": -110646,
+		"intermediateResults": [-42, -1974, -2049, -110646]
+	},
+	{
+		"numbers": [30, 56, 84, 6, 32],
+		"operations": ["subtract", "add", "multiply", "multiply"],
+		"answer": 11136,
+		"intermediateResults": [-26, 58, 348, 11136]
+	},
+	{
+		"numbers": [22, 80, 9],
+		"operations": ["subtract", "multiply"],
+		"answer": -522,
+		"intermediateResults": [-58, -522]
+	},
+	{
+		"numbers": [20, 74, 1],
+		"operations": ["add", "add"],
+		"answer": 95,
+		"intermediateResults": [94, 95]
+	},
+	{
+		"numbers": [99, 78, 36, 90, 97, 55, 41],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": 497624,
+		"intermediateResults": [21, 57, 5130, 497610, 497665, 497624]
+	},
+	{
+		"numbers": [64, 59, 65, 32, 100, 13, 22, 16],
+		"operations": [
+			"multiply",
+			"add",
+			"add",
+			"add",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": 51655,
+		"intermediateResults": [3776, 3841, 3873, 3973, 51649, 51671, 51655]
+	},
+	{
+		"numbers": [65, 7, 29],
+		"operations": ["add", "subtract"],
+		"answer": 43,
+		"intermediateResults": [72, 43]
+	},
+	{
+		"numbers": [23, 53, 71, 94],
+		"operations": ["subtract", "add", "multiply"],
+		"answer": 3854,
+		"intermediateResults": [-30, 41, 3854]
+	},
+	{
+		"numbers": [27, 93, 99],
+		"operations": ["subtract", "subtract"],
+		"answer": -165,
+		"intermediateResults": [-66, -165]
+	},
+	{
+		"numbers": [5, 4, 60, 41, 59],
+		"operations": ["subtract", "add", "multiply", "multiply"],
+		"answer": 147559,
+		"intermediateResults": [1, 61, 2501, 147559]
+	},
+	{
+		"numbers": [95, 1, 32],
+		"operations": ["add", "add"],
+		"answer": 128,
+		"intermediateResults": [96, 128]
+	},
+	{
+		"numbers": [42, 92, 2, 90, 6, 14, 20],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": -25954,
+		"intermediateResults": [-50, -48, -4320, -25920, -25934, -25954]
+	},
+	{
+		"numbers": [72, 93, 80, 100, 4, 43],
+		"operations": ["subtract", "multiply", "multiply", "subtract", "subtract"],
+		"answer": -168047,
+		"intermediateResults": [-21, -1680, -168000, -168004, -168047]
+	},
+	{
+		"numbers": [11, 12, 9],
+		"operations": ["add", "multiply"],
+		"answer": 207,
+		"intermediateResults": [23, 207]
+	},
+	{
+		"numbers": [80, 73, 20, 21, 23],
+		"operations": ["add", "subtract", "subtract", "add"],
+		"answer": 135,
+		"intermediateResults": [153, 133, 112, 135]
+	},
+	{
+		"numbers": [56, 20, 11],
+		"operations": ["add", "multiply"],
+		"answer": 836,
+		"intermediateResults": [76, 836]
+	},
+	{
+		"numbers": [46, 64, 86, 17, 71, 23],
+		"operations": ["multiply", "subtract", "subtract", "add", "multiply"],
+		"answer": 66976,
+		"intermediateResults": [2944, 2858, 2841, 2912, 66976]
+	},
+	{
+		"numbers": [28, 36, 9, 44, 85, 73],
+		"operations": ["multiply", "subtract", "multiply", "subtract", "subtract"],
+		"answer": 43798,
+		"intermediateResults": [1008, 999, 43956, 43871, 43798]
+	},
+	{
+		"numbers": [34, 6, 49, 65, 25, 2, 11],
+		"operations": ["subtract", "add", "add", "multiply", "add", "multiply"],
+		"answer": 39072,
+		"intermediateResults": [28, 77, 142, 3550, 3552, 39072]
+	},
+	{
+		"numbers": [96, 32, 50],
+		"operations": ["add", "multiply"],
+		"answer": 6400,
+		"intermediateResults": [128, 6400]
+	},
+	{
+		"numbers": [21, 70, 51, 8],
+		"operations": ["add", "subtract", "multiply"],
+		"answer": 320,
+		"intermediateResults": [91, 40, 320]
+	},
+	{
+		"numbers": [49, 76, 28, 41, 90],
+		"operations": ["add", "subtract", "multiply", "add"],
+		"answer": 4067,
+		"intermediateResults": [125, 97, 3977, 4067]
+	},
+	{
+		"numbers": [91, 2, 52, 69, 73, 13],
+		"operations": ["add", "add", "multiply", "add", "multiply"],
+		"answer": 131014,
+		"intermediateResults": [93, 145, 10005, 10078, 131014]
+	},
+	{
+		"numbers": [48, 8, 100, 100, 14],
+		"operations": ["add", "add", "subtract", "subtract"],
+		"answer": 42,
+		"intermediateResults": [56, 156, 56, 42]
+	},
+	{
+		"numbers": [79, 44, 75, 62, 13, 99, 11],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 6895,
+		"intermediateResults": [35, 110, 6820, 6807, 6906, 6895]
+	},
+	{
+		"numbers": [100, 96, 78, 13, 14],
+		"operations": ["multiply", "add", "multiply", "multiply"],
+		"answer": 1761396,
+		"intermediateResults": [9600, 9678, 125814, 1761396]
+	},
+	{
+		"numbers": [27, 38, 22, 26, 50, 74, 71, 25],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": -19981775,
+		"intermediateResults": [
+			-11, -242, -216, -10800, -799200, -799271, -19981775
+		]
+	},
+	{
+		"numbers": [88, 100, 16, 62, 37, 71, 17],
+		"operations": ["multiply", "add", "multiply", "add", "multiply", "add"],
+		"answer": 38810676,
+		"intermediateResults": [8800, 8816, 546592, 546629, 38810659, 38810676]
+	},
+	{
+		"numbers": [10, 76, 31, 83, 12],
+		"operations": ["subtract", "add", "multiply", "subtract"],
+		"answer": -2917,
+		"intermediateResults": [-66, -35, -2905, -2917]
+	},
+	{
+		"numbers": [87, 85, 15, 23],
+		"operations": ["multiply", "multiply", "subtract"],
+		"answer": 110902,
+		"intermediateResults": [7395, 110925, 110902]
+	},
+	{
+		"numbers": [18, 31, 75],
+		"operations": ["multiply", "subtract"],
+		"answer": 483,
+		"intermediateResults": [558, 483]
+	},
+	{
+		"numbers": [87, 8, 71, 15, 67, 54, 76],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 699,
+		"intermediateResults": [696, 625, 610, 677, 623, 699]
+	},
+	{
+		"numbers": [65, 40, 58, 12, 22],
+		"operations": ["multiply", "multiply", "subtract", "add"],
+		"answer": 150810,
+		"intermediateResults": [2600, 150800, 150788, 150810]
+	},
+	{
+		"numbers": [54, 91, 1, 98, 20, 98, 14, 44],
+		"operations": [
+			"subtract",
+			"add",
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": 2,
+		"intermediateResults": [-37, -36, 62, 42, -56, -42, 2]
+	},
+	{
+		"numbers": [20, 33, 84, 79, 13, 37],
+		"operations": ["multiply", "add", "multiply", "subtract", "multiply"],
+		"answer": 2174231,
+		"intermediateResults": [660, 744, 58776, 58763, 2174231]
+	},
+	{
+		"numbers": [21, 81, 24, 57, 91, 45],
+		"operations": ["subtract", "add", "subtract", "add", "subtract"],
+		"answer": -47,
+		"intermediateResults": [-60, -36, -93, -2, -47]
+	},
+	{
+		"numbers": [54, 97, 98, 24],
+		"operations": ["add", "multiply", "add"],
+		"answer": 14822,
+		"intermediateResults": [151, 14798, 14822]
+	},
+	{
+		"numbers": [40, 91, 84, 67, 45, 15],
+		"operations": ["subtract", "add", "multiply", "add", "add"],
+		"answer": 2271,
+		"intermediateResults": [-51, 33, 2211, 2256, 2271]
+	},
+	{
+		"numbers": [45, 49, 85, 48, 85, 98, 32],
+		"operations": [
+			"add",
+			"add",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 71571328,
+		"intermediateResults": [94, 179, 8592, 730320, 71571360, 71571328]
+	},
+	{
+		"numbers": [74, 72, 48, 40, 74],
+		"operations": ["subtract", "subtract", "subtract", "add"],
+		"answer": -12,
+		"intermediateResults": [2, -46, -86, -12]
+	},
+	{
+		"numbers": [20, 8, 33, 32],
+		"operations": ["multiply", "subtract", "multiply"],
+		"answer": 4064,
+		"intermediateResults": [160, 127, 4064]
+	},
+	{
+		"numbers": [99, 99, 92, 41, 18, 44],
+		"operations": ["add", "add", "subtract", "multiply", "subtract"],
+		"answer": 4438,
+		"intermediateResults": [198, 290, 249, 4482, 4438]
+	},
+	{
+		"numbers": [90, 31, 76, 88],
+		"operations": ["multiply", "add", "subtract"],
+		"answer": 2778,
+		"intermediateResults": [2790, 2866, 2778]
+	},
+	{
+		"numbers": [81, 48, 30, 6, 84, 23, 56, 34],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 228004,
+		"intermediateResults": [33, 63, 378, 294, 6762, 6706, 228004]
+	},
+	{
+		"numbers": [26, 1, 64, 78],
+		"operations": ["subtract", "add", "add"],
+		"answer": 167,
+		"intermediateResults": [25, 89, 167]
+	},
+	{
+		"numbers": [66, 40, 71, 92, 54, 100, 84],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": 2554,
+		"intermediateResults": [26, -45, 47, 2538, 2638, 2554]
+	},
+	{
+		"numbers": [62, 39, 68, 82, 32, 26, 94, 1],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 72507,
+		"intermediateResults": [2418, 2350, 2268, 72576, 72602, 72508, 72507]
+	},
+	{
+		"numbers": [31, 34, 62, 75, 94, 85],
+		"operations": ["add", "subtract", "add", "subtract", "add"],
+		"answer": 69,
+		"intermediateResults": [65, 3, 78, -16, 69]
+	},
+	{
+		"numbers": [74, 68, 89],
+		"operations": ["add", "subtract"],
+		"answer": 53,
+		"intermediateResults": [142, 53]
+	},
+	{
+		"numbers": [8, 76, 27],
+		"operations": ["subtract", "add"],
+		"answer": -41,
+		"intermediateResults": [-68, -41]
+	},
+	{
+		"numbers": [26, 20, 50, 8, 96, 40, 11, 46],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 67,
+		"intermediateResults": [46, -4, -12, 84, 124, 113, 67]
+	},
+	{
+		"numbers": [86, 35, 95],
+		"operations": ["subtract", "multiply"],
+		"answer": 4845,
+		"intermediateResults": [51, 4845]
+	},
+	{
+		"numbers": [39, 28, 39, 90],
+		"operations": ["multiply", "multiply", "subtract"],
+		"answer": 42498,
+		"intermediateResults": [1092, 42588, 42498]
+	},
+	{
+		"numbers": [24, 23, 11, 94, 36, 8],
+		"operations": ["multiply", "subtract", "subtract", "multiply", "subtract"],
+		"answer": 16084,
+		"intermediateResults": [552, 541, 447, 16092, 16084]
+	},
+	{
+		"numbers": [50, 76, 74],
+		"operations": ["multiply", "subtract"],
+		"answer": 3726,
+		"intermediateResults": [3800, 3726]
+	},
+	{
+		"numbers": [33, 56, 38],
+		"operations": ["subtract", "add"],
+		"answer": 15,
+		"intermediateResults": [-23, 15]
+	},
+	{
+		"numbers": [46, 35, 21, 92, 84, 42],
+		"operations": ["subtract", "subtract", "multiply", "add", "add"],
+		"answer": -794,
+		"intermediateResults": [11, -10, -920, -836, -794]
+	},
+	{
+		"numbers": [84, 76, 68, 9, 92, 30, 21],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": 365553720,
+		"intermediateResults": [6384, 6316, 6307, 580244, 17407320, 365553720]
+	},
+	{
+		"numbers": [56, 21, 6],
+		"operations": ["add", "add"],
+		"answer": 83,
+		"intermediateResults": [77, 83]
+	},
+	{
+		"numbers": [13, 34, 33, 90, 84, 8, 42],
+		"operations": ["add", "subtract", "subtract", "add", "add", "multiply"],
+		"answer": 672,
+		"intermediateResults": [47, 14, -76, 8, 16, 672]
+	},
+	{
+		"numbers": [16, 72, 24],
+		"operations": ["add", "subtract"],
+		"answer": 64,
+		"intermediateResults": [88, 64]
+	},
+	{
+		"numbers": [44, 48, 20, 14, 86, 39, 45, 26],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": -1144,
+		"intermediateResults": [-4, -80, -1120, -1034, -1073, -1118, -1144]
+	},
+	{
+		"numbers": [81, 79, 28, 52, 11],
+		"operations": ["add", "multiply", "subtract", "multiply"],
+		"answer": 48708,
+		"intermediateResults": [160, 4480, 4428, 48708]
+	},
+	{
+		"numbers": [13, 43, 9, 6, 96, 85],
+		"operations": ["multiply", "subtract", "multiply", "subtract", "subtract"],
+		"answer": 3119,
+		"intermediateResults": [559, 550, 3300, 3204, 3119]
+	},
+	{
+		"numbers": [46, 37, 60, 23, 67],
+		"operations": ["multiply", "add", "subtract", "subtract"],
+		"answer": 1672,
+		"intermediateResults": [1702, 1762, 1739, 1672]
+	},
+	{
+		"numbers": [2, 89, 16],
+		"operations": ["subtract", "add"],
+		"answer": -71,
+		"intermediateResults": [-87, -71]
+	},
+	{
+		"numbers": [11, 16, 76, 9, 56, 57, 20, 48],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 13300,
+		"intermediateResults": [176, 13376, 13367, 13311, 13368, 13348, 13300]
+	},
+	{
+		"numbers": [5, 93, 17, 43],
+		"operations": ["add", "add", "multiply"],
+		"answer": 4945,
+		"intermediateResults": [98, 115, 4945]
+	},
+	{
+		"numbers": [46, 42, 72, 94],
+		"operations": ["subtract", "multiply", "add"],
+		"answer": 382,
+		"intermediateResults": [4, 288, 382]
+	},
+	{
+		"numbers": [46, 24, 97, 70, 6, 11, 12],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 70473,
+		"intermediateResults": [1104, 1007, 70490, 70496, 70485, 70473]
+	},
+	{
+		"numbers": [76, 26, 13, 13, 4, 30],
+		"operations": ["add", "subtract", "subtract", "multiply", "subtract"],
+		"answer": 274,
+		"intermediateResults": [102, 89, 76, 304, 274]
+	},
+	{
+		"numbers": [28, 69, 13, 42, 84, 18, 35],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 52861,
+		"intermediateResults": [97, 1261, 52962, 52878, 52896, 52861]
+	},
+	{
+		"numbers": [73, 15, 81, 7, 20, 92],
+		"operations": ["subtract", "subtract", "multiply", "add", "multiply"],
+		"answer": -12972,
+		"intermediateResults": [58, -23, -161, -141, -12972]
+	},
+	{
+		"numbers": [28, 81, 29, 58],
+		"operations": ["multiply", "add", "multiply"],
+		"answer": 133226,
+		"intermediateResults": [2268, 2297, 133226]
+	},
+	{
+		"numbers": [39, 72, 65],
+		"operations": ["subtract", "subtract"],
+		"answer": -98,
+		"intermediateResults": [-33, -98]
+	},
+	{
+		"numbers": [94, 2, 86, 98, 18, 60, 62],
+		"operations": [
+			"multiply",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 1609978,
+		"intermediateResults": [188, 274, 26852, 26834, 1610040, 1609978]
+	},
+	{
+		"numbers": [53, 4, 69, 29, 4, 52, 76, 36],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"subtract"
+		],
+		"answer": 47,
+		"intermediateResults": [57, -12, -41, -45, 7, 83, 47]
+	},
+	{
+		"numbers": [81, 55, 94, 19, 51, 71, 2],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply"
+		],
+		"answer": 34498474,
+		"intermediateResults": [136, 12784, 242896, 242947, 17249237, 34498474]
+	},
+	{
+		"numbers": [68, 65, 25, 84, 99, 72],
+		"operations": ["subtract", "add", "add", "multiply", "add"],
+		"answer": 11160,
+		"intermediateResults": [3, 28, 112, 11088, 11160]
+	},
+	{
+		"numbers": [15, 51, 33, 11],
+		"operations": ["multiply", "add", "add"],
+		"answer": 809,
+		"intermediateResults": [765, 798, 809]
+	},
+	{
+		"numbers": [37, 40, 38, 8, 2, 17, 33, 17],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": 536265510,
+		"intermediateResults": [
+			1480, 56240, 56232, 56230, 955910, 31545030, 536265510
+		]
+	},
+	{
+		"numbers": [43, 63, 24, 21, 90, 27, 54],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply"
+		],
+		"answer": 3547314,
+		"intermediateResults": [106, 2544, 2523, 2433, 65691, 3547314]
+	},
+	{
+		"numbers": [86, 80, 94, 55, 28, 65, 19],
+		"operations": ["multiply", "add", "add", "add", "multiply", "multiply"],
+		"answer": 8715395,
+		"intermediateResults": [6880, 6974, 7029, 7057, 458705, 8715395]
+	},
+	{
+		"numbers": [95, 22, 54, 16, 92],
+		"operations": ["subtract", "subtract", "subtract", "multiply"],
+		"answer": 276,
+		"intermediateResults": [73, 19, 3, 276]
+	},
+	{
+		"numbers": [11, 37, 15, 23, 36],
+		"operations": ["multiply", "multiply", "subtract", "add"],
+		"answer": 6118,
+		"intermediateResults": [407, 6105, 6082, 6118]
+	},
+	{
+		"numbers": [94, 99, 71, 40],
+		"operations": ["multiply", "add", "multiply"],
+		"answer": 375080,
+		"intermediateResults": [9306, 9377, 375080]
+	},
+	{
+		"numbers": [54, 5, 65, 91, 58, 37, 17],
+		"operations": ["add", "multiply", "add", "subtract", "multiply", "add"],
+		"answer": 143133,
+		"intermediateResults": [59, 3835, 3926, 3868, 143116, 143133]
+	},
+	{
+		"numbers": [87, 42, 51, 83, 22, 93],
+		"operations": ["add", "add", "add", "multiply", "add"],
+		"answer": 5879,
+		"intermediateResults": [129, 180, 263, 5786, 5879]
+	},
+	{
+		"numbers": [67, 98, 76, 15],
+		"operations": ["multiply", "subtract", "add"],
+		"answer": 6505,
+		"intermediateResults": [6566, 6490, 6505]
+	},
+	{
+		"numbers": [15, 78, 53, 88, 70],
+		"operations": ["multiply", "subtract", "add", "multiply"],
+		"answer": 84350,
+		"intermediateResults": [1170, 1117, 1205, 84350]
+	},
+	{
+		"numbers": [32, 84, 13, 60, 70, 16, 31, 19],
+		"operations": [
+			"multiply",
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 11344166,
+		"intermediateResults": [
+			2688, 2701, 162060, 11344200, 11344216, 11344185, 11344166
+		]
+	},
+	{
+		"numbers": [54, 15, 64, 7, 65],
+		"operations": ["multiply", "add", "add", "subtract"],
+		"answer": 816,
+		"intermediateResults": [810, 874, 881, 816]
+	},
+	{
+		"numbers": [67, 46, 74, 86],
+		"operations": ["subtract", "multiply", "subtract"],
+		"answer": 1468,
+		"intermediateResults": [21, 1554, 1468]
+	},
+	{
+		"numbers": [95, 6, 91, 73, 4, 57, 56, 61],
+		"operations": [
+			"add",
+			"add",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply",
+			"add"
+		],
+		"answer": 56229,
+		"intermediateResults": [101, 192, 265, 1060, 1003, 56168, 56229]
+	},
+	{
+		"numbers": [98, 8, 26, 60, 36],
+		"operations": ["subtract", "subtract", "subtract", "add"],
+		"answer": 40,
+		"intermediateResults": [90, 64, 4, 40]
+	},
+	{
+		"numbers": [48, 51, 11, 48, 98, 55, 92, 23],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": 2643708,
+		"intermediateResults": [
+			2448, 26928, 26976, 2643648, 2643593, 2643685, 2643708
+		]
+	},
+	{
+		"numbers": [71, 16, 41, 23, 29],
+		"operations": ["subtract", "add", "multiply", "subtract"],
+		"answer": 2179,
+		"intermediateResults": [55, 96, 2208, 2179]
+	},
+	{
+		"numbers": [5, 23, 52, 74, 77, 87, 17, 5],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 6101074,
+		"intermediateResults": [115, 63, 4662, 358974, 358887, 6101079, 6101074]
+	},
+	{
+		"numbers": [22, 56, 47, 73, 73, 25, 24],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": -1344,
+		"intermediateResults": [-34, -81, -154, -81, -56, -1344]
+	},
+	{
+		"numbers": [10, 3, 22, 96],
+		"operations": ["subtract", "add", "add"],
+		"answer": 125,
+		"intermediateResults": [7, 29, 125]
+	},
+	{
+		"numbers": [72, 48, 63, 59, 16, 50],
+		"operations": ["subtract", "subtract", "add", "add", "multiply"],
+		"answer": 1800,
+		"intermediateResults": [24, -39, 20, 36, 1800]
+	},
+	{
+		"numbers": [75, 21, 38, 70, 86, 42],
+		"operations": ["multiply", "subtract", "add", "multiply", "multiply"],
+		"answer": 5804484,
+		"intermediateResults": [1575, 1537, 1607, 138202, 5804484]
+	},
+	{
+		"numbers": [86, 8, 36, 73],
+		"operations": ["add", "multiply", "subtract"],
+		"answer": 3311,
+		"intermediateResults": [94, 3384, 3311]
+	},
+	{
+		"numbers": [62, 46, 61, 55, 68, 62, 6, 52],
+		"operations": [
+			"add",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 21197488,
+		"intermediateResults": [108, 6588, 6643, 6575, 407650, 407644, 21197488]
+	},
+	{
+		"numbers": [94, 38, 20],
+		"operations": ["add", "add"],
+		"answer": 152,
+		"intermediateResults": [132, 152]
+	},
+	{
+		"numbers": [78, 83, 27],
+		"operations": ["add", "subtract"],
+		"answer": 134,
+		"intermediateResults": [161, 134]
+	},
+	{
+		"numbers": [54, 24, 100, 15, 58, 60, 14],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 631652,
+		"intermediateResults": [30, 3000, 45000, 45058, 45118, 631652]
+	},
+	{
+		"numbers": [17, 80, 10, 30],
+		"operations": ["subtract", "multiply", "subtract"],
+		"answer": -660,
+		"intermediateResults": [-63, -630, -660]
+	},
+	{
+		"numbers": [41, 37, 34, 37, 38, 68],
+		"operations": ["multiply", "add", "subtract", "subtract", "add"],
+		"answer": 1544,
+		"intermediateResults": [1517, 1551, 1514, 1476, 1544]
+	},
+	{
+		"numbers": [31, 11, 66, 98, 39, 38, 74],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 20102470,
+		"intermediateResults": [42, 2772, 271656, 271617, 271655, 20102470]
+	},
+	{
+		"numbers": [24, 4, 19, 77, 49, 100],
+		"operations": ["add", "multiply", "multiply", "multiply", "add"],
+		"answer": 2007336,
+		"intermediateResults": [28, 532, 40964, 2007236, 2007336]
+	},
+	{
+		"numbers": [38, 63, 11],
+		"operations": ["multiply", "subtract"],
+		"answer": 2383,
+		"intermediateResults": [2394, 2383]
+	},
+	{
+		"numbers": [84, 37, 56, 69, 84],
+		"operations": ["subtract", "add", "add", "multiply"],
+		"answer": 14448,
+		"intermediateResults": [47, 103, 172, 14448]
+	},
+	{
+		"numbers": [42, 6, 60, 65, 52, 47, 46],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 146287,
+		"intermediateResults": [48, 2880, 2815, 146380, 146333, 146287]
+	},
+	{
+		"numbers": [25, 56, 52],
+		"operations": ["subtract", "multiply"],
+		"answer": -1612,
+		"intermediateResults": [-31, -1612]
+	},
+	{
+		"numbers": [100, 11, 93, 22, 3],
+		"operations": ["add", "add", "add", "multiply"],
+		"answer": 678,
+		"intermediateResults": [111, 204, 226, 678]
+	},
+	{
+		"numbers": [25, 34, 85, 64, 81, 26, 53],
+		"operations": ["subtract", "multiply", "multiply", "add", "add", "add"],
+		"answer": -48800,
+		"intermediateResults": [-9, -765, -48960, -48879, -48853, -48800]
+	},
+	{
+		"numbers": [37, 22, 51, 41, 79],
+		"operations": ["subtract", "multiply", "multiply", "multiply"],
+		"answer": 2477835,
+		"intermediateResults": [15, 765, 31365, 2477835]
+	},
+	{
+		"numbers": [11, 72, 97, 92, 25, 18, 86, 87],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"add"
+		],
+		"answer": 97611,
+		"intermediateResults": [83, 180, 88, 63, 1134, 97524, 97611]
+	},
+	{
+		"numbers": [22, 40, 80, 83, 58],
+		"operations": ["add", "add", "multiply", "multiply"],
+		"answer": 683588,
+		"intermediateResults": [62, 142, 11786, 683588]
+	},
+	{
+		"numbers": [11, 36, 20],
+		"operations": ["subtract", "subtract"],
+		"answer": -45,
+		"intermediateResults": [-25, -45]
+	},
+	{
+		"numbers": [45, 63, 22, 47, 66],
+		"operations": ["add", "add", "multiply", "add"],
+		"answer": 6176,
+		"intermediateResults": [108, 130, 6110, 6176]
+	},
+	{
+		"numbers": [51, 81, 53, 16, 29, 73, 94, 48],
+		"operations": [
+			"subtract",
+			"add",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 3958512,
+		"intermediateResults": [-30, 23, 39, 1131, 82563, 82469, 3958512]
+	},
+	{
+		"numbers": [51, 74, 41, 35],
+		"operations": ["multiply", "subtract", "subtract"],
+		"answer": 3698,
+		"intermediateResults": [3774, 3733, 3698]
+	},
+	{
+		"numbers": [76, 88, 34, 35, 89, 4, 37],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": 227371,
+		"intermediateResults": [6688, 227392, 227427, 227338, 227334, 227371]
+	},
+	{
+		"numbers": [56, 35, 45, 8, 71],
+		"operations": ["multiply", "subtract", "multiply", "multiply"],
+		"answer": 1087720,
+		"intermediateResults": [1960, 1915, 15320, 1087720]
+	},
+	{
+		"numbers": [29, 90, 87, 14, 30, 71],
+		"operations": ["multiply", "multiply", "add", "multiply", "multiply"],
+		"answer": 483688920,
+		"intermediateResults": [2610, 227070, 227084, 6812520, 483688920]
+	},
+	{
+		"numbers": [19, 58, 56, 45, 11, 76, 40],
+		"operations": ["add", "multiply", "multiply", "add", "add", "subtract"],
+		"answer": 194087,
+		"intermediateResults": [77, 4312, 194040, 194051, 194127, 194087]
+	},
+	{
+		"numbers": [83, 3, 8, 80, 83, 15],
+		"operations": ["multiply", "multiply", "add", "add", "multiply"],
+		"answer": 32325,
+		"intermediateResults": [249, 1992, 2072, 2155, 32325]
+	},
+	{
+		"numbers": [64, 25, 6, 23, 22],
+		"operations": ["multiply", "subtract", "add", "subtract"],
+		"answer": 1595,
+		"intermediateResults": [1600, 1594, 1617, 1595]
+	},
+	{
+		"numbers": [78, 60, 70, 37, 71, 81, 70, 81],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply"
+		],
+		"answer": 966270060,
+		"intermediateResults": [
+			4680, 4610, 170570, 170499, 170418, 11929260, 966270060
+		]
+	},
+	{
+		"numbers": [98, 20, 80, 16, 20, 53],
+		"operations": ["add", "subtract", "subtract", "multiply", "add"],
+		"answer": 493,
+		"intermediateResults": [118, 38, 22, 440, 493]
+	},
+	{
+		"numbers": [51, 12, 10, 4, 99],
+		"operations": ["subtract", "subtract", "multiply", "subtract"],
+		"answer": 17,
+		"intermediateResults": [39, 29, 116, 17]
+	},
+	{
+		"numbers": [53, 35, 56, 15, 57, 46, 12],
+		"operations": [
+			"add",
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply"
+		],
+		"answer": 24684,
+		"intermediateResults": [88, 144, 2160, 2103, 2057, 24684]
+	},
+	{
+		"numbers": [24, 8, 99, 75, 77, 47, 25, 76],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"add"
+		],
+		"answer": -10192,
+		"intermediateResults": [32, -67, -142, -219, -10293, -10268, -10192]
+	},
+	{
+		"numbers": [43, 79, 49, 15, 13, 76, 50],
+		"operations": ["multiply", "add", "add", "multiply", "multiply", "add"],
+		"answer": 3419518,
+		"intermediateResults": [3397, 3446, 3461, 44993, 3419468, 3419518]
+	},
+	{
+		"numbers": [37, 28, 22],
+		"operations": ["add", "subtract"],
+		"answer": 43,
+		"intermediateResults": [65, 43]
+	},
+	{
+		"numbers": [2, 40, 45, 97],
+		"operations": ["add", "subtract", "add"],
+		"answer": 94,
+		"intermediateResults": [42, -3, 94]
+	},
+	{
+		"numbers": [48, 87, 72, 83, 44, 33, 40],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": -368080,
+		"intermediateResults": [-39, -111, -9213, -9169, -9202, -368080]
+	},
+	{
+		"numbers": [51, 100, 79, 42, 81, 85],
+		"operations": ["subtract", "multiply", "subtract", "subtract", "add"],
+		"answer": -3909,
+		"intermediateResults": [-49, -3871, -3913, -3994, -3909]
+	},
+	{
+		"numbers": [91, 44, 1, 89, 75, 33, 29],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 294843,
+		"intermediateResults": [47, 47, 136, 10200, 10167, 294843]
+	},
+	{
+		"numbers": [52, 55, 79, 43, 56, 58, 18],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 17,
+		"intermediateResults": [-3, 76, 33, -23, 35, 17]
+	},
+	{
+		"numbers": [28, 66, 98, 96, 6],
+		"operations": ["multiply", "add", "add", "subtract"],
+		"answer": 2036,
+		"intermediateResults": [1848, 1946, 2042, 2036]
+	},
+	{
+		"numbers": [43, 87, 84, 94, 66, 35, 63, 51],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 190077,
+		"intermediateResults": [3741, 3657, 3563, 3629, 3664, 3727, 190077]
+	},
+	{
+		"numbers": [2, 82, 16, 24, 58],
+		"operations": ["add", "multiply", "multiply", "subtract"],
+		"answer": 32198,
+		"intermediateResults": [84, 1344, 32256, 32198]
+	},
+	{
+		"numbers": [55, 33, 90],
+		"operations": ["add", "multiply"],
+		"answer": 7920,
+		"intermediateResults": [88, 7920]
+	},
+	{
+		"numbers": [62, 24, 80],
+		"operations": ["multiply", "subtract"],
+		"answer": 1408,
+		"intermediateResults": [1488, 1408]
+	},
+	{
+		"numbers": [95, 75, 16, 3, 45, 44, 53, 64],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply"
+		],
+		"answer": 24127296,
+		"intermediateResults": [7125, 7109, 7112, 7157, 7113, 376989, 24127296]
+	},
+	{
+		"numbers": [55, 75, 86, 61, 58],
+		"operations": ["subtract", "subtract", "subtract", "multiply"],
+		"answer": -9686,
+		"intermediateResults": [-20, -106, -167, -9686]
+	},
+	{
+		"numbers": [38, 39, 55, 11, 11, 86],
+		"operations": ["multiply", "add", "add", "subtract", "add"],
+		"answer": 1623,
+		"intermediateResults": [1482, 1537, 1548, 1537, 1623]
+	},
+	{
+		"numbers": [94, 78, 29, 94, 79, 47, 32],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": 66299328,
+		"intermediateResults": [16, 464, 558, 44082, 2071854, 66299328]
+	},
+	{
+		"numbers": [36, 77, 48],
+		"operations": ["multiply", "subtract"],
+		"answer": 2724,
+		"intermediateResults": [2772, 2724]
+	},
+	{
+		"numbers": [15, 89, 77, 37, 95, 94, 92],
+		"operations": ["add", "subtract", "multiply", "multiply", "add", "add"],
+		"answer": 95091,
+		"intermediateResults": [104, 27, 999, 94905, 94999, 95091]
+	},
+	{
+		"numbers": [99, 25, 89, 11],
+		"operations": ["subtract", "multiply", "add"],
+		"answer": 6597,
+		"intermediateResults": [74, 6586, 6597]
+	},
+	{
+		"numbers": [85, 13, 45, 28],
+		"operations": ["multiply", "add", "multiply"],
+		"answer": 32200,
+		"intermediateResults": [1105, 1150, 32200]
+	},
+	{
+		"numbers": [29, 98, 91, 1, 27, 45, 37, 59],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"multiply",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 74371,
+		"intermediateResults": [2842, 2751, 2752, 74304, 74349, 74312, 74371]
+	},
+	{
+		"numbers": [63, 81, 91, 81],
+		"operations": ["add", "multiply", "subtract"],
+		"answer": 13023,
+		"intermediateResults": [144, 13104, 13023]
+	},
+	{
+		"numbers": [76, 14, 79, 81],
+		"operations": ["add", "add", "multiply"],
+		"answer": 13689,
+		"intermediateResults": [90, 169, 13689]
+	},
+	{
+		"numbers": [97, 12, 78, 94, 3, 16, 20, 81],
+		"operations": [
+			"add",
+			"multiply",
+			"add",
+			"multiply",
+			"add",
+			"multiply",
+			"add"
+		],
+		"answer": 516161,
+		"intermediateResults": [109, 8502, 8596, 25788, 25804, 516080, 516161]
+	},
+	{
+		"numbers": [49, 79, 57, 76, 51, 40],
+		"operations": ["subtract", "multiply", "add", "add", "add"],
+		"answer": -1543,
+		"intermediateResults": [-30, -1710, -1634, -1583, -1543]
+	},
+	{
+		"numbers": [51, 42, 89, 99, 67, 22],
+		"operations": ["subtract", "add", "subtract", "subtract", "multiply"],
+		"answer": -1496,
+		"intermediateResults": [9, 98, -1, -68, -1496]
+	},
+	{
+		"numbers": [56, 16, 84, 66, 41, 63, 98],
+		"operations": ["multiply", "add", "add", "multiply", "add", "multiply"],
+		"answer": 4209002,
+		"intermediateResults": [896, 980, 1046, 42886, 42949, 4209002]
+	},
+	{
+		"numbers": [14, 94, 37, 76],
+		"operations": ["subtract", "subtract", "subtract"],
+		"answer": -193,
+		"intermediateResults": [-80, -117, -193]
+	},
+	{
+		"numbers": [45, 1, 73],
+		"operations": ["multiply", "add"],
+		"answer": 118,
+		"intermediateResults": [45, 118]
+	},
+	{
+		"numbers": [86, 91, 88, 20],
+		"operations": ["add", "subtract", "add"],
+		"answer": 109,
+		"intermediateResults": [177, 89, 109]
+	},
+	{
+		"numbers": [46, 54, 23, 17, 47, 85, 1, 53],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 39284,
+		"intermediateResults": [100, 2300, 39100, 39147, 39232, 39231, 39284]
+	},
+	{
+		"numbers": [11, 25, 97, 95, 27, 3, 52],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 131776060,
+		"intermediateResults": [275, 26675, 2534125, 2534152, 2534155, 131776060]
+	},
+	{
+		"numbers": [36, 80, 65, 100],
+		"operations": ["add", "add", "add"],
+		"answer": 281,
+		"intermediateResults": [116, 181, 281]
+	},
+	{
+		"numbers": [41, 3, 61, 98],
+		"operations": ["multiply", "subtract", "subtract"],
+		"answer": -36,
+		"intermediateResults": [123, 62, -36]
+	},
+	{
+		"numbers": [17, 32, 7, 5],
+		"operations": ["multiply", "multiply", "multiply"],
+		"answer": 19040,
+		"intermediateResults": [544, 3808, 19040]
+	},
+	{
+		"numbers": [77, 25, 99, 81, 100, 16],
+		"operations": ["multiply", "add", "add", "add", "multiply"],
+		"answer": 35280,
+		"intermediateResults": [1925, 2024, 2105, 2205, 35280]
+	},
+	{
+		"numbers": [55, 100, 60, 71, 91, 90, 37, 2],
+		"operations": [
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 6781,
+		"intermediateResults": [155, 95, 6745, 6836, 6746, 6783, 6781]
+	},
+	{
+		"numbers": [16, 93, 29, 1, 59, 88, 38],
+		"operations": ["add", "subtract", "subtract", "add", "add", "subtract"],
+		"answer": 188,
+		"intermediateResults": [109, 80, 79, 138, 226, 188]
+	},
+	{
+		"numbers": [13, 20, 25, 96, 82, 82, 47],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": 6451,
+		"intermediateResults": [260, 6500, 6404, 6322, 6404, 6451]
+	},
+	{
+		"numbers": [14, 5, 2, 52, 96],
+		"operations": ["add", "add", "multiply", "subtract"],
+		"answer": 996,
+		"intermediateResults": [19, 21, 1092, 996]
+	},
+	{
+		"numbers": [12, 18, 13, 91],
+		"operations": ["add", "add", "add"],
+		"answer": 134,
+		"intermediateResults": [30, 43, 134]
+	},
+	{
+		"numbers": [42, 35, 24, 73, 97, 86],
+		"operations": ["add", "multiply", "multiply", "subtract", "multiply"],
+		"answer": 11593402,
+		"intermediateResults": [77, 1848, 134904, 134807, 11593402]
+	},
+	{
+		"numbers": [41, 33, 31, 92, 99, 98, 59],
+		"operations": ["add", "subtract", "add", "subtract", "multiply", "add"],
+		"answer": 3587,
+		"intermediateResults": [74, 43, 135, 36, 3528, 3587]
+	},
+	{
+		"numbers": [37, 9, 85, 71, 97],
+		"operations": ["add", "multiply", "subtract", "multiply"],
+		"answer": 372383,
+		"intermediateResults": [46, 3910, 3839, 372383]
+	},
+	{
+		"numbers": [43, 80, 79, 56, 10, 5, 12, 4],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"multiply"
+		],
+		"answer": -8496,
+		"intermediateResults": [-37, -116, -172, -182, -177, -2124, -8496]
+	},
+	{
+		"numbers": [84, 51, 65, 41, 48],
+		"operations": ["add", "add", "subtract", "add"],
+		"answer": 207,
+		"intermediateResults": [135, 200, 159, 207]
+	},
+	{
+		"numbers": [2, 83, 11, 61],
+		"operations": ["add", "subtract", "add"],
+		"answer": 135,
+		"intermediateResults": [85, 74, 135]
+	},
+	{
+		"numbers": [75, 65, 59, 75, 54],
+		"operations": ["subtract", "multiply", "multiply", "multiply"],
+		"answer": 2389500,
+		"intermediateResults": [10, 590, 44250, 2389500]
+	},
+	{
+		"numbers": [61, 68, 96, 1, 3, 79, 17],
+		"operations": ["add", "multiply", "add", "multiply", "multiply", "add"],
+		"answer": 2935262,
+		"intermediateResults": [129, 12384, 12385, 37155, 2935245, 2935262]
+	},
+	{
+		"numbers": [29, 62, 23, 14, 43, 56],
+		"operations": ["subtract", "multiply", "add", "add", "add"],
+		"answer": -646,
+		"intermediateResults": [-33, -759, -745, -702, -646]
+	},
+	{
+		"numbers": [91, 31, 50, 83, 22],
+		"operations": ["add", "subtract", "add", "multiply"],
+		"answer": 3410,
+		"intermediateResults": [122, 72, 155, 3410]
+	},
+	{
+		"numbers": [7, 86, 62],
+		"operations": ["multiply", "subtract"],
+		"answer": 540,
+		"intermediateResults": [602, 540]
+	},
+	{
+		"numbers": [65, 81, 46, 10, 73, 12, 81],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 1075194,
+		"intermediateResults": [146, 192, 182, 13286, 13274, 1075194]
+	},
+	{
+		"numbers": [44, 6, 57, 65, 12, 20, 89],
+		"operations": ["add", "add", "add", "add", "add", "subtract"],
+		"answer": 115,
+		"intermediateResults": [50, 107, 172, 184, 204, 115]
+	},
+	{
+		"numbers": [36, 97, 92, 8],
+		"operations": ["add", "subtract", "multiply"],
+		"answer": 328,
+		"intermediateResults": [133, 41, 328]
+	},
+	{
+		"numbers": [49, 99, 15, 48, 27, 19, 84, 42],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"add",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": -1022,
+		"intermediateResults": [-50, -35, -83, -56, -1064, -980, -1022]
+	},
+	{
+		"numbers": [1, 78, 8, 48, 92, 68],
+		"operations": ["multiply", "multiply", "multiply", "multiply", "add"],
+		"answer": 2755652,
+		"intermediateResults": [78, 624, 29952, 2755584, 2755652]
+	},
+	{
+		"numbers": [16, 71, 3, 38, 43, 69, 70, 48],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": -11708,
+		"intermediateResults": [-55, -165, -127, -170, -11730, -11660, -11708]
+	},
+	{
+		"numbers": [68, 82, 58, 76, 18],
+		"operations": ["add", "multiply", "add", "subtract"],
+		"answer": 8758,
+		"intermediateResults": [150, 8700, 8776, 8758]
+	},
+	{
+		"numbers": [89, 31, 63],
+		"operations": ["subtract", "subtract"],
+		"answer": -5,
+		"intermediateResults": [58, -5]
+	},
+	{
+		"numbers": [8, 56, 70, 30, 73, 59],
+		"operations": ["add", "subtract", "multiply", "subtract", "multiply"],
+		"answer": -14927,
+		"intermediateResults": [64, -6, -180, -253, -14927]
+	},
+	{
+		"numbers": [75, 42, 19, 99, 63, 38],
+		"operations": ["add", "add", "add", "subtract", "multiply"],
+		"answer": 6536,
+		"intermediateResults": [117, 136, 235, 172, 6536]
+	},
+	{
+		"numbers": [24, 32, 4, 97, 7, 14, 98, 58],
+		"operations": ["add", "add", "add", "subtract", "add", "subtract", "add"],
+		"answer": 124,
+		"intermediateResults": [56, 60, 157, 150, 164, 66, 124]
+	},
+	{
+		"numbers": [10, 48, 18],
+		"operations": ["multiply", "multiply"],
+		"answer": 8640,
+		"intermediateResults": [480, 8640]
+	},
+	{
+		"numbers": [57, 7, 73, 74],
+		"operations": ["add", "subtract", "subtract"],
+		"answer": -83,
+		"intermediateResults": [64, -9, -83]
+	},
+	{
+		"numbers": [33, 18, 24, 77],
+		"operations": ["add", "multiply", "add"],
+		"answer": 1301,
+		"intermediateResults": [51, 1224, 1301]
+	},
+	{
+		"numbers": [56, 53, 3, 65, 7, 30, 88],
+		"operations": ["add", "add", "add", "multiply", "multiply", "add"],
+		"answer": 37258,
+		"intermediateResults": [109, 112, 177, 1239, 37170, 37258]
+	},
+	{
+		"numbers": [48, 31, 12, 63, 85, 46, 20, 11],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 12374857,
+		"intermediateResults": [
+			1488, 17856, 1124928, 1125013, 1124967, 1124987, 12374857
+		]
+	},
+	{
+		"numbers": [82, 89, 53],
+		"operations": ["add", "multiply"],
+		"answer": 9063,
+		"intermediateResults": [171, 9063]
+	},
+	{
+		"numbers": [21, 82, 92, 56, 66, 44, 4],
+		"operations": [
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"multiply"
+		],
+		"answer": 464288,
+		"intermediateResults": [1722, 1814, 1758, 116028, 116072, 464288]
+	},
+	{
+		"numbers": [87, 91, 80, 81, 9, 60],
+		"operations": ["add", "add", "subtract", "subtract", "add"],
+		"answer": 228,
+		"intermediateResults": [178, 258, 177, 168, 228]
+	},
+	{
+		"numbers": [99, 48, 73, 41],
+		"operations": ["subtract", "subtract", "multiply"],
+		"answer": -902,
+		"intermediateResults": [51, -22, -902]
+	},
+	{
+		"numbers": [50, 70, 96, 49, 43],
+		"operations": ["multiply", "multiply", "multiply", "multiply"],
+		"answer": 707952000,
+		"intermediateResults": [3500, 336000, 16464000, 707952000]
+	},
+	{
+		"numbers": [23, 56, 90, 87, 17],
+		"operations": ["add", "multiply", "multiply", "multiply"],
+		"answer": 10515690,
+		"intermediateResults": [79, 7110, 618570, 10515690]
+	},
+	{
+		"numbers": [70, 40, 64, 42, 1, 9, 5, 48],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": 114955,
+		"intermediateResults": [2800, 2736, 114912, 114911, 114902, 114907, 114955]
+	},
+	{
+		"numbers": [68, 25, 12, 79, 22, 23, 70],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 896715,
+		"intermediateResults": [43, 516, 40764, 896808, 896785, 896715]
+	},
+	{
+		"numbers": [80, 78, 71, 25],
+		"operations": ["subtract", "multiply", "subtract"],
+		"answer": 117,
+		"intermediateResults": [2, 142, 117]
+	},
+	{
+		"numbers": [13, 30, 87, 1, 58, 33],
+		"operations": ["add", "multiply", "add", "subtract", "multiply"],
+		"answer": 121572,
+		"intermediateResults": [43, 3741, 3742, 3684, 121572]
+	},
+	{
+		"numbers": [19, 13, 70],
+		"operations": ["subtract", "multiply"],
+		"answer": 420,
+		"intermediateResults": [6, 420]
+	},
+	{
+		"numbers": [62, 1, 1, 14, 23, 43, 42],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 1065,
+		"intermediateResults": [63, 64, 50, 1150, 1107, 1065]
+	},
+	{
+		"numbers": [13, 7, 19, 10, 6, 99, 83],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": -140,
+		"intermediateResults": [6, -13, -130, -124, -223, -140]
+	},
+	{
+		"numbers": [18, 88, 1, 4, 72, 10, 57],
+		"operations": ["add", "add", "add", "subtract", "add", "multiply"],
+		"answer": 2793,
+		"intermediateResults": [106, 107, 111, 39, 49, 2793]
+	},
+	{
+		"numbers": [32, 27, 15, 89],
+		"operations": ["add", "multiply", "subtract"],
+		"answer": 796,
+		"intermediateResults": [59, 885, 796]
+	},
+	{
+		"numbers": [79, 20, 68, 11, 69, 99],
+		"operations": ["add", "multiply", "subtract", "multiply", "multiply"],
+		"answer": 45911151,
+		"intermediateResults": [99, 6732, 6721, 463749, 45911151]
+	},
+	{
+		"numbers": [98, 27, 8, 47, 86, 86, 57, 32],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"multiply"
+		],
+		"answer": 67872,
+		"intermediateResults": [71, 63, 110, 24, 2064, 2121, 67872]
+	},
+	{
+		"numbers": [44, 63, 21, 98, 25],
+		"operations": ["add", "subtract", "add", "subtract"],
+		"answer": 159,
+		"intermediateResults": [107, 86, 184, 159]
+	},
+	{
+		"numbers": [10, 78, 6],
+		"operations": ["subtract", "multiply"],
+		"answer": -408,
+		"intermediateResults": [-68, -408]
+	},
+	{
+		"numbers": [14, 11, 66, 21, 27, 59, 77],
+		"operations": ["add", "add", "subtract", "multiply", "add", "subtract"],
+		"answer": 1872,
+		"intermediateResults": [25, 91, 70, 1890, 1949, 1872]
+	},
+	{
+		"numbers": [22, 98, 1],
+		"operations": ["multiply", "multiply"],
+		"answer": 2156,
+		"intermediateResults": [2156, 2156]
+	},
+	{
+		"numbers": [52, 1, 86, 8, 88, 21, 56, 55],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 48161,
+		"intermediateResults": [51, 137, 129, 41, 861, 48216, 48161]
+	},
+	{
+		"numbers": [67, 89, 28, 73],
+		"operations": ["add", "add", "add"],
+		"answer": 257,
+		"intermediateResults": [156, 184, 257]
+	},
+	{
+		"numbers": [33, 3, 21, 57],
+		"operations": ["add", "subtract", "multiply"],
+		"answer": 855,
+		"intermediateResults": [36, 15, 855]
+	},
+	{
+		"numbers": [3, 11, 38, 69, 76, 27, 47],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": 2218212,
+		"intermediateResults": [-8, -46, 23, 1748, 47196, 2218212]
+	},
+	{
+		"numbers": [69, 80, 52, 95, 17],
+		"operations": ["multiply", "subtract", "subtract", "multiply"],
+		"answer": 91341,
+		"intermediateResults": [5520, 5468, 5373, 91341]
+	},
+	{
+		"numbers": [34, 34, 53, 62, 93, 78],
+		"operations": ["add", "multiply", "add", "add", "multiply"],
+		"answer": 293202,
+		"intermediateResults": [68, 3604, 3666, 3759, 293202]
+	},
+	{
+		"numbers": [38, 66, 42, 56, 91, 9, 60, 99],
+		"operations": [
+			"subtract",
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": -348,
+		"intermediateResults": [-28, 14, 70, -21, -189, -249, -348]
+	},
+	{
+		"numbers": [36, 69, 71, 46, 83, 37, 59, 87],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 16354949,
+		"intermediateResults": [105, 7455, 7409, 7492, 277204, 16355036, 16354949]
+	},
+	{
+		"numbers": [9, 49, 8, 16, 89, 81],
+		"operations": ["add", "multiply", "subtract", "multiply", "subtract"],
+		"answer": 39791,
+		"intermediateResults": [58, 464, 448, 39872, 39791]
+	},
+	{
+		"numbers": [79, 93, 70, 68, 100],
+		"operations": ["multiply", "subtract", "subtract", "multiply"],
+		"answer": 720900,
+		"intermediateResults": [7347, 7277, 7209, 720900]
+	},
+	{
+		"numbers": [70, 62, 26, 9, 21, 98],
+		"operations": ["multiply", "multiply", "subtract", "multiply", "add"],
+		"answer": 2369549,
+		"intermediateResults": [4340, 112840, 112831, 2369451, 2369549]
+	},
+	{
+		"numbers": [80, 20, 47, 18, 78, 55, 64, 54],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply"
+		],
+		"answer": 5508864,
+		"intermediateResults": [1600, 1553, 1571, 1649, 1594, 102016, 5508864]
+	},
+	{
+		"numbers": [94, 36, 49, 68, 52, 22, 64],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": 193118,
+		"intermediateResults": [58, 2842, 193256, 193204, 193182, 193118]
+	},
+	{
+		"numbers": [34, 82, 2, 74, 72, 22],
+		"operations": ["multiply", "subtract", "subtract", "multiply", "subtract"],
+		"answer": 195242,
+		"intermediateResults": [2788, 2786, 2712, 195264, 195242]
+	},
+	{
+		"numbers": [65, 64, 100, 82, 94, 59, 7, 84],
+		"operations": [
+			"multiply",
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"multiply"
+		],
+		"answer": 2436084,
+		"intermediateResults": [4160, 4260, 4178, 4084, 4143, 29001, 2436084]
+	},
+	{
+		"numbers": [96, 71, 25, 52, 65, 31, 73, 29],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"add",
+			"add",
+			"multiply",
+			"add"
+		],
+		"answer": 506576,
+		"intermediateResults": [6816, 6791, 6843, 6908, 6939, 506547, 506576]
+	},
+	{
+		"numbers": [36, 31, 80, 18, 88, 29],
+		"operations": ["subtract", "multiply", "multiply", "multiply", "multiply"],
+		"answer": 18374400,
+		"intermediateResults": [5, 400, 7200, 633600, 18374400]
+	},
+	{
+		"numbers": [88, 98, 40, 14, 23, 81, 47],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": -33798546,
+		"intermediateResults": [-10, -400, -386, -8878, -719118, -33798546]
+	},
+	{
+		"numbers": [77, 28, 62, 8],
+		"operations": ["add", "multiply", "subtract"],
+		"answer": 6502,
+		"intermediateResults": [105, 6510, 6502]
+	},
+	{
+		"numbers": [13, 2, 65, 65, 64, 66, 66],
+		"operations": ["subtract", "add", "add", "add", "multiply", "multiply"],
+		"answer": 892980,
+		"intermediateResults": [11, 76, 141, 205, 13530, 892980]
+	},
+	{
+		"numbers": [88, 81, 54],
+		"operations": ["add", "add"],
+		"answer": 223,
+		"intermediateResults": [169, 223]
+	},
+	{
+		"numbers": [90, 48, 52],
+		"operations": ["subtract", "multiply"],
+		"answer": 2184,
+		"intermediateResults": [42, 2184]
+	},
+	{
+		"numbers": [58, 32, 5, 35],
+		"operations": ["subtract", "subtract", "multiply"],
+		"answer": 735,
+		"intermediateResults": [26, 21, 735]
+	},
+	{
+		"numbers": [35, 9, 80, 4, 80, 47],
+		"operations": ["multiply", "subtract", "multiply", "subtract", "multiply"],
+		"answer": 40420,
+		"intermediateResults": [315, 235, 940, 860, 40420]
+	},
+	{
+		"numbers": [29, 16, 16, 9, 69, 22, 94, 5],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 6482,
+		"intermediateResults": [45, 720, 6480, 6549, 6571, 6477, 6482]
+	},
+	{
+		"numbers": [51, 91, 95, 35, 88, 57, 7, 5],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": -375060,
+		"intermediateResults": [-40, -135, -100, -188, -10716, -75012, -375060]
+	},
+	{
+		"numbers": [64, 53, 16, 36, 10, 54, 95],
+		"operations": ["add", "subtract", "add", "add", "add", "subtract"],
+		"answer": 106,
+		"intermediateResults": [117, 101, 137, 147, 201, 106]
+	},
+	{
+		"numbers": [71, 59, 12, 74, 30, 5, 69],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": 309132,
+		"intermediateResults": [4189, 4177, 309098, 309068, 309063, 309132]
+	},
+	{
+		"numbers": [73, 6, 83, 44, 100, 6, 44, 64],
+		"operations": ["add", "add", "multiply", "add", "add", "add", "multiply"],
+		"answer": 465792,
+		"intermediateResults": [79, 162, 7128, 7228, 7234, 7278, 465792]
+	},
+	{
+		"numbers": [51, 92, 54, 21, 76, 46, 26],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 253333,
+		"intermediateResults": [4692, 253368, 253389, 253313, 253359, 253333]
+	},
+	{
+		"numbers": [46, 60, 48],
+		"operations": ["subtract", "subtract"],
+		"answer": -62,
+		"intermediateResults": [-14, -62]
+	},
+	{
+		"numbers": [6, 66, 12],
+		"operations": ["multiply", "add"],
+		"answer": 408,
+		"intermediateResults": [396, 408]
+	},
+	{
+		"numbers": [92, 92, 24, 22, 24, 42],
+		"operations": ["subtract", "add", "add", "multiply", "subtract"],
+		"answer": 1062,
+		"intermediateResults": [0, 24, 46, 1104, 1062]
+	},
+	{
+		"numbers": [71, 48, 96, 77, 18],
+		"operations": ["multiply", "add", "add", "multiply"],
+		"answer": 64458,
+		"intermediateResults": [3408, 3504, 3581, 64458]
+	},
+	{
+		"numbers": [48, 66, 92, 99],
+		"operations": ["multiply", "subtract", "subtract"],
+		"answer": 2977,
+		"intermediateResults": [3168, 3076, 2977]
+	},
+	{
+		"numbers": [7, 65, 21, 12],
+		"operations": ["add", "subtract", "subtract"],
+		"answer": 39,
+		"intermediateResults": [72, 51, 39]
+	},
+	{
+		"numbers": [43, 50, 20],
+		"operations": ["subtract", "multiply"],
+		"answer": -140,
+		"intermediateResults": [-7, -140]
+	},
+	{
+		"numbers": [1, 31, 90],
+		"operations": ["add", "subtract"],
+		"answer": -58,
+		"intermediateResults": [32, -58]
+	},
+	{
+		"numbers": [53, 12, 44, 63, 12, 10, 83, 73],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 13160805,
+		"intermediateResults": [65, 2860, 180180, 180192, 180202, 180285, 13160805]
+	},
+	{
+		"numbers": [90, 83, 45],
+		"operations": ["subtract", "multiply"],
+		"answer": 315,
+		"intermediateResults": [7, 315]
+	},
+	{
+		"numbers": [83, 16, 87, 2, 51, 4],
+		"operations": ["multiply", "multiply", "add", "multiply", "add"],
+		"answer": 5892442,
+		"intermediateResults": [1328, 115536, 115538, 5892438, 5892442]
+	},
+	{
+		"numbers": [93, 20, 74, 3, 69, 83, 19, 24],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 102405,
+		"intermediateResults": [73, 5402, 5405, 5474, 5391, 102429, 102405]
+	},
+	{
+		"numbers": [47, 9, 9],
+		"operations": ["add", "multiply"],
+		"answer": 504,
+		"intermediateResults": [56, 504]
+	},
+	{
+		"numbers": [95, 69, 85, 90, 44],
+		"operations": ["add", "multiply", "add", "multiply"],
+		"answer": 617320,
+		"intermediateResults": [164, 13940, 14030, 617320]
+	},
+	{
+		"numbers": [49, 21, 22, 63, 84, 20],
+		"operations": ["multiply", "add", "multiply", "multiply", "subtract"],
+		"answer": 5561872,
+		"intermediateResults": [1029, 1051, 66213, 5561892, 5561872]
+	},
+	{
+		"numbers": [2, 75, 85, 18],
+		"operations": ["multiply", "subtract", "subtract"],
+		"answer": 47,
+		"intermediateResults": [150, 65, 47]
+	},
+	{
+		"numbers": [38, 86, 15, 22, 37],
+		"operations": ["subtract", "subtract", "add", "multiply"],
+		"answer": -1517,
+		"intermediateResults": [-48, -63, -41, -1517]
+	},
+	{
+		"numbers": [64, 72, 100, 81],
+		"operations": ["multiply", "add", "add"],
+		"answer": 4789,
+		"intermediateResults": [4608, 4708, 4789]
+	},
+	{
+		"numbers": [23, 42, 94, 90],
+		"operations": ["add", "add", "add"],
+		"answer": 249,
+		"intermediateResults": [65, 159, 249]
+	},
+	{
+		"numbers": [51, 12, 52, 48, 89, 20, 67],
+		"operations": ["multiply", "subtract", "multiply", "add", "add", "add"],
+		"answer": 27056,
+		"intermediateResults": [612, 560, 26880, 26969, 26989, 27056]
+	},
+	{
+		"numbers": [23, 37, 73, 86, 92, 38],
+		"operations": ["subtract", "multiply", "multiply", "subtract", "add"],
+		"answer": -87946,
+		"intermediateResults": [-14, -1022, -87892, -87984, -87946]
+	},
+	{
+		"numbers": [44, 3, 98, 63, 74, 100, 88],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 190784,
+		"intermediateResults": [132, 34, 2142, 2068, 2168, 190784]
+	},
+	{
+		"numbers": [20, 61, 8, 41, 44, 14, 33, 77],
+		"operations": [
+			"add",
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply"
+		],
+		"answer": 1826979,
+		"intermediateResults": [81, 648, 689, 733, 719, 23727, 1826979]
+	},
+	{
+		"numbers": [76, 69, 29, 87, 97, 71, 68, 61],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"multiply",
+			"multiply",
+			"add"
+		],
+		"answer": 1466765773,
+		"intermediateResults": [
+			7, 36, 3132, 303804, 21570084, 1466765712, 1466765773
+		]
+	},
+	{
+		"numbers": [99, 25, 14, 97],
+		"operations": ["multiply", "subtract", "add"],
+		"answer": 2558,
+		"intermediateResults": [2475, 2461, 2558]
+	},
+	{
+		"numbers": [7, 65, 44, 75, 51, 3],
+		"operations": ["subtract", "add", "multiply", "subtract", "multiply"],
+		"answer": -3303,
+		"intermediateResults": [-58, -14, -1050, -1101, -3303]
+	},
+	{
+		"numbers": [75, 7, 55, 83, 4],
+		"operations": ["add", "add", "multiply", "add"],
+		"answer": 11375,
+		"intermediateResults": [82, 137, 11371, 11375]
+	},
+	{
+		"numbers": [100, 2, 63, 37],
+		"operations": ["add", "subtract", "add"],
+		"answer": 76,
+		"intermediateResults": [102, 39, 76]
+	},
+	{
+		"numbers": [53, 92, 35],
+		"operations": ["multiply", "subtract"],
+		"answer": 4841,
+		"intermediateResults": [4876, 4841]
+	},
+	{
+		"numbers": [37, 12, 43, 32],
+		"operations": ["subtract", "subtract", "add"],
+		"answer": 14,
+		"intermediateResults": [25, -18, 14]
+	},
+	{
+		"numbers": [38, 4, 21, 11, 88, 20, 27, 26],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 7785,
+		"intermediateResults": [34, 714, 7854, 7766, 7786, 7759, 7785]
+	},
+	{
+		"numbers": [14, 34, 41, 63, 73, 2, 23, 43],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"add",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 1374,
+		"intermediateResults": [-20, 21, 1323, 1396, 1394, 1417, 1374]
+	},
+	{
+		"numbers": [18, 62, 29],
+		"operations": ["add", "subtract"],
+		"answer": 51,
+		"intermediateResults": [80, 51]
+	},
+	{
+		"numbers": [64, 72, 34, 28, 71],
+		"operations": ["add", "subtract", "subtract", "multiply"],
+		"answer": 5254,
+		"intermediateResults": [136, 102, 74, 5254]
+	},
+	{
+		"numbers": [88, 38, 77],
+		"operations": ["multiply", "subtract"],
+		"answer": 3267,
+		"intermediateResults": [3344, 3267]
+	},
+	{
+		"numbers": [5, 20, 24, 45, 89, 15, 1, 23],
+		"operations": [
+			"add",
+			"multiply",
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 519,
+		"intermediateResults": [25, 600, 645, 556, 541, 542, 519]
+	},
+	{
+		"numbers": [94, 42, 81, 67, 35, 81],
+		"operations": ["subtract", "subtract", "subtract", "subtract", "subtract"],
+		"answer": -212,
+		"intermediateResults": [52, -29, -96, -131, -212]
+	},
+	{
+		"numbers": [37, 87, 57, 75, 95, 89, 2],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": -213754,
+		"intermediateResults": [-50, -2850, -213750, -213845, -213756, -213754]
+	},
+	{
+		"numbers": [46, 55, 78, 93, 25],
+		"operations": ["multiply", "subtract", "subtract", "multiply"],
+		"answer": 58975,
+		"intermediateResults": [2530, 2452, 2359, 58975]
+	},
+	{
+		"numbers": [93, 29, 5, 73, 39],
+		"operations": ["multiply", "multiply", "subtract", "subtract"],
+		"answer": 13373,
+		"intermediateResults": [2697, 13485, 13412, 13373]
+	},
+	{
+		"numbers": [98, 64, 77, 81, 36, 45],
+		"operations": ["subtract", "add", "subtract", "subtract", "add"],
+		"answer": 39,
+		"intermediateResults": [34, 111, 30, -6, 39]
+	},
+	{
+		"numbers": [90, 45, 89],
+		"operations": ["add", "multiply"],
+		"answer": 12015,
+		"intermediateResults": [135, 12015]
+	},
+	{
+		"numbers": [30, 43, 46, 83, 93, 84, 14],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": -5138,
+		"intermediateResults": [73, 27, -56, -5208, -5124, -5138]
+	},
+	{
+		"numbers": [78, 30, 25],
+		"operations": ["subtract", "multiply"],
+		"answer": 1200,
+		"intermediateResults": [48, 1200]
+	},
+	{
+		"numbers": [83, 80, 47, 46, 31],
+		"operations": ["multiply", "subtract", "subtract", "multiply"],
+		"answer": 202957,
+		"intermediateResults": [6640, 6593, 6547, 202957]
+	},
+	{
+		"numbers": [72, 74, 94, 17],
+		"operations": ["subtract", "multiply", "add"],
+		"answer": -171,
+		"intermediateResults": [-2, -188, -171]
+	},
+	{
+		"numbers": [67, 57, 65, 61, 90, 14, 3],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 523,
+		"intermediateResults": [10, -55, 6, 540, 526, 523]
+	},
+	{
+		"numbers": [85, 14, 64, 54, 9, 90, 47],
+		"operations": ["add", "add", "multiply", "multiply", "subtract", "add"],
+		"answer": 79175,
+		"intermediateResults": [99, 163, 8802, 79218, 79128, 79175]
+	},
+	{
+		"numbers": [20, 87, 78, 10, 56],
+		"operations": ["multiply", "subtract", "subtract", "add"],
+		"answer": 1708,
+		"intermediateResults": [1740, 1662, 1652, 1708]
+	},
+	{
+		"numbers": [78, 85, 10, 32, 92, 18, 90],
+		"operations": ["subtract", "multiply", "subtract", "add", "add", "add"],
+		"answer": 98,
+		"intermediateResults": [-7, -70, -102, -10, 8, 98]
+	},
+	{
+		"numbers": [53, 55, 28, 87, 10, 41, 60],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": -64206000,
+		"intermediateResults": [-2, -30, -2610, -26100, -1070100, -64206000]
+	},
+	{
+		"numbers": [54, 80, 34, 6],
+		"operations": ["subtract", "multiply", "add"],
+		"answer": -878,
+		"intermediateResults": [-26, -884, -878]
+	},
+	{
+		"numbers": [87, 58, 60, 6, 12, 52, 88],
+		"operations": ["subtract", "add", "add", "add", "multiply", "add"],
+		"answer": 5652,
+		"intermediateResults": [29, 89, 95, 107, 5564, 5652]
+	},
+	{
+		"numbers": [69, 5, 33, 99, 17, 80],
+		"operations": ["subtract", "multiply", "add", "multiply", "add"],
+		"answer": 37667,
+		"intermediateResults": [64, 2112, 2211, 37587, 37667]
+	},
+	{
+		"numbers": [18, 24, 52, 26],
+		"operations": ["multiply", "multiply", "subtract"],
+		"answer": 22438,
+		"intermediateResults": [432, 22464, 22438]
+	},
+	{
+		"numbers": [14, 6, 90, 46, 50, 43],
+		"operations": ["multiply", "multiply", "multiply", "subtract", "add"],
+		"answer": 347753,
+		"intermediateResults": [84, 7560, 347760, 347710, 347753]
+	},
+	{
+		"numbers": [10, 100, 33],
+		"operations": ["multiply", "add"],
+		"answer": 1033,
+		"intermediateResults": [1000, 1033]
+	},
+	{
+		"numbers": [99, 93, 98, 79, 83, 4, 68],
+		"operations": [
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 510340,
+		"intermediateResults": [192, 94, 7426, 7509, 7505, 510340]
+	},
+	{
+		"numbers": [55, 60, 9, 43, 66, 37],
+		"operations": ["multiply", "subtract", "subtract", "multiply", "subtract"],
+		"answer": 214331,
+		"intermediateResults": [3300, 3291, 3248, 214368, 214331]
+	},
+	{
+		"numbers": [84, 76, 38, 100, 18, 78, 67, 4],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": -54149,
+		"intermediateResults": [8, -30, -3000, -54000, -54078, -54145, -54149]
+	},
+	{
+		"numbers": [15, 1, 90, 43, 98, 69, 37, 19],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": 426024,
+		"intermediateResults": [16, 106, 63, 6174, 426006, 426043, 426024]
+	},
+	{
+		"numbers": [99, 84, 42, 32, 90],
+		"operations": ["add", "multiply", "multiply", "add"],
+		"answer": 246042,
+		"intermediateResults": [183, 7686, 245952, 246042]
+	},
+	{
+		"numbers": [33, 6, 17, 50, 83, 81, 68, 61],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"multiply",
+			"subtract",
+			"add"
+		],
+		"answer": 11576,
+		"intermediateResults": [27, 10, 60, 143, 11583, 11515, 11576]
+	},
+	{
+		"numbers": [6, 95, 78, 38, 30, 24, 54, 23],
+		"operations": ["add", "add", "subtract", "multiply", "add", "add", "add"],
+		"answer": 4331,
+		"intermediateResults": [101, 179, 141, 4230, 4254, 4308, 4331]
+	},
+	{
+		"numbers": [90, 95, 18, 87, 31],
+		"operations": ["multiply", "subtract", "multiply", "add"],
+		"answer": 742315,
+		"intermediateResults": [8550, 8532, 742284, 742315]
+	},
+	{
+		"numbers": [15, 7, 41, 40],
+		"operations": ["multiply", "subtract", "multiply"],
+		"answer": 2560,
+		"intermediateResults": [105, 64, 2560]
+	},
+	{
+		"numbers": [25, 37, 60, 22, 91, 51, 35],
+		"operations": ["subtract", "add", "subtract", "add", "add", "subtract"],
+		"answer": 133,
+		"intermediateResults": [-12, 48, 26, 117, 168, 133]
+	},
+	{
+		"numbers": [57, 9, 3, 100],
+		"operations": ["multiply", "add", "add"],
+		"answer": 616,
+		"intermediateResults": [513, 516, 616]
+	},
+	{
+		"numbers": [11, 31, 28, 12, 24, 97, 97],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 32852639,
+		"intermediateResults": [42, 1176, 14112, 338688, 32852736, 32852639]
+	},
+	{
+		"numbers": [23, 28, 6, 62, 60, 47],
+		"operations": ["multiply", "add", "multiply", "add", "subtract"],
+		"answer": 40313,
+		"intermediateResults": [644, 650, 40300, 40360, 40313]
+	},
+	{
+		"numbers": [10, 68, 100],
+		"operations": ["add", "subtract"],
+		"answer": -22,
+		"intermediateResults": [78, -22]
+	},
+	{
+		"numbers": [52, 67, 35, 35, 24, 62, 46, 37],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"multiply",
+			"add",
+			"add"
+		],
+		"answer": 7564021,
+		"intermediateResults": [
+			3484, 121940, 121975, 121999, 7563938, 7563984, 7564021
+		]
+	},
+	{
+		"numbers": [49, 44, 16, 2, 38, 22, 80, 12],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 1550,
+		"intermediateResults": [5, 21, 42, 1596, 1618, 1538, 1550]
+	},
+	{
+		"numbers": [8, 49, 87, 94],
+		"operations": ["multiply", "multiply", "subtract"],
+		"answer": 34010,
+		"intermediateResults": [392, 34104, 34010]
+	},
+	{
+		"numbers": [69, 67, 2, 66, 43, 76, 92],
+		"operations": ["add", "add", "multiply", "subtract", "multiply", "add"],
+		"answer": 689032,
+		"intermediateResults": [136, 138, 9108, 9065, 688940, 689032]
+	},
+	{
+		"numbers": [87, 48, 16, 31, 73, 93, 46, 43],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 100663,
+		"intermediateResults": [135, 2160, 2129, 2202, 2295, 2341, 100663]
+	},
+	{
+		"numbers": [38, 54, 88],
+		"operations": ["multiply", "add"],
+		"answer": 2140,
+		"intermediateResults": [2052, 2140]
+	},
+	{
+		"numbers": [96, 80, 48, 79, 86],
+		"operations": ["multiply", "multiply", "add", "subtract"],
+		"answer": 368633,
+		"intermediateResults": [7680, 368640, 368719, 368633]
+	},
+	{
+		"numbers": [27, 7, 75, 89, 33, 60, 27],
+		"operations": [
+			"add",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 8641971,
+		"intermediateResults": [34, 109, 9701, 320133, 320073, 8641971]
+	},
+	{
+		"numbers": [86, 46, 57, 57, 54, 91, 37, 91],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 25680378454,
+		"intermediateResults": [
+			3956, 225492, 12853044, 694064376, 694064285, 25680378545, 25680378454
+		]
+	},
+	{
+		"numbers": [75, 16, 77, 46, 80, 68],
+		"operations": ["subtract", "add", "subtract", "multiply", "subtract"],
+		"answer": 7132,
+		"intermediateResults": [59, 136, 90, 7200, 7132]
+	},
+	{
+		"numbers": [73, 68, 44, 58, 14, 50, 16, 25],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"add",
+			"add",
+			"multiply",
+			"subtract"
+		],
+		"answer": 855,
+		"intermediateResults": [5, 49, -9, 5, 55, 880, 855]
+	},
+	{
+		"numbers": [71, 51, 11],
+		"operations": ["subtract", "add"],
+		"answer": 31,
+		"intermediateResults": [20, 31]
+	},
+	{
+		"numbers": [64, 75, 100, 82, 47, 50],
+		"operations": ["multiply", "multiply", "subtract", "subtract", "multiply"],
+		"answer": 23993550,
+		"intermediateResults": [4800, 480000, 479918, 479871, 23993550]
+	},
+	{
+		"numbers": [1, 78, 45, 32],
+		"operations": ["add", "multiply", "add"],
+		"answer": 3587,
+		"intermediateResults": [79, 3555, 3587]
+	},
+	{
+		"numbers": [57, 84, 62, 81, 21, 55],
+		"operations": ["multiply", "subtract", "subtract", "add", "multiply"],
+		"answer": 256630,
+		"intermediateResults": [4788, 4726, 4645, 4666, 256630]
+	},
+	{
+		"numbers": [3, 33, 7, 36, 60, 48],
+		"operations": ["multiply", "add", "subtract", "subtract", "subtract"],
+		"answer": -38,
+		"intermediateResults": [99, 106, 70, 10, -38]
+	},
+	{
+		"numbers": [92, 8, 47, 45, 50, 43, 41],
+		"operations": ["add", "add", "subtract", "multiply", "add", "multiply"],
+		"answer": 210863,
+		"intermediateResults": [100, 147, 102, 5100, 5143, 210863]
+	},
+	{
+		"numbers": [31, 32, 22],
+		"operations": ["multiply", "multiply"],
+		"answer": 21824,
+		"intermediateResults": [992, 21824]
+	},
+	{
+		"numbers": [7, 50, 82, 53, 19, 42, 36, 46],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 4137,
+		"intermediateResults": [350, 268, 215, 4085, 4127, 4091, 4137]
+	},
+	{
+		"numbers": [16, 16, 94],
+		"operations": ["add", "add"],
+		"answer": 126,
+		"intermediateResults": [32, 126]
+	},
+	{
+		"numbers": [85, 85, 27, 12, 73, 7],
+		"operations": ["add", "add", "add", "add", "add"],
+		"answer": 289,
+		"intermediateResults": [170, 197, 209, 282, 289]
+	},
+	{
+		"numbers": [56, 15, 28, 91, 92],
+		"operations": ["add", "subtract", "add", "add"],
+		"answer": 226,
+		"intermediateResults": [71, 43, 134, 226]
+	},
+	{
+		"numbers": [7, 39, 73, 20, 89, 31, 22],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 74712,
+		"intermediateResults": [46, 3358, 3338, 3427, 3396, 74712]
+	},
+	{
+		"numbers": [28, 63, 69, 31, 37, 30],
+		"operations": ["subtract", "multiply", "subtract", "add", "subtract"],
+		"answer": -2439,
+		"intermediateResults": [-35, -2415, -2446, -2409, -2439]
+	},
+	{
+		"numbers": [41, 30, 46, 86, 50, 12],
+		"operations": ["multiply", "multiply", "multiply", "subtract", "multiply"],
+		"answer": 58389960,
+		"intermediateResults": [1230, 56580, 4865880, 4865830, 58389960]
+	},
+	{
+		"numbers": [80, 19, 53],
+		"operations": ["subtract", "add"],
+		"answer": 114,
+		"intermediateResults": [61, 114]
+	},
+	{
+		"numbers": [23, 29, 19],
+		"operations": ["add", "add"],
+		"answer": 71,
+		"intermediateResults": [52, 71]
+	},
+	{
+		"numbers": [50, 61, 84, 14, 68, 60],
+		"operations": ["subtract", "subtract", "subtract", "multiply", "add"],
+		"answer": -7352,
+		"intermediateResults": [-11, -95, -109, -7412, -7352]
+	},
+	{
+		"numbers": [53, 37, 71, 69, 42, 66, 25],
+		"operations": [
+			"multiply",
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 3505800,
+		"intermediateResults": [1961, 2032, 140208, 140166, 140232, 3505800]
+	},
+	{
+		"numbers": [73, 12, 62, 7],
+		"operations": ["subtract", "add", "subtract"],
+		"answer": 116,
+		"intermediateResults": [61, 123, 116]
+	},
+	{
+		"numbers": [95, 54, 12, 24, 61, 56],
+		"operations": ["subtract", "multiply", "add", "subtract", "add"],
+		"answer": 511,
+		"intermediateResults": [41, 492, 516, 455, 511]
+	},
+	{
+		"numbers": [69, 51, 97, 43, 68],
+		"operations": ["subtract", "subtract", "multiply", "multiply"],
+		"answer": -230996,
+		"intermediateResults": [18, -79, -3397, -230996]
+	},
+	{
+		"numbers": [4, 2, 50, 5, 77, 57, 3],
+		"operations": [
+			"subtract",
+			"add",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 12996,
+		"intermediateResults": [2, 52, 57, 4389, 4332, 12996]
+	},
+	{
+		"numbers": [95, 98, 96, 27, 70, 37, 55, 71],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 1699323585,
+		"intermediateResults": [
+			9310, 9214, 9241, 646870, 23934190, 23934135, 1699323585
+		]
+	},
+	{
+		"numbers": [89, 57, 58, 65, 95, 92, 13],
+		"operations": ["add", "multiply", "subtract", "add", "add", "subtract"],
+		"answer": 8577,
+		"intermediateResults": [146, 8468, 8403, 8498, 8590, 8577]
+	},
+	{
+		"numbers": [38, 41, 55, 25],
+		"operations": ["multiply", "add", "subtract"],
+		"answer": 1588,
+		"intermediateResults": [1558, 1613, 1588]
+	},
+	{
+		"numbers": [35, 15, 17, 85, 65, 100, 21, 1],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"add",
+			"add",
+			"subtract"
+		],
+		"answer": 143,
+		"intermediateResults": [20, 3, 88, 23, 123, 144, 143]
+	},
+	{
+		"numbers": [32, 54, 97],
+		"operations": ["multiply", "subtract"],
+		"answer": 1631,
+		"intermediateResults": [1728, 1631]
+	},
+	{
+		"numbers": [61, 97, 66, 79, 44, 37],
+		"operations": ["subtract", "add", "multiply", "add", "multiply"],
+		"answer": 89318,
+		"intermediateResults": [-36, 30, 2370, 2414, 89318]
+	},
+	{
+		"numbers": [16, 47, 97, 98, 21],
+		"operations": ["add", "subtract", "multiply", "multiply"],
+		"answer": -69972,
+		"intermediateResults": [63, -34, -3332, -69972]
+	},
+	{
+		"numbers": [99, 51, 88, 49, 57, 58, 4, 75],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 26121,
+		"intermediateResults": [48, 136, 6664, 6607, 6549, 26196, 26121]
+	},
+	{
+		"numbers": [87, 68, 67, 16],
+		"operations": ["multiply", "multiply", "multiply"],
+		"answer": 6341952,
+		"intermediateResults": [5916, 396372, 6341952]
+	},
+	{
+		"numbers": [77, 29, 1, 85, 7, 86],
+		"operations": ["add", "subtract", "subtract", "add", "add"],
+		"answer": 113,
+		"intermediateResults": [106, 105, 20, 27, 113]
+	},
+	{
+		"numbers": [84, 86, 66],
+		"operations": ["multiply", "subtract"],
+		"answer": 7158,
+		"intermediateResults": [7224, 7158]
+	},
+	{
+		"numbers": [98, 37, 72, 59, 22, 1, 45, 1],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"add",
+			"multiply"
+		],
+		"answer": -582,
+		"intermediateResults": [61, -11, -649, -627, -627, -582, -582]
+	},
+	{
+		"numbers": [67, 75, 79, 93, 12, 33],
+		"operations": ["add", "add", "add", "subtract", "multiply"],
+		"answer": 9966,
+		"intermediateResults": [142, 221, 314, 302, 9966]
+	},
+	{
+		"numbers": [77, 92, 36, 4, 43],
+		"operations": ["multiply", "add", "subtract", "subtract"],
+		"answer": 7073,
+		"intermediateResults": [7084, 7120, 7116, 7073]
+	},
+	{
+		"numbers": [26, 15, 19, 9],
+		"operations": ["subtract", "multiply", "add"],
+		"answer": 218,
+		"intermediateResults": [11, 209, 218]
+	},
+	{
+		"numbers": [34, 76, 32, 56, 75, 54, 71, 23],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 8009267,
+		"intermediateResults": [110, 142, 86, 6450, 348300, 348229, 8009267]
+	},
+	{
+		"numbers": [58, 82, 48, 95, 20, 100, 28, 94],
+		"operations": [
+			"multiply",
+			"add",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 4290157368,
+		"intermediateResults": [
+			4756, 4804, 456380, 456400, 45640000, 45639972, 4290157368
+		]
+	},
+	{
+		"numbers": [49, 86, 25, 35, 54],
+		"operations": ["subtract", "add", "subtract", "add"],
+		"answer": 7,
+		"intermediateResults": [-37, -12, -47, 7]
+	},
+	{
+		"numbers": [20, 80, 100],
+		"operations": ["subtract", "multiply"],
+		"answer": -6000,
+		"intermediateResults": [-60, -6000]
+	},
+	{
+		"numbers": [52, 80, 4],
+		"operations": ["add", "subtract"],
+		"answer": 128,
+		"intermediateResults": [132, 128]
+	},
+	{
+		"numbers": [64, 51, 64, 8, 17, 8, 91, 40],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"add"
+		],
+		"answer": 25531,
+		"intermediateResults": [3264, 3200, 3192, 3175, 25400, 25491, 25531]
+	},
+	{
+		"numbers": [56, 50, 11, 1, 8, 6, 34],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 30769,
+		"intermediateResults": [2800, 30800, 30801, 30809, 30803, 30769]
+	},
+	{
+		"numbers": [18, 91, 68, 34, 11, 31, 63],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": -9450,
+		"intermediateResults": [-73, -5, -170, -181, -150, -9450]
+	},
+	{
+		"numbers": [71, 45, 82, 61, 39, 68],
+		"operations": ["subtract", "add", "multiply", "add", "subtract"],
+		"answer": 6559,
+		"intermediateResults": [26, 108, 6588, 6627, 6559]
+	},
+	{
+		"numbers": [62, 86, 62, 88, 75, 90, 86],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"subtract"
+		],
+		"answer": -130865,
+		"intermediateResults": [-24, -1488, -130944, -130869, -130779, -130865]
+	},
+	{
+		"numbers": [84, 58, 33, 14, 2, 37],
+		"operations": ["subtract", "add", "add", "subtract", "multiply"],
+		"answer": 2627,
+		"intermediateResults": [26, 59, 73, 71, 2627]
+	},
+	{
+		"numbers": [16, 51, 56, 48, 56],
+		"operations": ["add", "multiply", "add", "add"],
+		"answer": 3856,
+		"intermediateResults": [67, 3752, 3800, 3856]
+	},
+	{
+		"numbers": [84, 27, 54, 8, 72, 29],
+		"operations": ["subtract", "add", "add", "subtract", "multiply"],
+		"answer": 1363,
+		"intermediateResults": [57, 111, 119, 47, 1363]
+	},
+	{
+		"numbers": [80, 18, 74, 42, 1, 28, 19],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 57326,
+		"intermediateResults": [1440, 1366, 57372, 57373, 57345, 57326]
+	},
+	{
+		"numbers": [30, 63, 100, 53, 20, 89, 34],
+		"operations": ["add", "multiply", "add", "add", "add", "multiply"],
+		"answer": 321708,
+		"intermediateResults": [93, 9300, 9353, 9373, 9462, 321708]
+	},
+	{
+		"numbers": [18, 28, 84, 80, 73, 20, 4, 86],
+		"operations": ["add", "add", "add", "subtract", "subtract", "add", "add"],
+		"answer": 207,
+		"intermediateResults": [46, 130, 210, 137, 117, 121, 207]
+	},
+	{
+		"numbers": [82, 29, 50, 53],
+		"operations": ["multiply", "multiply", "multiply"],
+		"answer": 6301700,
+		"intermediateResults": [2378, 118900, 6301700]
+	},
+	{
+		"numbers": [40, 29, 69, 63, 80, 89, 70, 22],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 23995481,
+		"intermediateResults": [
+			69, 4761, 299943, 23995440, 23995529, 23995459, 23995481
+		]
+	},
+	{
+		"numbers": [46, 54, 73, 86, 53, 97, 54, 60],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"add",
+			"add",
+			"subtract"
+		],
+		"answer": 181390,
+		"intermediateResults": [
+			2484, 181332, 181246, 181299, 181396, 181450, 181390
+		]
+	},
+	{
+		"numbers": [27, 43, 62, 7, 40, 33, 16],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add"
+		],
+		"answer": 20154943,
+		"intermediateResults": [1161, 71982, 503874, 20154960, 20154927, 20154943]
+	},
+	{
+		"numbers": [10, 99, 75, 59, 20, 9, 28],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 479108,
+		"intermediateResults": [990, 915, 856, 17120, 17111, 479108]
+	},
+	{
+		"numbers": [8, 24, 84],
+		"operations": ["add", "add"],
+		"answer": 116,
+		"intermediateResults": [32, 116]
+	},
+	{
+		"numbers": [92, 68, 46, 84, 91],
+		"operations": ["multiply", "add", "multiply", "subtract"],
+		"answer": 529277,
+		"intermediateResults": [6256, 6302, 529368, 529277]
+	},
+	{
+		"numbers": [97, 59, 35, 91, 66, 17],
+		"operations": ["subtract", "add", "multiply", "add", "multiply"],
+		"answer": 114053,
+		"intermediateResults": [38, 73, 6643, 6709, 114053]
+	},
+	{
+		"numbers": [26, 53, 91],
+		"operations": ["add", "subtract"],
+		"answer": -12,
+		"intermediateResults": [79, -12]
+	},
+	{
+		"numbers": [21, 64, 73, 30, 5],
+		"operations": ["add", "add", "multiply", "subtract"],
+		"answer": 4735,
+		"intermediateResults": [85, 158, 4740, 4735]
+	},
+	{
+		"numbers": [64, 18, 29, 9, 89],
+		"operations": ["multiply", "subtract", "subtract", "subtract"],
+		"answer": 1025,
+		"intermediateResults": [1152, 1123, 1114, 1025]
+	},
+	{
+		"numbers": [60, 78, 94, 29, 54],
+		"operations": ["add", "multiply", "add", "subtract"],
+		"answer": 12947,
+		"intermediateResults": [138, 12972, 13001, 12947]
+	},
+	{
+		"numbers": [65, 41, 31, 27, 2, 35],
+		"operations": ["add", "subtract", "subtract", "add", "add"],
+		"answer": 85,
+		"intermediateResults": [106, 75, 48, 50, 85]
+	},
+	{
+		"numbers": [83, 39, 32, 87, 34],
+		"operations": ["multiply", "multiply", "add", "subtract"],
+		"answer": 103637,
+		"intermediateResults": [3237, 103584, 103671, 103637]
+	},
+	{
+		"numbers": [95, 39, 24, 87],
+		"operations": ["multiply", "subtract", "add"],
+		"answer": 3768,
+		"intermediateResults": [3705, 3681, 3768]
+	},
+	{
+		"numbers": [36, 84, 13, 16, 24, 9, 35, 50],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add"
+		],
+		"answer": 135862287,
+		"intermediateResults": [
+			3024, 39312, 628992, 15095808, 135862272, 135862237, 135862287
+		]
+	},
+	{
+		"numbers": [3, 78, 55],
+		"operations": ["multiply", "subtract"],
+		"answer": 179,
+		"intermediateResults": [234, 179]
+	},
+	{
+		"numbers": [10, 89, 53, 70],
+		"operations": ["subtract", "multiply", "subtract"],
+		"answer": -4257,
+		"intermediateResults": [-79, -4187, -4257]
+	},
+	{
+		"numbers": [75, 41, 91, 82, 26, 4],
+		"operations": ["subtract", "subtract", "multiply", "add", "add"],
+		"answer": -4644,
+		"intermediateResults": [34, -57, -4674, -4648, -4644]
+	},
+	{
+		"numbers": [82, 60, 50, 84, 23, 28, 30, 60],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 823035480,
+		"intermediateResults": [
+			142, 7100, 596400, 13717200, 13717228, 13717258, 823035480
+		]
+	},
+	{
+		"numbers": [25, 52, 57],
+		"operations": ["subtract", "add"],
+		"answer": 30,
+		"intermediateResults": [-27, 30]
+	},
+	{
+		"numbers": [61, 57, 55, 12, 63],
+		"operations": ["multiply", "subtract", "multiply", "add"],
+		"answer": 41127,
+		"intermediateResults": [3477, 3422, 41064, 41127]
+	},
+	{
+		"numbers": [90, 30, 51, 66, 86, 7, 19],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 11836498,
+		"intermediateResults": [2700, 137700, 137634, 11836524, 11836517, 11836498]
+	},
+	{
+		"numbers": [88, 65, 36, 32, 58, 98, 86],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 107910,
+		"intermediateResults": [23, -13, 19, 1102, 107996, 107910]
+	},
+	{
+		"numbers": [53, 56, 70, 66, 34, 42],
+		"operations": ["subtract", "subtract", "subtract", "multiply", "subtract"],
+		"answer": -4768,
+		"intermediateResults": [-3, -73, -139, -4726, -4768]
+	},
+	{
+		"numbers": [98, 84, 41, 45, 86, 22, 2],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": -2298782,
+		"intermediateResults": [14, -27, -1215, -104490, -2298780, -2298782]
+	},
+	{
+		"numbers": [97, 88, 41],
+		"operations": ["subtract", "subtract"],
+		"answer": -32,
+		"intermediateResults": [9, -32]
+	},
+	{
+		"numbers": [67, 96, 12, 5],
+		"operations": ["multiply", "subtract", "multiply"],
+		"answer": 32100,
+		"intermediateResults": [6432, 6420, 32100]
+	},
+	{
+		"numbers": [41, 10, 22, 54, 56, 23, 62, 8],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": 160195,
+		"intermediateResults": [31, 53, 2862, 160272, 160249, 160187, 160195]
+	},
+	{
+		"numbers": [79, 8, 10, 71, 69, 84, 21],
+		"operations": ["multiply", "add", "add", "add", "add", "add"],
+		"answer": 887,
+		"intermediateResults": [632, 642, 713, 782, 866, 887]
+	},
+	{
+		"numbers": [88, 33, 25],
+		"operations": ["subtract", "add"],
+		"answer": 80,
+		"intermediateResults": [55, 80]
+	},
+	{
+		"numbers": [37, 28, 47, 53, 65],
+		"operations": ["add", "add", "add", "subtract"],
+		"answer": 100,
+		"intermediateResults": [65, 112, 165, 100]
+	},
+	{
+		"numbers": [39, 96, 58, 82, 55, 35, 9, 79],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 943883784,
+		"intermediateResults": [
+			3744, 217152, 217234, 11947870, 11947905, 11947896, 943883784
+		]
+	},
+	{
+		"numbers": [78, 91, 83],
+		"operations": ["add", "subtract"],
+		"answer": 86,
+		"intermediateResults": [169, 86]
+	},
+	{
+		"numbers": [71, 73, 18, 43, 89, 100, 45],
+		"operations": ["add", "multiply", "add", "add", "add", "multiply"],
+		"answer": 127080,
+		"intermediateResults": [144, 2592, 2635, 2724, 2824, 127080]
+	},
+	{
+		"numbers": [11, 53, 48, 1, 97],
+		"operations": ["add", "subtract", "add", "add"],
+		"answer": 114,
+		"intermediateResults": [64, 16, 17, 114]
+	},
+	{
+		"numbers": [52, 92, 89, 15, 24],
+		"operations": ["add", "add", "subtract", "add"],
+		"answer": 242,
+		"intermediateResults": [144, 233, 218, 242]
+	},
+	{
+		"numbers": [94, 52, 46],
+		"operations": ["multiply", "subtract"],
+		"answer": 4842,
+		"intermediateResults": [4888, 4842]
+	},
+	{
+		"numbers": [62, 31, 68, 38, 47, 12, 81],
+		"operations": ["add", "add", "multiply", "subtract", "add", "add"],
+		"answer": 6164,
+		"intermediateResults": [93, 161, 6118, 6071, 6083, 6164]
+	},
+	{
+		"numbers": [65, 40, 26, 12],
+		"operations": ["multiply", "add", "multiply"],
+		"answer": 31512,
+		"intermediateResults": [2600, 2626, 31512]
+	},
+	{
+		"numbers": [23, 72, 58, 46, 97],
+		"operations": ["add", "multiply", "subtract", "multiply"],
+		"answer": 530008,
+		"intermediateResults": [95, 5510, 5464, 530008]
+	},
+	{
+		"numbers": [59, 62, 29, 80, 59, 9],
+		"operations": ["subtract", "add", "multiply", "subtract", "add"],
+		"answer": 2030,
+		"intermediateResults": [-3, 26, 2080, 2021, 2030]
+	},
+	{
+		"numbers": [63, 93, 20, 53, 73],
+		"operations": ["multiply", "add", "add", "add"],
+		"answer": 6005,
+		"intermediateResults": [5859, 5879, 5932, 6005]
+	},
+	{
+		"numbers": [28, 60, 14, 58, 20, 12, 11, 76],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 1790484,
+		"intermediateResults": [1680, 23520, 23578, 23558, 23570, 23559, 1790484]
+	},
+	{
+		"numbers": [8, 13, 63],
+		"operations": ["add", "subtract"],
+		"answer": -42,
+		"intermediateResults": [21, -42]
+	},
+	{
+		"numbers": [79, 15, 84],
+		"operations": ["add", "add"],
+		"answer": 178,
+		"intermediateResults": [94, 178]
+	},
+	{
+		"numbers": [35, 52, 96, 64, 49, 68],
+		"operations": ["subtract", "add", "multiply", "multiply", "multiply"],
+		"answer": 16846592,
+		"intermediateResults": [-17, 79, 5056, 247744, 16846592]
+	},
+	{
+		"numbers": [44, 62, 40, 38, 96, 91, 21],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 9917705,
+		"intermediateResults": [2728, 109120, 109082, 108986, 9917726, 9917705]
+	},
+	{
+		"numbers": [1, 39, 88, 54, 93, 63],
+		"operations": ["subtract", "multiply", "multiply", "subtract", "multiply"],
+		"answer": -11382147,
+		"intermediateResults": [-38, -3344, -180576, -180669, -11382147]
+	},
+	{
+		"numbers": [48, 40, 39, 43, 35, 70, 24, 69],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"add",
+			"multiply",
+			"subtract"
+		],
+		"answer": 1798923,
+		"intermediateResults": [1920, 74880, 74923, 74888, 74958, 1798992, 1798923]
+	},
+	{
+		"numbers": [16, 71, 67],
+		"operations": ["multiply", "multiply"],
+		"answer": 76112,
+		"intermediateResults": [1136, 76112]
+	},
+	{
+		"numbers": [51, 21, 53, 46, 87, 53, 20],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 215923888,
+		"intermediateResults": [1071, 1018, 46828, 4074036, 215923908, 215923888]
+	},
+	{
+		"numbers": [65, 33, 42, 45, 17, 31],
+		"operations": ["multiply", "subtract", "add", "multiply", "subtract"],
+		"answer": 36485,
+		"intermediateResults": [2145, 2103, 2148, 36516, 36485]
+	},
+	{
+		"numbers": [79, 67, 54, 1, 12, 66],
+		"operations": ["multiply", "add", "multiply", "multiply", "multiply"],
+		"answer": 4234824,
+		"intermediateResults": [5293, 5347, 5347, 64164, 4234824]
+	},
+	{
+		"numbers": [49, 9, 69, 92, 65],
+		"operations": ["multiply", "subtract", "subtract", "subtract"],
+		"answer": 215,
+		"intermediateResults": [441, 372, 280, 215]
+	},
+	{
+		"numbers": [6, 4, 96, 50, 42],
+		"operations": ["subtract", "multiply", "subtract", "multiply"],
+		"answer": 5964,
+		"intermediateResults": [2, 192, 142, 5964]
+	},
+	{
+		"numbers": [66, 60, 10, 38, 41, 5],
+		"operations": ["multiply", "subtract", "multiply", "subtract", "add"],
+		"answer": 150064,
+		"intermediateResults": [3960, 3950, 150100, 150059, 150064]
+	},
+	{
+		"numbers": [49, 41, 34, 9, 97, 8],
+		"operations": ["subtract", "multiply", "add", "add", "multiply"],
+		"answer": 3024,
+		"intermediateResults": [8, 272, 281, 378, 3024]
+	},
+	{
+		"numbers": [92, 84, 60, 35, 32],
+		"operations": ["subtract", "add", "multiply", "subtract"],
+		"answer": 2348,
+		"intermediateResults": [8, 68, 2380, 2348]
+	},
+	{
+		"numbers": [70, 52, 46],
+		"operations": ["add", "subtract"],
+		"answer": 76,
+		"intermediateResults": [122, 76]
+	},
+	{
+		"numbers": [47, 43, 12],
+		"operations": ["add", "multiply"],
+		"answer": 1080,
+		"intermediateResults": [90, 1080]
+	},
+	{
+		"numbers": [2, 71, 70, 38, 80, 12],
+		"operations": ["subtract", "add", "multiply", "subtract", "subtract"],
+		"answer": -54,
+		"intermediateResults": [-69, 1, 38, -42, -54]
+	},
+	{
+		"numbers": [61, 94, 98, 72, 14, 42],
+		"operations": ["subtract", "multiply", "add", "multiply", "add"],
+		"answer": -44226,
+		"intermediateResults": [-33, -3234, -3162, -44268, -44226]
+	},
+	{
+		"numbers": [42, 100, 86, 57, 99, 2, 34],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 71506280,
+		"intermediateResults": [4200, 361200, 361143, 35753157, 71506314, 71506280]
+	},
+	{
+		"numbers": [65, 53, 32, 79],
+		"operations": ["add", "add", "multiply"],
+		"answer": 11850,
+		"intermediateResults": [118, 150, 11850]
+	},
+	{
+		"numbers": [50, 87, 66, 49, 17, 39, 51],
+		"operations": ["add", "add", "subtract", "multiply", "add", "multiply"],
+		"answer": 135507,
+		"intermediateResults": [137, 203, 154, 2618, 2657, 135507]
+	},
+	{
+		"numbers": [65, 70, 12, 90],
+		"operations": ["multiply", "multiply", "add"],
+		"answer": 54690,
+		"intermediateResults": [4550, 54600, 54690]
+	},
+	{
+		"numbers": [91, 70, 8, 99, 46, 31],
+		"operations": ["add", "add", "subtract", "subtract", "add"],
+		"answer": 55,
+		"intermediateResults": [161, 169, 70, 24, 55]
+	},
+	{
+		"numbers": [21, 15, 19, 83, 47, 6, 17, 24],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 1364208,
+		"intermediateResults": [36, 684, 56772, 56819, 56825, 56842, 1364208]
+	},
+	{
+		"numbers": [28, 54, 54, 14, 90, 61, 99, 93],
+		"operations": [
+			"subtract",
+			"add",
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": 3527,
+		"intermediateResults": [-26, 28, 42, 3780, 3719, 3620, 3527]
+	},
+	{
+		"numbers": [84, 15, 45, 47],
+		"operations": ["subtract", "add", "add"],
+		"answer": 161,
+		"intermediateResults": [69, 114, 161]
+	},
+	{
+		"numbers": [84, 44, 15, 76, 33],
+		"operations": ["add", "add", "add", "subtract"],
+		"answer": 186,
+		"intermediateResults": [128, 143, 219, 186]
+	},
+	{
+		"numbers": [38, 100, 66, 19],
+		"operations": ["multiply", "add", "subtract"],
+		"answer": 3847,
+		"intermediateResults": [3800, 3866, 3847]
+	},
+	{
+		"numbers": [5, 51, 90, 61, 79, 89, 58],
+		"operations": ["multiply", "multiply", "add", "subtract", "add", "add"],
+		"answer": 23079,
+		"intermediateResults": [255, 22950, 23011, 22932, 23021, 23079]
+	},
+	{
+		"numbers": [69, 99, 1, 11, 19, 51, 76],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": 74995,
+		"intermediateResults": [6831, 6831, 75141, 75122, 75071, 74995]
+	},
+	{
+		"numbers": [88, 36, 85, 39, 100, 20],
+		"operations": ["add", "add", "multiply", "subtract", "add"],
+		"answer": 8071,
+		"intermediateResults": [124, 209, 8151, 8051, 8071]
+	},
+	{
+		"numbers": [51, 59, 74, 76, 62],
+		"operations": ["subtract", "multiply", "subtract", "multiply"],
+		"answer": -41416,
+		"intermediateResults": [-8, -592, -668, -41416]
+	},
+	{
+		"numbers": [33, 70, 87, 47, 82, 50],
+		"operations": ["add", "subtract", "add", "multiply", "subtract"],
+		"answer": 5116,
+		"intermediateResults": [103, 16, 63, 5166, 5116]
+	},
+	{
+		"numbers": [59, 20, 99],
+		"operations": ["multiply", "add"],
+		"answer": 1279,
+		"intermediateResults": [1180, 1279]
+	},
+	{
+		"numbers": [88, 99, 31, 47, 89, 17, 82],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": -183,
+		"intermediateResults": [-11, -42, 5, -84, -101, -183]
+	},
+	{
+		"numbers": [20, 20, 48, 33, 88],
+		"operations": ["multiply", "add", "subtract", "subtract"],
+		"answer": 327,
+		"intermediateResults": [400, 448, 415, 327]
+	},
+	{
+		"numbers": [61, 59, 21, 67, 84, 91],
+		"operations": ["add", "multiply", "subtract", "subtract", "subtract"],
+		"answer": 2278,
+		"intermediateResults": [120, 2520, 2453, 2369, 2278]
+	},
+	{
+		"numbers": [83, 86, 62],
+		"operations": ["add", "add"],
+		"answer": 231,
+		"intermediateResults": [169, 231]
+	},
+	{
+		"numbers": [92, 23, 26, 39],
+		"operations": ["multiply", "multiply", "subtract"],
+		"answer": 54977,
+		"intermediateResults": [2116, 55016, 54977]
+	},
+	{
+		"numbers": [28, 42, 27, 58, 34, 71, 65],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 62152,
+		"intermediateResults": [70, 1890, 1832, 62288, 62217, 62152]
+	},
+	{
+		"numbers": [61, 69, 59, 44],
+		"operations": ["add", "subtract", "add"],
+		"answer": 115,
+		"intermediateResults": [130, 71, 115]
+	},
+	{
+		"numbers": [59, 23, 82, 52, 44, 13, 5],
+		"operations": ["multiply", "subtract", "add", "add", "add", "multiply"],
+		"answer": 6920,
+		"intermediateResults": [1357, 1275, 1327, 1371, 1384, 6920]
+	},
+	{
+		"numbers": [51, 61, 47, 19],
+		"operations": ["subtract", "add", "multiply"],
+		"answer": 703,
+		"intermediateResults": [-10, 37, 703]
+	},
+	{
+		"numbers": [86, 11, 30, 52, 8],
+		"operations": ["subtract", "multiply", "add", "multiply"],
+		"answer": 18416,
+		"intermediateResults": [75, 2250, 2302, 18416]
+	},
+	{
+		"numbers": [92, 95, 33],
+		"operations": ["add", "add"],
+		"answer": 220,
+		"intermediateResults": [187, 220]
+	},
+	{
+		"numbers": [48, 48, 5, 90],
+		"operations": ["add", "subtract", "multiply"],
+		"answer": 8190,
+		"intermediateResults": [96, 91, 8190]
+	},
+	{
+		"numbers": [62, 58, 47, 36, 40, 18],
+		"operations": ["subtract", "subtract", "subtract", "multiply", "add"],
+		"answer": -3142,
+		"intermediateResults": [4, -43, -79, -3160, -3142]
+	},
+	{
+		"numbers": [51, 91, 28, 78],
+		"operations": ["multiply", "multiply", "subtract"],
+		"answer": 129870,
+		"intermediateResults": [4641, 129948, 129870]
+	},
+	{
+		"numbers": [92, 35, 8, 77, 90, 56, 35, 92],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": -2519,
+		"intermediateResults": [57, 49, -28, -2520, -2576, -2611, -2519]
+	},
+	{
+		"numbers": [14, 28, 34, 7, 3, 51],
+		"operations": ["subtract", "subtract", "subtract", "subtract", "multiply"],
+		"answer": -2958,
+		"intermediateResults": [-14, -48, -55, -58, -2958]
+	},
+	{
+		"numbers": [33, 49, 35],
+		"operations": ["subtract", "subtract"],
+		"answer": -51,
+		"intermediateResults": [-16, -51]
+	},
+	{
+		"numbers": [74, 87, 44, 65, 3],
+		"operations": ["multiply", "add", "add", "multiply"],
+		"answer": 19641,
+		"intermediateResults": [6438, 6482, 6547, 19641]
+	},
+	{
+		"numbers": [54, 19, 86, 40],
+		"operations": ["add", "multiply", "subtract"],
+		"answer": 6238,
+		"intermediateResults": [73, 6278, 6238]
+	},
+	{
+		"numbers": [31, 54, 29, 15, 1, 30],
+		"operations": ["multiply", "subtract", "multiply", "add", "subtract"],
+		"answer": 24646,
+		"intermediateResults": [1674, 1645, 24675, 24676, 24646]
+	},
+	{
+		"numbers": [74, 15, 58, 47, 53, 95],
+		"operations": ["subtract", "multiply", "add", "multiply", "add"],
+		"answer": 183952,
+		"intermediateResults": [59, 3422, 3469, 183857, 183952]
+	},
+	{
+		"numbers": [67, 2, 63, 55, 37, 94, 19],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply",
+			"add"
+		],
+		"answer": 29552585,
+		"intermediateResults": [134, 8442, 8497, 314389, 29552566, 29552585]
+	},
+	{
+		"numbers": [94, 60, 2, 58, 39],
+		"operations": ["multiply", "subtract", "multiply", "subtract"],
+		"answer": 326965,
+		"intermediateResults": [5640, 5638, 327004, 326965]
+	},
+	{
+		"numbers": [27, 24, 23],
+		"operations": ["subtract", "subtract"],
+		"answer": -20,
+		"intermediateResults": [3, -20]
+	},
+	{
+		"numbers": [44, 87, 6, 76],
+		"operations": ["subtract", "add", "multiply"],
+		"answer": -2812,
+		"intermediateResults": [-43, -37, -2812]
+	},
+	{
+		"numbers": [6, 92, 55, 96],
+		"operations": ["multiply", "multiply", "multiply"],
+		"answer": 2914560,
+		"intermediateResults": [552, 30360, 2914560]
+	},
+	{
+		"numbers": [96, 38, 65, 6, 76, 27],
+		"operations": ["add", "add", "add", "add", "multiply"],
+		"answer": 7587,
+		"intermediateResults": [134, 199, 205, 281, 7587]
+	},
+	{
+		"numbers": [41, 72, 93, 90, 63, 80],
+		"operations": ["add", "add", "multiply", "subtract", "multiply"],
+		"answer": 1478160,
+		"intermediateResults": [113, 206, 18540, 18477, 1478160]
+	},
+	{
+		"numbers": [55, 49, 22, 9, 42, 4, 51, 53],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"add"
+		],
+		"answer": 10826,
+		"intermediateResults": [2695, 2673, 2664, 2706, 10824, 10773, 10826]
+	},
+	{
+		"numbers": [93, 49, 58, 81, 66, 58, 48],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 8099,
+		"intermediateResults": [142, 8236, 8155, 8089, 8147, 8099]
+	},
+	{
+		"numbers": [50, 93, 60, 2, 21],
+		"operations": ["subtract", "subtract", "multiply", "multiply"],
+		"answer": -4326,
+		"intermediateResults": [-43, -103, -206, -4326]
+	},
+	{
+		"numbers": [41, 15, 6, 41, 2, 51, 29],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract"
+		],
+		"answer": 7715863,
+		"intermediateResults": [615, 3690, 151290, 151292, 7715892, 7715863]
+	},
+	{
+		"numbers": [50, 99, 3],
+		"operations": ["multiply", "subtract"],
+		"answer": 4947,
+		"intermediateResults": [4950, 4947]
+	},
+	{
+		"numbers": [4, 68, 11, 28, 60, 13, 70],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": 41714400,
+		"intermediateResults": [72, 792, 764, 45840, 595920, 41714400]
+	},
+	{
+		"numbers": [7, 78, 74],
+		"operations": ["add", "multiply"],
+		"answer": 6290,
+		"intermediateResults": [85, 6290]
+	},
+	{
+		"numbers": [26, 26, 49, 33, 5],
+		"operations": ["add", "subtract", "add", "add"],
+		"answer": 41,
+		"intermediateResults": [52, 3, 36, 41]
+	},
+	{
+		"numbers": [94, 13, 14, 80, 1],
+		"operations": ["subtract", "add", "add", "add"],
+		"answer": 176,
+		"intermediateResults": [81, 95, 175, 176]
+	},
+	{
+		"numbers": [1, 64, 32, 85, 84, 35],
+		"operations": ["subtract", "subtract", "multiply", "add", "add"],
+		"answer": -7956,
+		"intermediateResults": [-63, -95, -8075, -7991, -7956]
+	},
+	{
+		"numbers": [84, 100, 32],
+		"operations": ["add", "subtract"],
+		"answer": 152,
+		"intermediateResults": [184, 152]
+	},
+	{
+		"numbers": [25, 29, 24, 99, 63],
+		"operations": ["multiply", "add", "add", "multiply"],
+		"answer": 53424,
+		"intermediateResults": [725, 749, 848, 53424]
+	},
+	{
+		"numbers": [15, 57, 30, 24, 62, 53, 57],
+		"operations": ["subtract", "add", "subtract", "multiply", "add", "add"],
+		"answer": -2122,
+		"intermediateResults": [-42, -12, -36, -2232, -2179, -2122]
+	},
+	{
+		"numbers": [93, 97, 72, 29, 91, 83],
+		"operations": ["multiply", "subtract", "subtract", "add", "multiply"],
+		"answer": 747913,
+		"intermediateResults": [9021, 8949, 8920, 9011, 747913]
+	},
+	{
+		"numbers": [21, 91, 96, 39, 53, 35, 15],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": -6507,
+		"intermediateResults": [-70, -166, -6474, -6527, -6492, -6507]
+	},
+	{
+		"numbers": [89, 95, 68, 2],
+		"operations": ["add", "multiply", "add"],
+		"answer": 12514,
+		"intermediateResults": [184, 12512, 12514]
+	},
+	{
+		"numbers": [56, 52, 74, 51, 6, 49, 51, 63],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract"
+		],
+		"answer": -1089984,
+		"intermediateResults": [4, -70, -3570, -21420, -21371, -1089921, -1089984]
+	},
+	{
+		"numbers": [31, 98, 35, 38, 49, 30],
+		"operations": ["subtract", "multiply", "add", "add", "multiply"],
+		"answer": -67740,
+		"intermediateResults": [-67, -2345, -2307, -2258, -67740]
+	},
+	{
+		"numbers": [84, 40, 77, 69, 51, 80],
+		"operations": ["add", "subtract", "add", "subtract", "add"],
+		"answer": 145,
+		"intermediateResults": [124, 47, 116, 65, 145]
+	},
+	{
+		"numbers": [10, 26, 3, 59],
+		"operations": ["add", "subtract", "subtract"],
+		"answer": -26,
+		"intermediateResults": [36, 33, -26]
+	},
+	{
+		"numbers": [79, 46, 51, 11, 73, 62, 83, 24],
+		"operations": [
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 6437352,
+		"intermediateResults": [3634, 3685, 3674, 268202, 268140, 268223, 6437352]
+	},
+	{
+		"numbers": [56, 98, 58, 89, 5],
+		"operations": ["add", "add", "subtract", "multiply"],
+		"answer": 615,
+		"intermediateResults": [154, 212, 123, 615]
+	},
+	{
+		"numbers": [99, 26, 5],
+		"operations": ["add", "subtract"],
+		"answer": 120,
+		"intermediateResults": [125, 120]
+	},
+	{
+		"numbers": [59, 43, 19, 16],
+		"operations": ["add", "add", "multiply"],
+		"answer": 1936,
+		"intermediateResults": [102, 121, 1936]
+	},
+	{
+		"numbers": [47, 48, 73],
+		"operations": ["multiply", "subtract"],
+		"answer": 2183,
+		"intermediateResults": [2256, 2183]
+	},
+	{
+		"numbers": [7, 64, 81, 38, 80, 22, 69],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 2234082,
+		"intermediateResults": [448, 367, 405, 32400, 32378, 2234082]
+	},
+	{
+		"numbers": [56, 5, 36, 60, 7, 56],
+		"operations": ["add", "add", "add", "subtract", "add"],
+		"answer": 206,
+		"intermediateResults": [61, 97, 157, 150, 206]
+	},
+	{
+		"numbers": [59, 64, 31, 94, 59, 41, 57, 47],
+		"operations": [
+			"multiply",
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 16815801,
+		"intermediateResults": [
+			3776, 3807, 357858, 357799, 357840, 357783, 16815801
+		]
+	},
+	{
+		"numbers": [54, 17, 76, 41, 96, 1],
+		"operations": ["add", "add", "subtract", "add", "add"],
+		"answer": 203,
+		"intermediateResults": [71, 147, 106, 202, 203]
+	},
+	{
+		"numbers": [43, 47, 10, 50, 5],
+		"operations": ["add", "multiply", "multiply", "add"],
+		"answer": 45005,
+		"intermediateResults": [90, 900, 45000, 45005]
+	},
+	{
+		"numbers": [27, 95, 33, 60, 73],
+		"operations": ["add", "add", "multiply", "subtract"],
+		"answer": 9227,
+		"intermediateResults": [122, 155, 9300, 9227]
+	},
+	{
+		"numbers": [50, 34, 55, 32, 19, 58],
+		"operations": ["add", "add", "add", "multiply", "multiply"],
+		"answer": 188442,
+		"intermediateResults": [84, 139, 171, 3249, 188442]
+	},
+	{
+		"numbers": [78, 94, 91, 89, 61, 24, 36],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 1425163332,
+		"intermediateResults": [
+			7332, 667212, 59381868, 59381807, 1425163368, 1425163332
+		]
+	},
+	{
+		"numbers": [99, 28, 74, 80],
+		"operations": ["add", "add", "multiply"],
+		"answer": 16080,
+		"intermediateResults": [127, 201, 16080]
+	},
+	{
+		"numbers": [36, 94, 55, 87, 11],
+		"operations": ["add", "multiply", "multiply", "add"],
+		"answer": 622061,
+		"intermediateResults": [130, 7150, 622050, 622061]
+	},
+	{
+		"numbers": [26, 61, 87, 6, 75, 93, 60, 61],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": 8648,
+		"intermediateResults": [87, 174, 168, 93, 8649, 8709, 8648]
+	},
+	{
+		"numbers": [11, 73, 86, 76, 76, 94, 13, 62],
+		"operations": ["add", "add", "subtract", "add", "subtract", "add", "add"],
+		"answer": 151,
+		"intermediateResults": [84, 170, 94, 170, 76, 89, 151]
+	},
+	{
+		"numbers": [95, 22, 85, 54, 31, 13, 66, 25],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply"
+		],
+		"answer": 2169750,
+		"intermediateResults": [73, -12, 42, 1302, 1315, 86790, 2169750]
+	},
+	{
+		"numbers": [80, 80, 90, 55, 64, 90],
+		"operations": ["multiply", "add", "multiply", "subtract", "subtract"],
+		"answer": 356796,
+		"intermediateResults": [6400, 6490, 356950, 356886, 356796]
+	},
+	{
+		"numbers": [91, 6, 84, 86, 86, 36],
+		"operations": ["subtract", "subtract", "subtract", "subtract", "multiply"],
+		"answer": -6156,
+		"intermediateResults": [85, 1, -85, -171, -6156]
+	},
+	{
+		"numbers": [64, 80, 46, 72, 56, 46, 64, 27],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply"
+		],
+		"answer": 6359526,
+		"intermediateResults": [
+			5120, 235520, 235592, 235648, 235602, 235538, 6359526
+		]
+	},
+	{
+		"numbers": [87, 3, 86, 80, 44, 90, 16],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": 4034,
+		"intermediateResults": [84, 170, 90, 3960, 4050, 4034]
+	},
+	{
+		"numbers": [85, 58, 84, 90],
+		"operations": ["add", "multiply", "subtract"],
+		"answer": 11922,
+		"intermediateResults": [143, 12012, 11922]
+	},
+	{
+		"numbers": [33, 60, 30, 73, 33, 9],
+		"operations": ["subtract", "multiply", "subtract", "add", "multiply"],
+		"answer": -7650,
+		"intermediateResults": [-27, -810, -883, -850, -7650]
+	},
+	{
+		"numbers": [55, 33, 42, 15, 100, 50],
+		"operations": ["multiply", "multiply", "add", "subtract", "add"],
+		"answer": 76195,
+		"intermediateResults": [1815, 76230, 76245, 76145, 76195]
+	},
+	{
+		"numbers": [94, 67, 49, 77, 81],
+		"operations": ["subtract", "add", "multiply", "add"],
+		"answer": 5933,
+		"intermediateResults": [27, 76, 5852, 5933]
+	},
+	{
+		"numbers": [11, 29, 6, 89, 93, 40],
+		"operations": ["subtract", "subtract", "subtract", "subtract", "subtract"],
+		"answer": -246,
+		"intermediateResults": [-18, -24, -113, -206, -246]
+	},
+	{
+		"numbers": [49, 21, 35, 51],
+		"operations": ["multiply", "multiply", "multiply"],
+		"answer": 1836765,
+		"intermediateResults": [1029, 36015, 1836765]
+	},
+	{
+		"numbers": [2, 32, 86, 66],
+		"operations": ["subtract", "add", "add"],
+		"answer": 122,
+		"intermediateResults": [-30, 56, 122]
+	},
+	{
+		"numbers": [24, 37, 33],
+		"operations": ["subtract", "add"],
+		"answer": 20,
+		"intermediateResults": [-13, 20]
+	},
+	{
+		"numbers": [57, 16, 90, 63, 86, 84, 68],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": -266600,
+		"intermediateResults": [41, -49, -3087, -3173, -266532, -266600]
+	},
+	{
+		"numbers": [25, 66, 23, 23, 1, 45],
+		"operations": ["add", "add", "multiply", "subtract", "subtract"],
+		"answer": 2576,
+		"intermediateResults": [91, 114, 2622, 2621, 2576]
+	},
+	{
+		"numbers": [89, 2, 14, 78, 19, 67, 89],
+		"operations": [
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 5965,
+		"intermediateResults": [91, 77, 6006, 5987, 6054, 5965]
+	},
+	{
+		"numbers": [6, 88, 8, 53],
+		"operations": ["add", "subtract", "multiply"],
+		"answer": 4558,
+		"intermediateResults": [94, 86, 4558]
+	},
+	{
+		"numbers": [76, 17, 65, 36, 72, 64],
+		"operations": ["multiply", "add", "subtract", "subtract", "add"],
+		"answer": 1313,
+		"intermediateResults": [1292, 1357, 1321, 1249, 1313]
+	},
+	{
+		"numbers": [8, 36, 26, 15, 17, 71],
+		"operations": ["multiply", "add", "multiply", "add", "subtract"],
+		"answer": 4656,
+		"intermediateResults": [288, 314, 4710, 4727, 4656]
+	},
+	{
+		"numbers": [49, 89, 99, 53, 26, 41, 57, 67],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": -1157588547,
+		"intermediateResults": [
+			-40, -139, -7367, -7393, -303113, -17277441, -1157588547
+		]
+	},
+	{
+		"numbers": [70, 59, 17],
+		"operations": ["subtract", "multiply"],
+		"answer": 187,
+		"intermediateResults": [11, 187]
+	},
+	{
+		"numbers": [32, 5, 7, 35, 11, 28],
+		"operations": ["subtract", "add", "multiply", "add", "subtract"],
+		"answer": 1173,
+		"intermediateResults": [27, 34, 1190, 1201, 1173]
+	},
+	{
+		"numbers": [20, 7, 29, 89, 30, 59, 1],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 665,
+		"intermediateResults": [27, 783, 694, 724, 665, 665]
+	},
+	{
+		"numbers": [21, 20, 34],
+		"operations": ["add", "subtract"],
+		"answer": 7,
+		"intermediateResults": [41, 7]
+	},
+	{
+		"numbers": [83, 63, 7, 10, 45, 98],
+		"operations": ["add", "add", "add", "subtract", "subtract"],
+		"answer": 20,
+		"intermediateResults": [146, 153, 163, 118, 20]
+	},
+	{
+		"numbers": [54, 36, 53, 90, 12],
+		"operations": ["multiply", "multiply", "subtract", "subtract"],
+		"answer": 102930,
+		"intermediateResults": [1944, 103032, 102942, 102930]
+	},
+	{
+		"numbers": [9, 80, 63, 24, 50, 51, 36, 40],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": -3241,
+		"intermediateResults": [-71, -134, -3216, -3266, -3317, -3281, -3241]
+	},
+	{
+		"numbers": [29, 82, 87, 68, 76, 78],
+		"operations": ["subtract", "add", "multiply", "add", "multiply"],
+		"answer": 186264,
+		"intermediateResults": [-53, 34, 2312, 2388, 186264]
+	},
+	{
+		"numbers": [36, 52, 99],
+		"operations": ["multiply", "subtract"],
+		"answer": 1773,
+		"intermediateResults": [1872, 1773]
+	},
+	{
+		"numbers": [54, 2, 32, 97],
+		"operations": ["subtract", "add", "add"],
+		"answer": 181,
+		"intermediateResults": [52, 84, 181]
+	},
+	{
+		"numbers": [13, 63, 94, 83, 10, 75],
+		"operations": ["add", "add", "subtract", "add", "subtract"],
+		"answer": 22,
+		"intermediateResults": [76, 170, 87, 97, 22]
+	},
+	{
+		"numbers": [17, 24, 26, 96, 4],
+		"operations": ["subtract", "add", "multiply", "add"],
+		"answer": 1828,
+		"intermediateResults": [-7, 19, 1824, 1828]
+	},
+	{
+		"numbers": [31, 74, 34, 85, 79, 50, 61],
+		"operations": [
+			"add",
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply"
+		],
+		"answer": 1647,
+		"intermediateResults": [105, 71, 156, 77, 27, 1647]
+	},
+	{
+		"numbers": [80, 5, 26, 28, 73, 42, 7, 17],
+		"operations": [
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"add",
+			"subtract"
+		],
+		"answer": 29086,
+		"intermediateResults": [400, 426, 398, 29054, 29096, 29103, 29086]
+	},
+	{
+		"numbers": [12, 4, 28, 88, 56, 83, 46, 45],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": -330,
+		"intermediateResults": [16, -12, -100, -156, -239, -285, -330]
+	},
+	{
+		"numbers": [64, 36, 52],
+		"operations": ["multiply", "multiply"],
+		"answer": 119808,
+		"intermediateResults": [2304, 119808]
+	},
+	{
+		"numbers": [29, 57, 46, 89, 92, 91],
+		"operations": ["subtract", "subtract", "add", "multiply", "multiply"],
+		"answer": 125580,
+		"intermediateResults": [-28, -74, 15, 1380, 125580]
+	},
+	{
+		"numbers": [99, 48, 98, 62, 26, 70, 93, 18],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply",
+			"add"
+		],
+		"answer": -270054,
+		"intermediateResults": [51, -47, -109, -2834, -2904, -270072, -270054]
+	},
+	{
+		"numbers": [83, 40, 5, 59, 75, 89],
+		"operations": ["subtract", "add", "multiply", "multiply", "multiply"],
+		"answer": 18903600,
+		"intermediateResults": [43, 48, 2832, 212400, 18903600]
+	},
+	{
+		"numbers": [87, 95, 100, 61, 13],
+		"operations": ["subtract", "add", "multiply", "add"],
+		"answer": 5625,
+		"intermediateResults": [-8, 92, 5612, 5625]
+	},
+	{
+		"numbers": [82, 65, 90, 52, 31, 84, 28, 49],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": -5760636,
+		"intermediateResults": [17, -73, -3796, -117676, -117592, -117564, -5760636]
+	},
+	{
+		"numbers": [52, 86, 25],
+		"operations": ["subtract", "multiply"],
+		"answer": -850,
+		"intermediateResults": [-34, -850]
+	},
+	{
+		"numbers": [4, 49, 18, 93, 25],
+		"operations": ["add", "add", "subtract", "add"],
+		"answer": 3,
+		"intermediateResults": [53, 71, -22, 3]
+	},
+	{
+		"numbers": [99, 100, 18],
+		"operations": ["add", "add"],
+		"answer": 217,
+		"intermediateResults": [199, 217]
+	},
+	{
+		"numbers": [3, 37, 16, 79, 96],
+		"operations": ["multiply", "multiply", "multiply", "add"],
+		"answer": 140400,
+		"intermediateResults": [111, 1776, 140304, 140400]
+	},
+	{
+		"numbers": [20, 17, 99, 95, 62],
+		"operations": ["multiply", "subtract", "add", "subtract"],
+		"answer": 274,
+		"intermediateResults": [340, 241, 336, 274]
+	},
+	{
+		"numbers": [60, 89, 54, 94, 54, 33, 84, 42],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": -9567,
+		"intermediateResults": [-29, -83, -177, -9558, -9525, -9609, -9567]
+	},
+	{
+		"numbers": [80, 3, 74],
+		"operations": ["add", "subtract"],
+		"answer": 9,
+		"intermediateResults": [83, 9]
+	},
+	{
+		"numbers": [82, 55, 30, 19],
+		"operations": ["add", "multiply", "subtract"],
+		"answer": 4091,
+		"intermediateResults": [137, 4110, 4091]
+	},
+	{
+		"numbers": [62, 72, 69, 33, 6, 31],
+		"operations": ["multiply", "add", "add", "multiply", "add"],
+		"answer": 27427,
+		"intermediateResults": [4464, 4533, 4566, 27396, 27427]
+	},
+	{
+		"numbers": [44, 26, 57, 33, 21, 60, 81, 42],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 22071,
+		"intermediateResults": [1144, 1087, 1054, 22134, 22194, 22113, 22071]
+	},
+	{
+		"numbers": [57, 41, 75, 81, 86, 41, 13],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": -16850767,
+		"intermediateResults": [16, -59, -4779, -410994, -16850754, -16850767]
+	},
+	{
+		"numbers": [100, 99, 77, 74, 96, 23, 13, 44],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 14550,
+		"intermediateResults": [1, 77, 151, 14496, 14519, 14506, 14550]
+	},
+	{
+		"numbers": [20, 36, 61, 58, 11],
+		"operations": ["multiply", "multiply", "add", "add"],
+		"answer": 43989,
+		"intermediateResults": [720, 43920, 43978, 43989]
+	},
+	{
+		"numbers": [51, 50, 63, 95, 24, 17, 44, 80],
+		"operations": [
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": 160610560,
+		"intermediateResults": [2550, 2613, 2708, 2684, 45628, 2007632, 160610560]
+	},
+	{
+		"numbers": [90, 95, 85, 64, 8],
+		"operations": ["add", "multiply", "add", "add"],
+		"answer": 15797,
+		"intermediateResults": [185, 15725, 15789, 15797]
+	},
+	{
+		"numbers": [42, 4, 26, 15, 42],
+		"operations": ["multiply", "subtract", "subtract", "subtract"],
+		"answer": 85,
+		"intermediateResults": [168, 142, 127, 85]
+	},
+	{
+		"numbers": [70, 54, 23, 53, 18],
+		"operations": ["multiply", "multiply", "subtract", "multiply"],
+		"answer": 1563966,
+		"intermediateResults": [3780, 86940, 86887, 1563966]
+	},
+	{
+		"numbers": [59, 5, 32, 81, 32],
+		"operations": ["add", "multiply", "multiply", "subtract"],
+		"answer": 165856,
+		"intermediateResults": [64, 2048, 165888, 165856]
+	},
+	{
+		"numbers": [40, 36, 49],
+		"operations": ["multiply", "subtract"],
+		"answer": 1391,
+		"intermediateResults": [1440, 1391]
+	},
+	{
+		"numbers": [25, 79, 79, 92],
+		"operations": ["add", "add", "add"],
+		"answer": 275,
+		"intermediateResults": [104, 183, 275]
+	},
+	{
+		"numbers": [95, 42, 9, 32, 30],
+		"operations": ["multiply", "add", "subtract", "multiply"],
+		"answer": 119010,
+		"intermediateResults": [3990, 3999, 3967, 119010]
+	},
+	{
+		"numbers": [80, 42, 54, 1, 16, 43],
+		"operations": ["add", "subtract", "add", "multiply", "multiply"],
+		"answer": 47472,
+		"intermediateResults": [122, 68, 69, 1104, 47472]
+	},
+	{
+		"numbers": [38, 66, 47],
+		"operations": ["subtract", "multiply"],
+		"answer": -1316,
+		"intermediateResults": [-28, -1316]
+	},
+	{
+		"numbers": [4, 87, 66, 64, 1, 52],
+		"operations": ["add", "add", "subtract", "multiply", "subtract"],
+		"answer": 41,
+		"intermediateResults": [91, 157, 93, 93, 41]
+	},
+	{
+		"numbers": [9, 27, 26, 43],
+		"operations": ["subtract", "subtract", "subtract"],
+		"answer": -87,
+		"intermediateResults": [-18, -44, -87]
+	},
+	{
+		"numbers": [37, 63, 75, 94, 64],
+		"operations": ["multiply", "multiply", "add", "add"],
+		"answer": 174983,
+		"intermediateResults": [2331, 174825, 174919, 174983]
+	},
+	{
+		"numbers": [18, 8, 26, 54, 6, 45, 5],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 110475,
+		"intermediateResults": [144, 3744, 3690, 22140, 22095, 110475]
+	},
+	{
+		"numbers": [25, 94, 73],
+		"operations": ["add", "subtract"],
+		"answer": 46,
+		"intermediateResults": [119, 46]
+	},
+	{
+		"numbers": [45, 93, 15, 78, 30],
+		"operations": ["add", "subtract", "subtract", "subtract"],
+		"answer": 15,
+		"intermediateResults": [138, 123, 45, 15]
+	},
+	{
+		"numbers": [47, 58, 25],
+		"operations": ["subtract", "subtract"],
+		"answer": -36,
+		"intermediateResults": [-11, -36]
+	},
+	{
+		"numbers": [4, 94, 67],
+		"operations": ["subtract", "add"],
+		"answer": -23,
+		"intermediateResults": [-90, -23]
+	},
+	{
+		"numbers": [98, 94, 38, 7, 29],
+		"operations": ["subtract", "subtract", "subtract", "multiply"],
+		"answer": -1189,
+		"intermediateResults": [4, -34, -41, -1189]
+	},
+	{
+		"numbers": [58, 14, 48, 45, 64, 59],
+		"operations": ["add", "add", "multiply", "multiply", "subtract"],
+		"answer": 345541,
+		"intermediateResults": [72, 120, 5400, 345600, 345541]
+	},
+	{
+		"numbers": [70, 96, 74, 15, 32, 41],
+		"operations": ["multiply", "subtract", "add", "add", "multiply"],
+		"answer": 274413,
+		"intermediateResults": [6720, 6646, 6661, 6693, 274413]
+	},
+	{
+		"numbers": [59, 100, 9, 90, 77],
+		"operations": ["add", "add", "subtract", "multiply"],
+		"answer": 6006,
+		"intermediateResults": [159, 168, 78, 6006]
+	},
+	{
+		"numbers": [49, 24, 95],
+		"operations": ["multiply", "subtract"],
+		"answer": 1081,
+		"intermediateResults": [1176, 1081]
+	},
+	{
+		"numbers": [85, 96, 76, 37, 97, 91, 15],
+		"operations": ["multiply", "add", "subtract", "multiply", "add", "add"],
+		"answer": 795409,
+		"intermediateResults": [8160, 8236, 8199, 795303, 795394, 795409]
+	},
+	{
+		"numbers": [34, 87, 43, 66, 81, 82, 15],
+		"operations": ["add", "add", "multiply", "multiply", "subtract", "add"],
+		"answer": 876677,
+		"intermediateResults": [121, 164, 10824, 876744, 876662, 876677]
+	},
+	{
+		"numbers": [10, 90, 95],
+		"operations": ["multiply", "subtract"],
+		"answer": 805,
+		"intermediateResults": [900, 805]
+	},
+	{
+		"numbers": [75, 3, 76, 21],
+		"operations": ["subtract", "add", "add"],
+		"answer": 169,
+		"intermediateResults": [72, 148, 169]
+	},
+	{
+		"numbers": [23, 59, 63, 51],
+		"operations": ["subtract", "add", "multiply"],
+		"answer": 1377,
+		"intermediateResults": [-36, 27, 1377]
+	},
+	{
+		"numbers": [98, 22, 67],
+		"operations": ["subtract", "multiply"],
+		"answer": 5092,
+		"intermediateResults": [76, 5092]
+	},
+	{
+		"numbers": [30, 49, 59, 18, 68],
+		"operations": ["add", "subtract", "multiply", "multiply"],
+		"answer": 24480,
+		"intermediateResults": [79, 20, 360, 24480]
+	},
+	{
+		"numbers": [64, 94, 39, 74, 33, 1, 21, 43],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply"
+		],
+		"answer": -960792,
+		"intermediateResults": [-30, -1170, -1096, -1063, -1064, -22344, -960792]
+	},
+	{
+		"numbers": [76, 41, 55, 40],
+		"operations": ["multiply", "multiply", "multiply"],
+		"answer": 6855200,
+		"intermediateResults": [3116, 171380, 6855200]
+	},
+	{
+		"numbers": [93, 88, 56, 85, 70, 70],
+		"operations": ["subtract", "subtract", "multiply", "subtract", "subtract"],
+		"answer": -4475,
+		"intermediateResults": [5, -51, -4335, -4405, -4475]
+	},
+	{
+		"numbers": [44, 25, 60, 52, 10],
+		"operations": ["add", "subtract", "multiply", "add"],
+		"answer": 478,
+		"intermediateResults": [69, 9, 468, 478]
+	},
+	{
+		"numbers": [52, 62, 44, 15, 2],
+		"operations": ["multiply", "multiply", "multiply", "add"],
+		"answer": 2127842,
+		"intermediateResults": [3224, 141856, 2127840, 2127842]
+	},
+	{
+		"numbers": [58, 83, 89, 94, 79],
+		"operations": ["add", "multiply", "multiply", "add"],
+		"answer": 1179685,
+		"intermediateResults": [141, 12549, 1179606, 1179685]
+	},
+	{
+		"numbers": [67, 29, 30, 88, 62, 70, 62],
+		"operations": ["add", "subtract", "subtract", "add", "add", "multiply"],
+		"answer": 6820,
+		"intermediateResults": [96, 66, -22, 40, 110, 6820]
+	},
+	{
+		"numbers": [86, 12, 12, 24, 40, 63],
+		"operations": ["multiply", "multiply", "subtract", "add", "multiply"],
+		"answer": 781200,
+		"intermediateResults": [1032, 12384, 12360, 12400, 781200]
+	},
+	{
+		"numbers": [61, 52, 2, 45, 11],
+		"operations": ["add", "add", "multiply", "subtract"],
+		"answer": 5164,
+		"intermediateResults": [113, 115, 5175, 5164]
+	},
+	{
+		"numbers": [74, 9, 27],
+		"operations": ["subtract", "subtract"],
+		"answer": 38,
+		"intermediateResults": [65, 38]
+	},
+	{
+		"numbers": [83, 84, 98, 5, 91, 83, 33],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply",
+			"add",
+			"add"
+		],
+		"answer": -44474,
+		"intermediateResults": [-1, -98, -490, -44590, -44507, -44474]
+	},
+	{
+		"numbers": [43, 18, 49, 34, 2],
+		"operations": ["multiply", "subtract", "multiply", "subtract"],
+		"answer": 24648,
+		"intermediateResults": [774, 725, 24650, 24648]
+	},
+	{
+		"numbers": [83, 55, 11, 69, 89, 21, 50, 69],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract"
+		],
+		"answer": 383681,
+		"intermediateResults": [28, 17, 86, 7654, 7675, 383750, 383681]
+	},
+	{
+		"numbers": [54, 54, 7, 31],
+		"operations": ["add", "subtract", "multiply"],
+		"answer": 3131,
+		"intermediateResults": [108, 101, 3131]
+	},
+	{
+		"numbers": [48, 30, 79, 93, 61, 29],
+		"operations": ["multiply", "subtract", "multiply", "subtract", "add"],
+		"answer": 126541,
+		"intermediateResults": [1440, 1361, 126573, 126512, 126541]
+	},
+	{
+		"numbers": [60, 61, 6, 82, 44, 61, 6, 98],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"add",
+			"multiply",
+			"multiply",
+			"add"
+		],
+		"answer": 44018,
+		"intermediateResults": [-1, -6, 76, 120, 7320, 43920, 44018]
+	},
+	{
+		"numbers": [52, 39, 55, 77],
+		"operations": ["add", "multiply", "subtract"],
+		"answer": 4928,
+		"intermediateResults": [91, 5005, 4928]
+	},
+	{
+		"numbers": [28, 65, 1, 60, 53, 20, 94],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 527622,
+		"intermediateResults": [93, 93, 5580, 5633, 5613, 527622]
+	},
+	{
+		"numbers": [58, 91, 1, 16, 25, 19, 53, 89],
+		"operations": ["add", "add", "subtract", "multiply", "add", "add", "add"],
+		"answer": 3511,
+		"intermediateResults": [149, 150, 134, 3350, 3369, 3422, 3511]
+	},
+	{
+		"numbers": [25, 3, 87, 52, 87],
+		"operations": ["subtract", "subtract", "add", "subtract"],
+		"answer": -100,
+		"intermediateResults": [22, -65, -13, -100]
+	},
+	{
+		"numbers": [60, 90, 31, 55],
+		"operations": ["subtract", "add", "subtract"],
+		"answer": -54,
+		"intermediateResults": [-30, 1, -54]
+	},
+	{
+		"numbers": [46, 4, 50, 42, 7],
+		"operations": ["multiply", "multiply", "add", "add"],
+		"answer": 9249,
+		"intermediateResults": [184, 9200, 9242, 9249]
+	},
+	{
+		"numbers": [16, 25, 64, 13, 84],
+		"operations": ["multiply", "multiply", "add", "subtract"],
+		"answer": 25529,
+		"intermediateResults": [400, 25600, 25613, 25529]
+	},
+	{
+		"numbers": [12, 4, 52, 61, 47, 48, 99],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply"
+		],
+		"answer": 11347776,
+		"intermediateResults": [48, 2496, 2435, 2388, 114624, 11347776]
+	},
+	{
+		"numbers": [43, 49, 1, 26, 77, 64, 36],
+		"operations": ["add", "add", "subtract", "multiply", "add", "subtract"],
+		"answer": 5187,
+		"intermediateResults": [92, 93, 67, 5159, 5223, 5187]
+	},
+	{
+		"numbers": [42, 50, 64, 98, 49, 41, 36, 73],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply"
+		],
+		"answer": 7576524,
+		"intermediateResults": [92, 156, 58, 2842, 2883, 103788, 7576524]
+	},
+	{
+		"numbers": [83, 69, 95, 32, 51, 69, 44],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": -1364,
+		"intermediateResults": [14, -81, -49, -100, -31, -1364]
+	},
+	{
+		"numbers": [22, 54, 51, 8, 34, 20, 7, 28],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 621964,
+		"intermediateResults": [1188, 1137, 1145, 1111, 22220, 22213, 621964]
+	},
+	{
+		"numbers": [12, 70, 73, 17, 18, 57, 63],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply"
+		],
+		"answer": 42525,
+		"intermediateResults": [840, 767, 750, 732, 675, 42525]
+	},
+	{
+		"numbers": [8, 4, 92, 73, 67, 95, 77],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": -3311,
+		"intermediateResults": [4, -88, -15, 52, -43, -3311]
+	},
+	{
+		"numbers": [64, 8, 69, 10, 65, 48, 98, 73],
+		"operations": [
+			"multiply",
+			"add",
+			"add",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 3085751,
+		"intermediateResults": [512, 581, 591, 656, 31488, 3085824, 3085751]
+	},
+	{
+		"numbers": [80, 72, 41, 44, 66],
+		"operations": ["add", "multiply", "multiply", "subtract"],
+		"answer": 274142,
+		"intermediateResults": [152, 6232, 274208, 274142]
+	},
+	{
+		"numbers": [82, 40, 21, 53, 78, 12, 27, 22],
+		"operations": [
+			"add",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"add"
+		],
+		"answer": 961,
+		"intermediateResults": [122, 101, 154, 76, 912, 939, 961]
+	},
+	{
+		"numbers": [94, 39, 26, 69, 54, 76, 80],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": 1951,
+		"intermediateResults": [55, 29, 2001, 1947, 1871, 1951]
+	},
+	{
+		"numbers": [64, 28, 49, 34, 8, 43, 91, 74],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply",
+			"multiply"
+		],
+		"answer": 203328119904,
+		"intermediateResults": [
+			1792, 87808, 87774, 702192, 30194256, 2747677296, 203328119904
+		]
+	},
+	{
+		"numbers": [14, 44, 94, 86, 35],
+		"operations": ["add", "subtract", "multiply", "add"],
+		"answer": -3061,
+		"intermediateResults": [58, -36, -3096, -3061]
+	},
+	{
+		"numbers": [58, 3, 27, 8, 60, 95, 20],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": 11705,
+		"intermediateResults": [55, 1485, 11880, 11820, 11725, 11705]
+	},
+	{
+		"numbers": [36, 77, 82, 94, 52, 27, 88],
+		"operations": [
+			"multiply",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 13950237,
+		"intermediateResults": [2772, 2854, 268276, 13950352, 13950325, 13950237]
+	},
+	{
+		"numbers": [31, 63, 72, 80],
+		"operations": ["add", "add", "multiply"],
+		"answer": 13280,
+		"intermediateResults": [94, 166, 13280]
+	},
+	{
+		"numbers": [85, 99, 31, 7],
+		"operations": ["multiply", "multiply", "multiply"],
+		"answer": 1826055,
+		"intermediateResults": [8415, 260865, 1826055]
+	},
+	{
+		"numbers": [23, 96, 41, 66, 6, 75, 45, 67],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 305288933,
+		"intermediateResults": [
+			2208, 90528, 90462, 90456, 6784200, 305289000, 305288933
+		]
+	},
+	{
+		"numbers": [74, 32, 83, 99, 43, 57, 18, 99],
+		"operations": [
+			"add",
+			"subtract",
+			"add",
+			"add",
+			"multiply",
+			"add",
+			"multiply"
+		],
+		"answer": 932877,
+		"intermediateResults": [106, 23, 122, 165, 9405, 9423, 932877]
+	},
+	{
+		"numbers": [41, 73, 25, 64, 75, 82, 69, 45],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"add",
+			"multiply",
+			"subtract"
+		],
+		"answer": 5178129,
+		"intermediateResults": [2993, 74825, 74889, 74964, 75046, 5178174, 5178129]
+	},
+	{
+		"numbers": [7, 65, 26, 14, 19],
+		"operations": ["subtract", "subtract", "add", "multiply"],
+		"answer": -1330,
+		"intermediateResults": [-58, -84, -70, -1330]
+	},
+	{
+		"numbers": [73, 96, 53, 38, 66, 98, 76, 79],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"multiply",
+			"add",
+			"add",
+			"subtract"
+		],
+		"answer": 588749,
+		"intermediateResults": [169, 8957, 8919, 588654, 588752, 588828, 588749]
+	},
+	{
+		"numbers": [54, 75, 64, 12, 8, 85],
+		"operations": ["multiply", "multiply", "subtract", "add", "multiply"],
+		"answer": 22031660,
+		"intermediateResults": [4050, 259200, 259188, 259196, 22031660]
+	},
+	{
+		"numbers": [40, 87, 68, 38, 45, 65],
+		"operations": ["multiply", "subtract", "multiply", "add", "add"],
+		"answer": 129766,
+		"intermediateResults": [3480, 3412, 129656, 129701, 129766]
+	},
+	{
+		"numbers": [8, 45, 20, 69],
+		"operations": ["add", "multiply", "multiply"],
+		"answer": 73140,
+		"intermediateResults": [53, 1060, 73140]
+	},
+	{
+		"numbers": [3, 72, 77, 77, 64, 61, 49],
+		"operations": [
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": 196,
+		"intermediateResults": [216, 293, 370, 306, 245, 196]
+	},
+	{
+		"numbers": [62, 54, 19, 20, 98, 20],
+		"operations": ["subtract", "subtract", "subtract", "subtract", "subtract"],
+		"answer": -149,
+		"intermediateResults": [8, -11, -31, -129, -149]
+	},
+	{
+		"numbers": [22, 96, 10, 22, 61, 13, 19],
+		"operations": [
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": -817,
+		"intermediateResults": [-74, -740, -762, -823, -836, -817]
+	},
+	{
+		"numbers": [52, 4, 21, 99, 92, 90],
+		"operations": ["subtract", "add", "add", "multiply", "add"],
+		"answer": 15546,
+		"intermediateResults": [48, 69, 168, 15456, 15546]
+	},
+	{
+		"numbers": [49, 7, 11, 10, 72, 44],
+		"operations": ["add", "multiply", "multiply", "multiply", "add"],
+		"answer": 443564,
+		"intermediateResults": [56, 616, 6160, 443520, 443564]
+	},
+	{
+		"numbers": [79, 11, 30, 39, 62, 51],
+		"operations": ["add", "add", "subtract", "subtract", "multiply"],
+		"answer": 969,
+		"intermediateResults": [90, 120, 81, 19, 969]
+	},
+	{
+		"numbers": [41, 44, 63, 31, 11],
+		"operations": ["add", "subtract", "multiply", "multiply"],
+		"answer": 7502,
+		"intermediateResults": [85, 22, 682, 7502]
+	},
+	{
+		"numbers": [74, 25, 78, 88],
+		"operations": ["multiply", "subtract", "add"],
+		"answer": 1860,
+		"intermediateResults": [1850, 1772, 1860]
+	},
+	{
+		"numbers": [68, 99, 82, 19, 60],
+		"operations": ["subtract", "add", "add", "multiply"],
+		"answer": 4200,
+		"intermediateResults": [-31, 51, 70, 4200]
+	},
+	{
+		"numbers": [73, 49, 37],
+		"operations": ["subtract", "add"],
+		"answer": 61,
+		"intermediateResults": [24, 61]
+	},
+	{
+		"numbers": [22, 85, 72, 97],
+		"operations": ["subtract", "add", "subtract"],
+		"answer": -88,
+		"intermediateResults": [-63, 9, -88]
+	},
+	{
+		"numbers": [29, 91, 65, 54, 27, 92, 24],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": -142,
+		"intermediateResults": [120, 55, 1, -26, -118, -142]
+	},
+	{
+		"numbers": [1, 37, 44, 74, 12, 73],
+		"operations": ["subtract", "subtract", "add", "add", "add"],
+		"answer": 79,
+		"intermediateResults": [-36, -80, -6, 6, 79]
+	},
+	{
+		"numbers": [8, 41, 83, 53],
+		"operations": ["add", "multiply", "multiply"],
+		"answer": 215551,
+		"intermediateResults": [49, 4067, 215551]
+	},
+	{
+		"numbers": [84, 43, 20],
+		"operations": ["multiply", "add"],
+		"answer": 3632,
+		"intermediateResults": [3612, 3632]
+	},
+	{
+		"numbers": [91, 93, 95, 23, 51, 42, 94, 55],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply",
+			"add"
+		],
+		"answer": -411571,
+		"intermediateResults": [-2, -190, -4370, -4421, -4379, -411626, -411571]
+	},
+	{
+		"numbers": [20, 90, 69, 90, 89, 61, 6],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 7854,
+		"intermediateResults": [110, 179, 89, 7921, 7860, 7854]
+	},
+	{
+		"numbers": [88, 31, 47, 80, 98, 34, 18],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 50850,
+		"intermediateResults": [2728, 2681, 2761, 2859, 2825, 50850]
+	},
+	{
+		"numbers": [75, 74, 32, 5, 63],
+		"operations": ["subtract", "add", "add", "add"],
+		"answer": 101,
+		"intermediateResults": [1, 33, 38, 101]
+	},
+	{
+		"numbers": [90, 42, 17, 96],
+		"operations": ["multiply", "add", "multiply"],
+		"answer": 364512,
+		"intermediateResults": [3780, 3797, 364512]
+	},
+	{
+		"numbers": [92, 68, 24, 47, 74, 98],
+		"operations": ["add", "add", "add", "add", "multiply"],
+		"answer": 29890,
+		"intermediateResults": [160, 184, 231, 305, 29890]
+	},
+	{
+		"numbers": [4, 20, 24, 90, 41, 73],
+		"operations": ["multiply", "multiply", "add", "add", "subtract"],
+		"answer": 1978,
+		"intermediateResults": [80, 1920, 2010, 2051, 1978]
+	},
+	{
+		"numbers": [70, 6, 18, 85, 85, 72],
+		"operations": ["add", "subtract", "add", "subtract", "subtract"],
+		"answer": -14,
+		"intermediateResults": [76, 58, 143, 58, -14]
+	},
+	{
+		"numbers": [69, 67, 34, 18, 73],
+		"operations": ["add", "subtract", "add", "multiply"],
+		"answer": 8760,
+		"intermediateResults": [136, 102, 120, 8760]
+	},
+	{
+		"numbers": [3, 4, 62],
+		"operations": ["multiply", "multiply"],
+		"answer": 744,
+		"intermediateResults": [12, 744]
+	},
+	{
+		"numbers": [62, 66, 99, 20, 1, 87, 4, 2],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 405208,
+		"intermediateResults": [
+			4092, 405108, 405128, 405127, 405214, 405210, 405208
+		]
+	},
+	{
+		"numbers": [67, 42, 58, 26, 37, 82],
+		"operations": ["subtract", "subtract", "multiply", "add", "multiply"],
+		"answer": -67322,
+		"intermediateResults": [25, -33, -858, -821, -67322]
+	},
+	{
+		"numbers": [81, 40, 87, 19, 2],
+		"operations": ["multiply", "subtract", "subtract", "multiply"],
+		"answer": 6268,
+		"intermediateResults": [3240, 3153, 3134, 6268]
+	},
+	{
+		"numbers": [67, 60, 85, 33, 76, 18, 40, 53],
+		"operations": [
+			"add",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"add"
+		],
+		"answer": 193549,
+		"intermediateResults": [127, 10795, 10828, 10752, 193536, 193496, 193549]
+	},
+	{
+		"numbers": [62, 57, 85, 27, 28, 39],
+		"operations": ["multiply", "subtract", "multiply", "subtract", "add"],
+		"answer": 93134,
+		"intermediateResults": [3534, 3449, 93123, 93095, 93134]
+	},
+	{
+		"numbers": [10, 15, 35, 1],
+		"operations": ["add", "add", "subtract"],
+		"answer": 59,
+		"intermediateResults": [25, 60, 59]
+	},
+	{
+		"numbers": [99, 56, 88, 5, 19],
+		"operations": ["add", "add", "multiply", "subtract"],
+		"answer": 1196,
+		"intermediateResults": [155, 243, 1215, 1196]
+	},
+	{
+		"numbers": [25, 53, 7],
+		"operations": ["subtract", "add"],
+		"answer": -21,
+		"intermediateResults": [-28, -21]
+	},
+	{
+		"numbers": [66, 88, 91, 7],
+		"operations": ["multiply", "subtract", "multiply"],
+		"answer": 40019,
+		"intermediateResults": [5808, 5717, 40019]
+	},
+	{
+		"numbers": [45, 93, 44, 85, 46],
+		"operations": ["subtract", "multiply", "subtract", "subtract"],
+		"answer": -2243,
+		"intermediateResults": [-48, -2112, -2197, -2243]
+	},
+	{
+		"numbers": [48, 18, 63, 45, 32],
+		"operations": ["subtract", "multiply", "subtract", "multiply"],
+		"answer": 59040,
+		"intermediateResults": [30, 1890, 1845, 59040]
+	},
+	{
+		"numbers": [29, 78, 59, 92, 39, 56],
+		"operations": ["subtract", "add", "add", "multiply", "add"],
+		"answer": 4034,
+		"intermediateResults": [-49, 10, 102, 3978, 4034]
+	},
+	{
+		"numbers": [69, 67, 5, 14, 92],
+		"operations": ["subtract", "subtract", "subtract", "multiply"],
+		"answer": -1564,
+		"intermediateResults": [2, -3, -17, -1564]
+	},
+	{
+		"numbers": [65, 75, 12, 25, 73, 63, 41],
+		"operations": ["add", "subtract", "subtract", "add", "add", "multiply"],
+		"answer": 9799,
+		"intermediateResults": [140, 128, 103, 176, 239, 9799]
+	},
+	{
+		"numbers": [64, 9, 95, 98, 44, 43],
+		"operations": ["add", "multiply", "add", "add", "multiply"],
+		"answer": 304311,
+		"intermediateResults": [73, 6935, 7033, 7077, 304311]
+	},
+	{
+		"numbers": [12, 22, 13, 62],
+		"operations": ["add", "subtract", "add"],
+		"answer": 83,
+		"intermediateResults": [34, 21, 83]
+	},
+	{
+		"numbers": [57, 12, 71],
+		"operations": ["add", "multiply"],
+		"answer": 4899,
+		"intermediateResults": [69, 4899]
+	},
+	{
+		"numbers": [95, 12, 73],
+		"operations": ["multiply", "multiply"],
+		"answer": 83220,
+		"intermediateResults": [1140, 83220]
+	},
+	{
+		"numbers": [8, 85, 90, 67, 72, 71, 96, 4],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 2242972,
+		"intermediateResults": [93, 8370, 560790, 560718, 560647, 560743, 2242972]
+	},
+	{
+		"numbers": [90, 34, 3, 1, 1, 66],
+		"operations": ["multiply", "add", "add", "multiply", "subtract"],
+		"answer": 2998,
+		"intermediateResults": [3060, 3063, 3064, 3064, 2998]
+	},
+	{
+		"numbers": [53, 93, 5, 42, 34, 10, 36],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 39,
+		"intermediateResults": [146, 141, 99, 65, 75, 39]
+	},
+	{
+		"numbers": [20, 96, 8, 14, 10, 33, 65],
+		"operations": ["subtract", "add", "subtract", "multiply", "add", "add"],
+		"answer": -722,
+		"intermediateResults": [-76, -68, -82, -820, -787, -722]
+	},
+	{
+		"numbers": [65, 71, 96],
+		"operations": ["add", "subtract"],
+		"answer": 40,
+		"intermediateResults": [136, 40]
+	},
+	{
+		"numbers": [49, 81, 19, 85, 74, 3, 44],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"add",
+			"subtract"
+		],
+		"answer": 3920,
+		"intermediateResults": [3969, 3950, 4035, 3961, 3964, 3920]
+	},
+	{
+		"numbers": [27, 84, 43],
+		"operations": ["add", "add"],
+		"answer": 154,
+		"intermediateResults": [111, 154]
+	},
+	{
+		"numbers": [7, 69, 8, 31, 99, 63, 79],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"add"
+		],
+		"answer": 933991,
+		"intermediateResults": [483, 475, 14725, 14824, 933912, 933991]
+	},
+	{
+		"numbers": [63, 87, 52, 71, 28, 2, 8],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 1231984,
+		"intermediateResults": [5481, 5429, 5500, 154000, 153998, 1231984]
+	},
+	{
+		"numbers": [32, 45, 12, 22, 3, 54, 46],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add"
+		],
+		"answer": 931816,
+		"intermediateResults": [1440, 17280, 17258, 17255, 931770, 931816]
+	},
+	{
+		"numbers": [58, 25, 87, 87],
+		"operations": ["multiply", "add", "add"],
+		"answer": 1624,
+		"intermediateResults": [1450, 1537, 1624]
+	},
+	{
+		"numbers": [24, 1, 64, 76],
+		"operations": ["multiply", "multiply", "subtract"],
+		"answer": 1460,
+		"intermediateResults": [24, 1536, 1460]
+	},
+	{
+		"numbers": [15, 45, 96],
+		"operations": ["add", "add"],
+		"answer": 156,
+		"intermediateResults": [60, 156]
+	},
+	{
+		"numbers": [49, 83, 76],
+		"operations": ["subtract", "subtract"],
+		"answer": -110,
+		"intermediateResults": [-34, -110]
+	},
+	{
+		"numbers": [36, 35, 53, 100],
+		"operations": ["multiply", "subtract", "multiply"],
+		"answer": 120700,
+		"intermediateResults": [1260, 1207, 120700]
+	},
+	{
+		"numbers": [22, 57, 97],
+		"operations": ["multiply", "add"],
+		"answer": 1351,
+		"intermediateResults": [1254, 1351]
+	},
+	{
+		"numbers": [4, 100, 29],
+		"operations": ["multiply", "add"],
+		"answer": 429,
+		"intermediateResults": [400, 429]
+	},
+	{
+		"numbers": [68, 76, 24, 68, 42, 48],
+		"operations": ["subtract", "subtract", "multiply", "subtract", "subtract"],
+		"answer": -2266,
+		"intermediateResults": [-8, -32, -2176, -2218, -2266]
+	},
+	{
+		"numbers": [57, 64, 55],
+		"operations": ["add", "add"],
+		"answer": 176,
+		"intermediateResults": [121, 176]
+	},
+	{
+		"numbers": [95, 92, 82],
+		"operations": ["multiply", "add"],
+		"answer": 8822,
+		"intermediateResults": [8740, 8822]
+	},
+	{
+		"numbers": [100, 4, 59, 27, 67],
+		"operations": ["add", "subtract", "subtract", "add"],
+		"answer": 85,
+		"intermediateResults": [104, 45, 18, 85]
+	},
+	{
+		"numbers": [31, 97, 86, 72, 33, 11],
+		"operations": ["subtract", "subtract", "multiply", "subtract", "add"],
+		"answer": -10966,
+		"intermediateResults": [-66, -152, -10944, -10977, -10966]
+	},
+	{
+		"numbers": [57, 15, 91, 64, 71, 76, 31, 100],
+		"operations": [
+			"add",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 12998913,
+		"intermediateResults": [
+			72, 6552, 419328, 419399, 419323, 12999013, 12998913
+		]
+	},
+	{
+		"numbers": [32, 100, 84, 99],
+		"operations": ["add", "multiply", "add"],
+		"answer": 11187,
+		"intermediateResults": [132, 11088, 11187]
+	},
+	{
+		"numbers": [53, 88, 38],
+		"operations": ["subtract", "add"],
+		"answer": 3,
+		"intermediateResults": [-35, 3]
+	},
+	{
+		"numbers": [57, 69, 88, 80, 93],
+		"operations": ["add", "add", "multiply", "multiply"],
+		"answer": 1592160,
+		"intermediateResults": [126, 214, 17120, 1592160]
+	},
+	{
+		"numbers": [53, 57, 68, 19, 62, 97, 1, 41],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"add"
+		],
+		"answer": -11115,
+		"intermediateResults": [-4, -72, -53, -115, -11155, -11156, -11115]
+	},
+	{
+		"numbers": [79, 78, 83, 83],
+		"operations": ["subtract", "subtract", "multiply"],
+		"answer": -6806,
+		"intermediateResults": [1, -82, -6806]
+	},
+	{
+		"numbers": [93, 92, 77, 65, 23, 95, 89, 31],
+		"operations": [
+			"add",
+			"add",
+			"multiply",
+			"add",
+			"multiply",
+			"add",
+			"multiply"
+		],
+		"answer": 50223844,
+		"intermediateResults": [185, 262, 17030, 17053, 1620035, 1620124, 50223844]
+	},
+	{
+		"numbers": [41, 64, 78, 73, 21, 29],
+		"operations": ["add", "multiply", "add", "add", "subtract"],
+		"answer": 8255,
+		"intermediateResults": [105, 8190, 8263, 8284, 8255]
+	},
+	{
+		"numbers": [46, 61, 93],
+		"operations": ["add", "add"],
+		"answer": 200,
+		"intermediateResults": [107, 200]
+	},
+	{
+		"numbers": [56, 91, 22, 68, 77],
+		"operations": ["subtract", "subtract", "multiply", "add"],
+		"answer": -3799,
+		"intermediateResults": [-35, -57, -3876, -3799]
+	},
+	{
+		"numbers": [41, 100, 37, 51, 56, 85],
+		"operations": ["add", "subtract", "multiply", "add", "multiply"],
+		"answer": 455600,
+		"intermediateResults": [141, 104, 5304, 5360, 455600]
+	},
+	{
+		"numbers": [90, 48, 9, 75, 50],
+		"operations": ["add", "subtract", "subtract", "subtract"],
+		"answer": 4,
+		"intermediateResults": [138, 129, 54, 4]
+	},
+	{
+		"numbers": [92, 44, 42, 87, 73, 22, 70],
+		"operations": ["multiply", "subtract", "add", "multiply", "add", "add"],
+		"answer": 298881,
+		"intermediateResults": [4048, 4006, 4093, 298789, 298811, 298881]
+	},
+	{
+		"numbers": [74, 29, 69, 41],
+		"operations": ["multiply", "subtract", "add"],
+		"answer": 2118,
+		"intermediateResults": [2146, 2077, 2118]
+	},
+	{
+		"numbers": [15, 80, 44],
+		"operations": ["multiply", "subtract"],
+		"answer": 1156,
+		"intermediateResults": [1200, 1156]
+	},
+	{
+		"numbers": [96, 81, 51, 94],
+		"operations": ["subtract", "multiply", "subtract"],
+		"answer": 671,
+		"intermediateResults": [15, 765, 671]
+	},
+	{
+		"numbers": [79, 9, 49, 29],
+		"operations": ["multiply", "add", "multiply"],
+		"answer": 22040,
+		"intermediateResults": [711, 760, 22040]
+	},
+	{
+		"numbers": [17, 10, 5],
+		"operations": ["add", "multiply"],
+		"answer": 135,
+		"intermediateResults": [27, 135]
+	},
+	{
+		"numbers": [20, 64, 58, 71, 48, 60, 20],
+		"operations": ["multiply", "add", "subtract", "add", "subtract", "add"],
+		"answer": 1275,
+		"intermediateResults": [1280, 1338, 1267, 1315, 1255, 1275]
+	},
+	{
+		"numbers": [37, 52, 75, 51],
+		"operations": ["multiply", "multiply", "multiply"],
+		"answer": 7359300,
+		"intermediateResults": [1924, 144300, 7359300]
+	},
+	{
+		"numbers": [99, 1, 39],
+		"operations": ["add", "multiply"],
+		"answer": 3900,
+		"intermediateResults": [100, 3900]
+	},
+	{
+		"numbers": [60, 54, 62, 19, 16, 66, 99],
+		"operations": [
+			"multiply",
+			"multiply",
+			"multiply",
+			"multiply",
+			"add",
+			"multiply"
+		],
+		"answer": 6045691014,
+		"intermediateResults": [
+			3240, 200880, 3816720, 61067520, 61067586, 6045691014
+		]
+	},
+	{
+		"numbers": [52, 62, 39, 86],
+		"operations": ["add", "add", "multiply"],
+		"answer": 13158,
+		"intermediateResults": [114, 153, 13158]
+	},
+	{
+		"numbers": [42, 90, 39, 80],
+		"operations": ["subtract", "add", "subtract"],
+		"answer": -89,
+		"intermediateResults": [-48, -9, -89]
+	},
+	{
+		"numbers": [95, 100, 90, 16],
+		"operations": ["subtract", "subtract", "multiply"],
+		"answer": -1520,
+		"intermediateResults": [-5, -95, -1520]
+	},
+	{
+		"numbers": [36, 94, 25],
+		"operations": ["add", "add"],
+		"answer": 155,
+		"intermediateResults": [130, 155]
+	},
+	{
+		"numbers": [88, 49, 62, 62, 36, 62, 65, 19],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 102542601,
+		"intermediateResults": [
+			39, 2418, 149916, 5396976, 5396914, 5396979, 102542601
+		]
+	},
+	{
+		"numbers": [69, 76, 91, 54],
+		"operations": ["multiply", "subtract", "subtract"],
+		"answer": 5099,
+		"intermediateResults": [5244, 5153, 5099]
+	},
+	{
+		"numbers": [10, 48, 27, 40, 74],
+		"operations": ["subtract", "multiply", "multiply", "subtract"],
+		"answer": -41114,
+		"intermediateResults": [-38, -1026, -41040, -41114]
+	},
+	{
+		"numbers": [16, 10, 73, 37],
+		"operations": ["subtract", "multiply", "subtract"],
+		"answer": 401,
+		"intermediateResults": [6, 438, 401]
+	},
+	{
+		"numbers": [4, 37, 67, 68],
+		"operations": ["multiply", "add", "subtract"],
+		"answer": 147,
+		"intermediateResults": [148, 215, 147]
+	},
+	{
+		"numbers": [44, 65, 29],
+		"operations": ["subtract", "add"],
+		"answer": 8,
+		"intermediateResults": [-21, 8]
+	},
+	{
+		"numbers": [76, 46, 35, 82, 24, 11],
+		"operations": ["subtract", "subtract", "add", "add", "add"],
+		"answer": 112,
+		"intermediateResults": [30, -5, 77, 101, 112]
+	},
+	{
+		"numbers": [23, 54, 24],
+		"operations": ["subtract", "add"],
+		"answer": -7,
+		"intermediateResults": [-31, -7]
+	},
+	{
+		"numbers": [81, 53, 11, 74, 10, 53, 69],
+		"operations": [
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 2915043,
+		"intermediateResults": [4293, 4304, 4230, 42300, 42247, 2915043]
+	},
+	{
+		"numbers": [17, 92, 23, 86, 86, 57, 88],
+		"operations": ["multiply", "add", "subtract", "subtract", "add", "add"],
+		"answer": 1560,
+		"intermediateResults": [1564, 1587, 1501, 1415, 1472, 1560]
+	},
+	{
+		"numbers": [72, 47, 37, 57, 71, 46, 34],
+		"operations": ["add", "add", "subtract", "multiply", "multiply", "add"],
+		"answer": 323368,
+		"intermediateResults": [119, 156, 99, 7029, 323334, 323368]
+	},
+	{
+		"numbers": [88, 41, 53, 34],
+		"operations": ["multiply", "add", "multiply"],
+		"answer": 124474,
+		"intermediateResults": [3608, 3661, 124474]
+	},
+	{
+		"numbers": [8, 29, 8, 41, 46, 60, 100, 69],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": -7,
+		"intermediateResults": [-21, -29, -70, -116, -176, -76, -7]
+	},
+	{
+		"numbers": [9, 81, 50, 5, 100, 84],
+		"operations": ["subtract", "add", "subtract", "multiply", "add"],
+		"answer": -2616,
+		"intermediateResults": [-72, -22, -27, -2700, -2616]
+	},
+	{
+		"numbers": [11, 86, 37],
+		"operations": ["multiply", "multiply"],
+		"answer": 35002,
+		"intermediateResults": [946, 35002]
+	},
+	{
+		"numbers": [40, 92, 30],
+		"operations": ["subtract", "subtract"],
+		"answer": -82,
+		"intermediateResults": [-52, -82]
+	},
+	{
+		"numbers": [1, 13, 69, 14, 97, 86, 65],
+		"operations": [
+			"subtract",
+			"add",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 592217,
+		"intermediateResults": [-12, 57, 71, 6887, 592282, 592217]
+	},
+	{
+		"numbers": [75, 3, 53, 89, 67, 94, 16],
+		"operations": [
+			"multiply",
+			"add",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract"
+		],
+		"answer": 2332030,
+		"intermediateResults": [225, 278, 24742, 24809, 2332046, 2332030]
+	},
+	{
+		"numbers": [65, 34, 88, 89],
+		"operations": ["add", "multiply", "subtract"],
+		"answer": 8623,
+		"intermediateResults": [99, 8712, 8623]
+	},
+	{
+		"numbers": [40, 63, 38, 66, 43, 50, 35, 76],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": -273091,
+		"intermediateResults": [-23, -61, -127, -5461, -273050, -273015, -273091]
+	},
+	{
+		"numbers": [71, 44, 20, 60, 18, 77, 9],
+		"operations": ["add", "add", "add", "add", "add", "multiply"],
+		"answer": 2610,
+		"intermediateResults": [115, 135, 195, 213, 290, 2610]
+	},
+	{
+		"numbers": [100, 28, 86, 34, 4],
+		"operations": ["add", "multiply", "add", "add"],
+		"answer": 11046,
+		"intermediateResults": [128, 11008, 11042, 11046]
+	},
+	{
+		"numbers": [21, 52, 80, 28, 69, 57],
+		"operations": ["add", "add", "multiply", "subtract", "multiply"],
+		"answer": 240255,
+		"intermediateResults": [73, 153, 4284, 4215, 240255]
+	},
+	{
+		"numbers": [24, 34, 61, 14, 100, 99, 35],
+		"operations": [
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": -590,
+		"intermediateResults": [-10, -610, -624, -724, -625, -590]
+	},
+	{
+		"numbers": [72, 23, 38, 31, 18],
+		"operations": ["multiply", "add", "multiply", "multiply"],
+		"answer": 945252,
+		"intermediateResults": [1656, 1694, 52514, 945252]
+	},
+	{
+		"numbers": [6, 54, 23, 26, 100, 22, 25, 79],
+		"operations": [
+			"add",
+			"add",
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 948,
+		"intermediateResults": [60, 83, 109, 9, -13, 12, 948]
+	},
+	{
+		"numbers": [25, 16, 30, 51, 57, 82, 35],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 2345,
+		"intermediateResults": [9, -21, -72, -15, 67, 2345]
+	},
+	{
+		"numbers": [35, 84, 79, 15, 16, 52, 34],
+		"operations": [
+			"add",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 5120536,
+		"intermediateResults": [119, 9401, 9416, 150656, 150604, 5120536]
+	},
+	{
+		"numbers": [32, 54, 99],
+		"operations": ["multiply", "add"],
+		"answer": 1827,
+		"intermediateResults": [1728, 1827]
+	},
+	{
+		"numbers": [21, 45, 27, 17],
+		"operations": ["subtract", "subtract", "multiply"],
+		"answer": -867,
+		"intermediateResults": [-24, -51, -867]
+	},
+	{
+		"numbers": [7, 58, 23],
+		"operations": ["subtract", "add"],
+		"answer": -28,
+		"intermediateResults": [-51, -28]
+	},
+	{
+		"numbers": [7, 37, 69, 10, 75],
+		"operations": ["multiply", "add", "add", "multiply"],
+		"answer": 25350,
+		"intermediateResults": [259, 328, 338, 25350]
+	},
+	{
+		"numbers": [27, 51, 44, 18, 89, 89],
+		"operations": ["subtract", "multiply", "multiply", "add", "subtract"],
+		"answer": -19008,
+		"intermediateResults": [-24, -1056, -19008, -18919, -19008]
+	},
+	{
+		"numbers": [35, 52, 35, 19, 69, 99, 34],
+		"operations": [
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 34612,
+		"intermediateResults": [87, 52, 988, 919, 1018, 34612]
+	},
+	{
+		"numbers": [43, 46, 82, 44, 58, 13, 86],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract",
+			"subtract"
+		],
+		"answer": 9409821,
+		"intermediateResults": [1978, 162196, 162240, 9409920, 9409907, 9409821]
+	},
+	{
+		"numbers": [83, 71, 50, 63, 17, 46, 7],
+		"operations": [
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": 573,
+		"intermediateResults": [12, 600, 537, 520, 566, 573]
+	},
+	{
+		"numbers": [90, 68, 30, 76, 63],
+		"operations": ["multiply", "multiply", "add", "multiply"],
+		"answer": 11571588,
+		"intermediateResults": [6120, 183600, 183676, 11571588]
+	},
+	{
+		"numbers": [45, 43, 69],
+		"operations": ["add", "subtract"],
+		"answer": 19,
+		"intermediateResults": [88, 19]
+	},
+	{
+		"numbers": [56, 80, 28],
+		"operations": ["add", "add"],
+		"answer": 164,
+		"intermediateResults": [136, 164]
+	},
+	{
+		"numbers": [50, 99, 98, 95, 59],
+		"operations": ["multiply", "multiply", "subtract", "add"],
+		"answer": 485064,
+		"intermediateResults": [4950, 485100, 485005, 485064]
+	},
+	{
+		"numbers": [15, 75, 55, 21, 40, 55, 83],
+		"operations": ["subtract", "multiply", "add", "multiply", "add", "add"],
+		"answer": -131022,
+		"intermediateResults": [-60, -3300, -3279, -131160, -131105, -131022]
+	},
+	{
+		"numbers": [61, 71, 52, 76],
+		"operations": ["multiply", "subtract", "add"],
+		"answer": 4355,
+		"intermediateResults": [4331, 4279, 4355]
+	},
+	{
+		"numbers": [14, 2, 22, 69, 39, 16, 16],
+		"operations": ["add", "subtract", "subtract", "subtract", "add", "add"],
+		"answer": -82,
+		"intermediateResults": [16, -6, -75, -114, -98, -82]
+	},
+	{
+		"numbers": [48, 61, 15, 22, 28, 97, 69],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply",
+			"add"
+		],
+		"answer": -418777,
+		"intermediateResults": [-13, -195, -4290, -4318, -418846, -418777]
+	},
+	{
+		"numbers": [65, 9, 64, 12, 67],
+		"operations": ["multiply", "multiply", "multiply", "subtract"],
+		"answer": 449213,
+		"intermediateResults": [585, 37440, 449280, 449213]
+	},
+	{
+		"numbers": [77, 79, 72],
+		"operations": ["add", "add"],
+		"answer": 228,
+		"intermediateResults": [156, 228]
+	},
+	{
+		"numbers": [47, 23, 39],
+		"operations": ["multiply", "multiply"],
+		"answer": 42159,
+		"intermediateResults": [1081, 42159]
+	},
+	{
+		"numbers": [85, 13, 92, 9, 57, 5, 29],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 461,
+		"intermediateResults": [72, 164, 155, 98, 490, 461]
+	},
+	{
+		"numbers": [30, 52, 22, 91],
+		"operations": ["multiply", "multiply", "multiply"],
+		"answer": 3123120,
+		"intermediateResults": [1560, 34320, 3123120]
+	},
+	{
+		"numbers": [81, 37, 72, 51, 25, 23],
+		"operations": ["add", "subtract", "subtract", "add", "multiply"],
+		"answer": 460,
+		"intermediateResults": [118, 46, -5, 20, 460]
+	},
+	{
+		"numbers": [58, 17, 27, 65, 32, 57, 13, 35],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply"
+		],
+		"answer": 910,
+		"intermediateResults": [41, 68, 3, 96, 39, 26, 910]
+	},
+	{
+		"numbers": [28, 16, 85, 52, 38, 42, 29, 41],
+		"operations": [
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"add"
+		],
+		"answer": -51,
+		"intermediateResults": [12, -73, -125, -163, -121, -92, -51]
+	},
+	{
+		"numbers": [95, 97, 6, 7, 81, 29, 3],
+		"operations": [
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": -2497,
+		"intermediateResults": [-2, -12, -5, -86, -2494, -2497]
+	},
+	{
+		"numbers": [53, 53, 80],
+		"operations": ["multiply", "add"],
+		"answer": 2889,
+		"intermediateResults": [2809, 2889]
+	},
+	{
+		"numbers": [71, 31, 18],
+		"operations": ["subtract", "subtract"],
+		"answer": 22,
+		"intermediateResults": [40, 22]
+	},
+	{
+		"numbers": [8, 70, 33, 90, 80, 72, 92, 90],
+		"operations": ["multiply", "subtract", "add", "add", "add", "add", "add"],
+		"answer": 951,
+		"intermediateResults": [560, 527, 617, 697, 769, 861, 951]
+	},
+	{
+		"numbers": [10, 98, 83, 55, 87, 76],
+		"operations": ["subtract", "add", "add", "multiply", "multiply"],
+		"answer": 330600,
+		"intermediateResults": [-88, -5, 50, 4350, 330600]
+	},
+	{
+		"numbers": [91, 38, 62, 45, 48, 37],
+		"operations": ["subtract", "add", "add", "subtract", "multiply"],
+		"answer": 4144,
+		"intermediateResults": [53, 115, 160, 112, 4144]
+	},
+	{
+		"numbers": [55, 43, 96, 6, 98, 60],
+		"operations": ["subtract", "add", "subtract", "subtract", "multiply"],
+		"answer": 240,
+		"intermediateResults": [12, 108, 102, 4, 240]
+	},
+	{
+		"numbers": [47, 81, 70, 88, 100],
+		"operations": ["subtract", "subtract", "add", "add"],
+		"answer": 84,
+		"intermediateResults": [-34, -104, -16, 84]
+	},
+	{
+		"numbers": [16, 73, 2, 92],
+		"operations": ["multiply", "add", "add"],
+		"answer": 1262,
+		"intermediateResults": [1168, 1170, 1262]
+	},
+	{
+		"numbers": [29, 10, 84, 21, 32, 31, 60, 47],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"add"
+		],
+		"answer": 24445,
+		"intermediateResults": [290, 24360, 24339, 24307, 24338, 24398, 24445]
+	},
+	{
+		"numbers": [82, 100, 93],
+		"operations": ["multiply", "subtract"],
+		"answer": 8107,
+		"intermediateResults": [8200, 8107]
+	},
+	{
+		"numbers": [66, 21, 64, 3, 11, 74, 79, 39],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"add",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 19149,
+		"intermediateResults": [45, 109, 327, 338, 412, 491, 19149]
+	},
+	{
+		"numbers": [83, 96, 16, 58, 54, 14, 37],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": -12095,
+		"intermediateResults": [-13, -208, -12064, -12118, -12132, -12095]
+	},
+	{
+		"numbers": [60, 82, 57, 78, 58, 73],
+		"operations": ["multiply", "multiply", "add", "multiply", "add"],
+		"answer": 16270117,
+		"intermediateResults": [4920, 280440, 280518, 16270044, 16270117]
+	},
+	{
+		"numbers": [83, 88, 82, 5, 9, 65, 8],
+		"operations": ["multiply", "add", "add", "add", "multiply", "add"],
+		"answer": 481008,
+		"intermediateResults": [7304, 7386, 7391, 7400, 481000, 481008]
+	},
+	{
+		"numbers": [21, 5, 61, 29, 59, 6, 72, 93],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": 146568,
+		"intermediateResults": [26, 1586, 1557, 1498, 1504, 1576, 146568]
+	},
+	{
+		"numbers": [34, 39, 82, 18],
+		"operations": ["multiply", "add", "multiply"],
+		"answer": 25344,
+		"intermediateResults": [1326, 1408, 25344]
+	},
+	{
+		"numbers": [34, 92, 20],
+		"operations": ["multiply", "multiply"],
+		"answer": 62560,
+		"intermediateResults": [3128, 62560]
+	},
+	{
+		"numbers": [56, 65, 92],
+		"operations": ["subtract", "multiply"],
+		"answer": -828,
+		"intermediateResults": [-9, -828]
+	},
+	{
+		"numbers": [79, 22, 81, 69, 32, 24, 24, 43],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": 56,
+		"intermediateResults": [57, -24, 45, 13, -11, 13, 56]
+	},
+	{
+		"numbers": [97, 73, 44, 68, 16],
+		"operations": ["subtract", "multiply", "subtract", "add"],
+		"answer": 1004,
+		"intermediateResults": [24, 1056, 988, 1004]
+	},
+	{
+		"numbers": [54, 9, 97, 20, 13, 49, 6],
+		"operations": ["add", "multiply", "subtract", "add", "subtract", "add"],
+		"answer": 6061,
+		"intermediateResults": [63, 6111, 6091, 6104, 6055, 6061]
+	},
+	{
+		"numbers": [40, 32, 38, 19, 79, 59],
+		"operations": ["add", "add", "add", "subtract", "subtract"],
+		"answer": -9,
+		"intermediateResults": [72, 110, 129, 50, -9]
+	},
+	{
+		"numbers": [17, 85, 31],
+		"operations": ["add", "multiply"],
+		"answer": 3162,
+		"intermediateResults": [102, 3162]
+	},
+	{
+		"numbers": [64, 76, 65, 94, 65, 10, 96],
+		"operations": ["multiply", "subtract", "subtract", "add", "add", "add"],
+		"answer": 4876,
+		"intermediateResults": [4864, 4799, 4705, 4770, 4780, 4876]
+	},
+	{
+		"numbers": [63, 12, 19, 82, 12, 25, 6, 41],
+		"operations": [
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract"
+		],
+		"answer": 21090,
+		"intermediateResults": [756, 775, 857, 845, 21125, 21131, 21090]
+	},
+	{
+		"numbers": [80, 4, 1],
+		"operations": ["add", "multiply"],
+		"answer": 84,
+		"intermediateResults": [84, 84]
+	},
+	{
+		"numbers": [60, 53, 77, 38, 31, 36],
+		"operations": ["add", "subtract", "multiply", "subtract", "multiply"],
+		"answer": 48132,
+		"intermediateResults": [113, 36, 1368, 1337, 48132]
+	},
+	{
+		"numbers": [39, 83, 95, 19],
+		"operations": ["multiply", "add", "subtract"],
+		"answer": 3313,
+		"intermediateResults": [3237, 3332, 3313]
+	},
+	{
+		"numbers": [82, 66, 3],
+		"operations": ["multiply", "multiply"],
+		"answer": 16236,
+		"intermediateResults": [5412, 16236]
+	},
+	{
+		"numbers": [17, 44, 62, 89, 31, 88, 91],
+		"operations": [
+			"subtract",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": -7571,
+		"intermediateResults": [-27, 35, -54, -85, -7480, -7571]
+	},
+	{
+		"numbers": [15, 39, 66],
+		"operations": ["add", "add"],
+		"answer": 120,
+		"intermediateResults": [54, 120]
+	},
+	{
+		"numbers": [23, 24, 98, 99, 21, 82],
+		"operations": ["multiply", "subtract", "subtract", "multiply", "add"],
+		"answer": 7537,
+		"intermediateResults": [552, 454, 355, 7455, 7537]
+	},
+	{
+		"numbers": [41, 97, 90, 58, 92, 79, 85, 99],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"add",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": -292491,
+		"intermediateResults": [
+			-56, -5040, -292320, -292228, -292307, -292392, -292491
+		]
+	},
+	{
+		"numbers": [78, 37, 55, 26, 96, 36, 59, 95],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"add"
+		],
+		"answer": 58606,
+		"intermediateResults": [41, 2255, 58630, 58534, 58570, 58511, 58606]
+	},
+	{
+		"numbers": [37, 14, 9, 22, 14, 41, 33, 54],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": 65556,
+		"intermediateResults": [518, 4662, 4684, 65576, 65535, 65502, 65556]
+	},
+	{
+		"numbers": [77, 72, 23, 100],
+		"operations": ["subtract", "subtract", "add"],
+		"answer": 82,
+		"intermediateResults": [5, -18, 82]
+	},
+	{
+		"numbers": [19, 24, 38],
+		"operations": ["add", "add"],
+		"answer": 81,
+		"intermediateResults": [43, 81]
+	},
+	{
+		"numbers": [8, 84, 71, 61],
+		"operations": ["multiply", "add", "add"],
+		"answer": 804,
+		"intermediateResults": [672, 743, 804]
+	},
+	{
+		"numbers": [18, 43, 5, 97, 61, 96, 25],
+		"operations": [
+			"subtract",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 551,
+		"intermediateResults": [-25, -30, 67, 6, 576, 551]
+	},
+	{
+		"numbers": [8, 17, 74, 64],
+		"operations": ["subtract", "subtract", "multiply"],
+		"answer": -5312,
+		"intermediateResults": [-9, -83, -5312]
+	},
+	{
+		"numbers": [9, 74, 49, 74, 60],
+		"operations": ["multiply", "subtract", "subtract", "multiply"],
+		"answer": 32580,
+		"intermediateResults": [666, 617, 543, 32580]
+	},
+	{
+		"numbers": [67, 75, 8],
+		"operations": ["subtract", "add"],
+		"answer": 0,
+		"intermediateResults": [-8, 0]
+	},
+	{
+		"numbers": [31, 93, 93, 75, 6, 56, 78, 78],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"subtract"
+		],
+		"answer": 2219,
+		"intermediateResults": [-62, 31, 2325, 2319, 2375, 2297, 2219]
+	},
+	{
+		"numbers": [54, 53, 7, 100, 20, 80, 60],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply",
+			"add"
+		],
+		"answer": 54460,
+		"intermediateResults": [1, 7, 700, 680, 54400, 54460]
+	},
+	{
+		"numbers": [42, 61, 36, 59],
+		"operations": ["multiply", "add", "subtract"],
+		"answer": 2539,
+		"intermediateResults": [2562, 2598, 2539]
+	},
+	{
+		"numbers": [74, 43, 31],
+		"operations": ["multiply", "multiply"],
+		"answer": 98642,
+		"intermediateResults": [3182, 98642]
+	},
+	{
+		"numbers": [93, 50, 38, 84],
+		"operations": ["subtract", "multiply", "multiply"],
+		"answer": 137256,
+		"intermediateResults": [43, 1634, 137256]
+	},
+	{
+		"numbers": [72, 69, 94, 55, 47, 50, 70, 93],
+		"operations": [
+			"add",
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": 12991,
+		"intermediateResults": [141, 235, 12925, 12878, 12828, 12898, 12991]
+	},
+	{
+		"numbers": [23, 1, 48, 93, 97, 75, 27],
+		"operations": [
+			"subtract",
+			"add",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply"
+		],
+		"answer": 176364,
+		"intermediateResults": [22, 70, 6510, 6607, 6532, 176364]
+	},
+	{
+		"numbers": [54, 73, 55, 97, 11, 21, 62, 44],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract",
+			"multiply",
+			"multiply"
+		],
+		"answer": 2493392,
+		"intermediateResults": [127, 182, 85, 935, 914, 56668, 2493392]
+	},
+	{
+		"numbers": [22, 41, 37, 47],
+		"operations": ["add", "multiply", "add"],
+		"answer": 2378,
+		"intermediateResults": [63, 2331, 2378]
+	},
+	{
+		"numbers": [99, 22, 80, 74, 79, 83, 7],
+		"operations": [
+			"multiply",
+			"subtract",
+			"add",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 15232,
+		"intermediateResults": [2178, 2098, 2172, 2093, 2176, 15232]
+	},
+	{
+		"numbers": [12, 43, 2, 20, 33, 93],
+		"operations": ["add", "subtract", "subtract", "subtract", "subtract"],
+		"answer": -93,
+		"intermediateResults": [55, 53, 33, 0, -93]
+	},
+	{
+		"numbers": [38, 91, 43, 52],
+		"operations": ["subtract", "subtract", "subtract"],
+		"answer": -148,
+		"intermediateResults": [-53, -96, -148]
+	},
+	{
+		"numbers": [56, 61, 49, 56, 3, 95, 10, 49],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"add",
+			"add",
+			"add",
+			"add"
+		],
+		"answer": 3468,
+		"intermediateResults": [3416, 3367, 3311, 3314, 3409, 3419, 3468]
+	},
+	{
+		"numbers": [87, 75, 17, 4, 30],
+		"operations": ["multiply", "multiply", "subtract", "subtract"],
+		"answer": 110891,
+		"intermediateResults": [6525, 110925, 110921, 110891]
+	},
+	{
+		"numbers": [17, 16, 42, 15],
+		"operations": ["multiply", "add", "subtract"],
+		"answer": 299,
+		"intermediateResults": [272, 314, 299]
+	},
+	{
+		"numbers": [12, 81, 84, 8, 22],
+		"operations": ["subtract", "add", "add", "subtract"],
+		"answer": 1,
+		"intermediateResults": [-69, 15, 23, 1]
+	},
+	{
+		"numbers": [28, 54, 69],
+		"operations": ["multiply", "multiply"],
+		"answer": 104328,
+		"intermediateResults": [1512, 104328]
+	},
+	{
+		"numbers": [89, 62, 20, 8, 25],
+		"operations": ["multiply", "subtract", "subtract", "multiply"],
+		"answer": 137250,
+		"intermediateResults": [5518, 5498, 5490, 137250]
+	},
+	{
+		"numbers": [54, 8, 66, 43, 30],
+		"operations": ["subtract", "subtract", "subtract", "subtract"],
+		"answer": -93,
+		"intermediateResults": [46, -20, -63, -93]
+	},
+	{
+		"numbers": [5, 71, 24, 58, 12, 41],
+		"operations": ["add", "multiply", "multiply", "subtract", "add"],
+		"answer": 105821,
+		"intermediateResults": [76, 1824, 105792, 105780, 105821]
+	},
+	{
+		"numbers": [30, 100, 1, 18, 32, 14, 53],
+		"operations": ["subtract", "multiply", "add", "subtract", "add", "add"],
+		"answer": -17,
+		"intermediateResults": [-70, -70, -52, -84, -70, -17]
+	},
+	{
+		"numbers": [52, 38, 59],
+		"operations": ["multiply", "multiply"],
+		"answer": 116584,
+		"intermediateResults": [1976, 116584]
+	},
+	{
+		"numbers": [82, 46, 31, 43, 77, 56, 34, 14],
+		"operations": [
+			"multiply",
+			"subtract",
+			"multiply",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply"
+		],
+		"answer": 76580784,
+		"intermediateResults": [
+			3772, 3741, 160863, 160940, 160884, 5470056, 76580784
+		]
+	},
+	{
+		"numbers": [18, 97, 100, 29],
+		"operations": ["add", "subtract", "subtract"],
+		"answer": -14,
+		"intermediateResults": [115, 15, -14]
+	},
+	{
+		"numbers": [71, 53, 23, 38, 83],
+		"operations": ["subtract", "subtract", "add", "multiply"],
+		"answer": 2739,
+		"intermediateResults": [18, -5, 33, 2739]
+	},
+	{
+		"numbers": [51, 38, 34, 62, 58, 29],
+		"operations": ["add", "multiply", "add", "add", "multiply"],
+		"answer": 91234,
+		"intermediateResults": [89, 3026, 3088, 3146, 91234]
+	},
+	{
+		"numbers": [81, 17, 8, 55],
+		"operations": ["subtract", "subtract", "subtract"],
+		"answer": 1,
+		"intermediateResults": [64, 56, 1]
+	},
+	{
+		"numbers": [99, 31, 50, 89, 53, 89, 6, 84],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 1076040,
+		"intermediateResults": [130, 180, 91, 144, 12816, 12810, 1076040]
+	},
+	{
+		"numbers": [80, 71, 81, 62],
+		"operations": ["multiply", "subtract", "subtract"],
+		"answer": 5537,
+		"intermediateResults": [5680, 5599, 5537]
+	},
+	{
+		"numbers": [35, 69, 35, 38, 55, 43, 30],
+		"operations": [
+			"add",
+			"subtract",
+			"add",
+			"subtract",
+			"multiply",
+			"subtract"
+		],
+		"answer": 2206,
+		"intermediateResults": [104, 69, 107, 52, 2236, 2206]
+	},
+	{
+		"numbers": [61, 85, 36, 38, 27, 24, 6, 54],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"add",
+			"subtract"
+		],
+		"answer": -32883,
+		"intermediateResults": [-24, -864, -32832, -32859, -32835, -32829, -32883]
+	},
+	{
+		"numbers": [52, 62, 19, 46, 67, 32, 52, 67],
+		"operations": [
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"add"
+		],
+		"answer": 3179,
+		"intermediateResults": [3224, 3205, 3159, 3092, 3060, 3112, 3179]
+	},
+	{
+		"numbers": [47, 89, 63],
+		"operations": ["subtract", "add"],
+		"answer": 21,
+		"intermediateResults": [-42, 21]
+	},
+	{
+		"numbers": [83, 91, 20, 8, 17, 15, 83, 82],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": 150905,
+		"intermediateResults": [
+			7553, 151060, 151068, 151085, 151070, 150987, 150905
+		]
+	},
+	{
+		"numbers": [21, 5, 54, 54, 99, 75],
+		"operations": ["subtract", "multiply", "multiply", "multiply", "subtract"],
+		"answer": 4618869,
+		"intermediateResults": [16, 864, 46656, 4618944, 4618869]
+	},
+	{
+		"numbers": [61, 84, 37, 32],
+		"operations": ["subtract", "add", "multiply"],
+		"answer": 448,
+		"intermediateResults": [-23, 14, 448]
+	},
+	{
+		"numbers": [77, 21, 91, 10, 1, 38, 78, 79],
+		"operations": [
+			"add",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": 1853,
+		"intermediateResults": [98, 189, 1890, 1890, 1852, 1774, 1853]
+	},
+	{
+		"numbers": [83, 74, 4, 33, 90, 91, 42],
+		"operations": [
+			"subtract",
+			"subtract",
+			"multiply",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": 26,
+		"intermediateResults": [9, 5, 165, 75, -16, 26]
+	},
+	{
+		"numbers": [38, 72, 40, 67, 59],
+		"operations": ["subtract", "subtract", "add", "multiply"],
+		"answer": -413,
+		"intermediateResults": [-34, -74, -7, -413]
+	},
+	{
+		"numbers": [73, 67, 5, 6, 36, 70, 23, 68],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"add",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 3473236,
+		"intermediateResults": [140, 700, 694, 730, 51100, 51077, 3473236]
+	},
+	{
+		"numbers": [75, 66, 14, 67],
+		"operations": ["add", "add", "subtract"],
+		"answer": 88,
+		"intermediateResults": [141, 155, 88]
+	},
+	{
+		"numbers": [70, 91, 22],
+		"operations": ["multiply", "add"],
+		"answer": 6392,
+		"intermediateResults": [6370, 6392]
+	},
+	{
+		"numbers": [25, 80, 34, 26, 77, 67, 35, 11],
+		"operations": [
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract",
+			"multiply",
+			"add"
+		],
+		"answer": 2374061,
+		"intermediateResults": [2000, 68000, 67974, 67897, 67830, 2374050, 2374061]
+	},
+	{
+		"numbers": [30, 30, 55, 54, 97],
+		"operations": ["multiply", "add", "subtract", "subtract"],
+		"answer": 804,
+		"intermediateResults": [900, 955, 901, 804]
+	},
+	{
+		"numbers": [5, 96, 79, 67, 13, 47, 30],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"subtract",
+			"multiply"
+		],
+		"answer": -14451690,
+		"intermediateResults": [-91, -7189, -481663, -481676, -481723, -14451690]
+	},
+	{
+		"numbers": [22, 26, 75, 26],
+		"operations": ["subtract", "add", "multiply"],
+		"answer": 1846,
+		"intermediateResults": [-4, 71, 1846]
+	},
+	{
+		"numbers": [49, 23, 89, 45, 79],
+		"operations": ["multiply", "add", "add", "add"],
+		"answer": 1340,
+		"intermediateResults": [1127, 1216, 1261, 1340]
+	},
+	{
+		"numbers": [14, 63, 67, 99],
+		"operations": ["add", "multiply", "multiply"],
+		"answer": 510741,
+		"intermediateResults": [77, 5159, 510741]
+	},
+	{
+		"numbers": [42, 33, 31, 16],
+		"operations": ["subtract", "multiply", "multiply"],
+		"answer": 4464,
+		"intermediateResults": [9, 279, 4464]
+	},
+	{
+		"numbers": [39, 97, 47],
+		"operations": ["multiply", "add"],
+		"answer": 3830,
+		"intermediateResults": [3783, 3830]
+	},
+	{
+		"numbers": [92, 10, 83, 93, 74],
+		"operations": ["add", "add", "multiply", "multiply"],
+		"answer": 1273170,
+		"intermediateResults": [102, 185, 17205, 1273170]
+	},
+	{
+		"numbers": [21, 30, 95, 15, 33, 98, 45],
+		"operations": [
+			"add",
+			"add",
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract"
+		],
+		"answer": 423609,
+		"intermediateResults": [51, 146, 131, 4323, 423654, 423609]
+	},
+	{
+		"numbers": [14, 46, 79, 11, 1],
+		"operations": ["add", "subtract", "subtract", "subtract"],
+		"answer": -31,
+		"intermediateResults": [60, -19, -30, -31]
+	},
+	{
+		"numbers": [42, 11, 98, 97, 76, 42, 25],
+		"operations": [
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add"
+		],
+		"answer": 5004,
+		"intermediateResults": [53, 5194, 5097, 5021, 4979, 5004]
+	},
+	{
+		"numbers": [82, 24, 100, 27, 3, 77, 42],
+		"operations": [
+			"add",
+			"subtract",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply"
+		],
+		"answer": 533610,
+		"intermediateResults": [106, 6, 162, 165, 12705, 533610]
+	},
+	{
+		"numbers": [3, 59, 73, 12, 51, 23, 13, 74],
+		"operations": [
+			"add",
+			"add",
+			"add",
+			"multiply",
+			"subtract",
+			"subtract",
+			"subtract"
+		],
+		"answer": 7387,
+		"intermediateResults": [62, 135, 147, 7497, 7474, 7461, 7387]
+	},
+	{
+		"numbers": [93, 92, 53, 95],
+		"operations": ["multiply", "subtract", "subtract"],
+		"answer": 8408,
+		"intermediateResults": [8556, 8503, 8408]
+	},
+	{
+		"numbers": [75, 26, 16, 84],
+		"operations": ["multiply", "add", "add"],
+		"answer": 2050,
+		"intermediateResults": [1950, 1966, 2050]
+	},
+	{
+		"numbers": [76, 87, 32, 9, 29],
+		"operations": ["subtract", "subtract", "add", "add"],
+		"answer": -5,
+		"intermediateResults": [-11, -43, -34, -5]
+	},
+	{
+		"numbers": [11, 98, 87, 48, 94, 27, 68],
+		"operations": ["multiply", "add", "multiply", "subtract", "add", "add"],
+		"answer": 55921,
+		"intermediateResults": [1078, 1165, 55920, 55826, 55853, 55921]
+	},
+	{
+		"numbers": [78, 40, 42],
+		"operations": ["add", "subtract"],
+		"answer": 76,
+		"intermediateResults": [118, 76]
+	},
+	{
+		"numbers": [76, 48, 15, 33, 35],
+		"operations": ["add", "add", "multiply", "multiply"],
+		"answer": 160545,
+		"intermediateResults": [124, 139, 4587, 160545]
+	},
+	{
+		"numbers": [80, 31, 13, 35, 66, 49, 84],
+		"operations": [
+			"multiply",
+			"add",
+			"add",
+			"subtract",
+			"subtract",
+			"multiply"
+		],
+		"answer": 202692,
+		"intermediateResults": [2480, 2493, 2528, 2462, 2413, 202692]
+	},
+	{
+		"numbers": [53, 91, 29, 38, 58, 95, 32, 54],
+		"operations": [
+			"multiply",
+			"multiply",
+			"add",
+			"multiply",
+			"multiply",
+			"subtract",
+			"multiply"
+		],
+		"answer": 41627331972,
+		"intermediateResults": [
+			4823, 139867, 139905, 8114490, 770876550, 770876518, 41627331972
+		]
+	},
+	{
+		"numbers": [18, 11, 64, 48, 69],
+		"operations": ["multiply", "add", "add", "multiply"],
+		"answer": 21390,
+		"intermediateResults": [198, 262, 310, 21390]
+	},
+	{
+		"numbers": [7, 56, 70, 56, 82, 36],
+		"operations": ["add", "multiply", "subtract", "multiply", "subtract"],
+		"answer": 356992,
+		"intermediateResults": [63, 4410, 4354, 357028, 356992]
+	},
+	{
+		"numbers": [20, 91, 76, 19, 59, 62, 58],
+		"operations": ["add", "multiply", "add", "add", "multiply", "add"],
+		"answer": 527926,
+		"intermediateResults": [111, 8436, 8455, 8514, 527868, 527926]
+	},
+	{
+		"numbers": [37, 9, 86, 46, 16],
+		"operations": ["multiply", "subtract", "add", "add"],
+		"answer": 309,
+		"intermediateResults": [333, 247, 293, 309]
+	},
+	{
+		"numbers": [72, 45, 83, 55, 63],
+		"operations": ["multiply", "multiply", "multiply", "multiply"],
+		"answer": 931807800,
+		"intermediateResults": [3240, 268920, 14790600, 931807800]
+	},
+	{
+		"numbers": [9, 32, 87, 96, 52],
+		"operations": ["add", "multiply", "add", "multiply"],
+		"answer": 190476,
+		"intermediateResults": [41, 3567, 3663, 190476]
+	},
+	{
+		"numbers": [43, 48, 97, 6, 60, 79, 57, 9],
+		"operations": [
+			"subtract",
+			"multiply",
+			"multiply",
+			"subtract",
+			"add",
+			"add",
+			"multiply"
+		],
+		"answer": -25506,
+		"intermediateResults": [-5, -485, -2910, -2970, -2891, -2834, -25506]
+	},
+	{
+		"numbers": [67, 17, 88, 25, 13, 82, 17],
+		"operations": [
+			"add",
+			"subtract",
+			"subtract",
+			"subtract",
+			"add",
+			"multiply"
+		],
+		"answer": 680,
+		"intermediateResults": [84, -4, -29, -42, 40, 680]
+	}
+]

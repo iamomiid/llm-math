@@ -1,4 +1,4 @@
-import { operationMap, type Data } from "@/types";
+import { operationMap, type Data } from "../types";
 
 export const makePrompt = (data: Data) => {
 	const formula = data.numbers.reduce((acc, num, i) => {

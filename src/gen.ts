@@ -1,5 +1,3 @@
-const MAX_NUMBER = 50;
-
 type Operation = "+" | "-" | "*";
 
 interface MathResult {
@@ -8,8 +6,8 @@ interface MathResult {
 	result: number;
 }
 
-const getRandomNumber = (): number =>
-	Math.floor(Math.random() * MAX_NUMBER) + 1;
+const getRandomNumber = (max: number): number =>
+	Math.floor(Math.random() * max) + 1;
 
 const getRandomOperation = (): Operation => {
 	const operations: Operation[] = ["+", "-", "*"];
@@ -38,18 +36,19 @@ interface Expression {
 }
 
 const generateExpression = (
-	remainingOperations: number
+	remainingOperations: number,
+	maxNumber: number
 ): Expression | number => {
 	if (remainingOperations === 0) {
-		return getRandomNumber();
+		return getRandomNumber(maxNumber);
 	}
 
 	const operation = getRandomOperation();
 	const leftOperations = Math.floor(Math.random() * remainingOperations);
 	const rightOperations = remainingOperations - leftOperations - 1;
 
-	const left = generateExpression(leftOperations);
-	const right = generateExpression(rightOperations);
+	const left = generateExpression(leftOperations, maxNumber);
+	const right = generateExpression(rightOperations, maxNumber);
 
 	return { left, right, operation };
 };
@@ -85,8 +84,8 @@ const expressionToString = (expr: Expression | number): string => {
 	} ${expressionToString(expr.right)})`;
 };
 
-const generateFormula = (n: number): MathResult => {
-	const expression = generateExpression(n);
+const generateFormula = (n: number, maxNumber: number): MathResult => {
+	const expression = generateExpression(n, maxNumber);
 	const { value, steps } = evaluateExpression(expression);
 
 	return {

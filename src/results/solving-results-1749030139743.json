@@ -1,0 +1,236 @@
+{
+  "spec": {
+    "datasetId": "dataset-1749030125809",
+    "modelId": "gpt-4.1-nano"
+  },
+  "results": [
+    {
+      "input": {
+        "formula": "(((56 + (4 - ((44 + 78) * 29))) * (65 - 43)) + (28 - 100))",
+        "steps": [
+          "44 + 78 = 122",
+          "122 * 29 = 3538",
+          "4 - 3538 = -3534",
+          "56 + -3534 = -3478",
+          "65 - 43 = 22",
+          "-3478 * 22 = -76516",
+          "28 - 100 = -72",
+          "-76516 + -72 = -76588"
+        ],
+        "result": -76588
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula:\n\\[\n(((56 + (4 - ((44 + 78) \\times 29))) \\times (65 - 43)) + (28 - 100))\n\\]\n\n**Step 1:** Simplify innermost parentheses:\n- \\(44 + 78 = 122\\)\n\n**Step 2:** Multiply:\n- \\(122 \\times 29\\)\n\nCalculate \\(122 \\times 29\\):\n- \\(122 \\times 29 = (122 \\times 30) - (122 \\times 1) = (3660) - (122) = 3538\\)\n\n**Step 3:** Compute \\(4 - 3538\\):\n- \\(4 - 3538 = -3534\\)\n\n**Step 4:** Add 56:\n- \\(56 + (-3534) = 56 - 3534 = -3478\\)\n\n**Step 5:** Compute \\(65 - 43\\):\n- \\(65 - 43 = 22\\)\n\n**Step 6:** Multiply the results:\n- \\(-3478 \\times 22\\)\n\nCalculate:\n- \\(-3478 \\times 22 = - (3478 \\times 22)\\)\n\nCalculate \\(3478 \\times 22\\):\n- \\(3478 \\times 20 = 69,560\\)\n- \\(3478 \\times 2 = 6,956\\)\n- Sum: \\(69,560 + 6,956 = 76,516\\)\n\nSo:\n- \\(-3478 \\times 22 = -76,516\\)\n\n**Step 7:** Add \\(28 - 100\\):\n- \\(28 - 100 = -72\\)\n\n**Step 8:** Final addition:\n\\[\n-76,516 + (-72) = -76,516 - 72 = -76,588\n\\]\n\n**Final answer:**\n\n\\[\n\\boxed{-76,588}\n\\]"
+      }
+    },
+    {
+      "input": {
+        "formula": "(((62 + 80) - 17) + ((3 - (12 * 32)) * (15 + 1)))",
+        "steps": [
+          "62 + 80 = 142",
+          "142 - 17 = 125",
+          "12 * 32 = 384",
+          "3 - 384 = -381",
+          "15 + 1 = 16",
+          "-381 * 16 = -6096",
+          "125 + -6096 = -5971"
+        ],
+        "result": -5971
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula:\n\\[\n(((62 + 80) - 17) + ((3 - (12 \\times 32)) \\times (15 + 1)))\n\\]\n\n**Step 1:** Calculate \\(62 + 80\\)\n\\[\n62 + 80 = 142\n\\]\n\n**Step 2:** Subtract 17\n\\[\n142 - 17 = 125\n\\]\n\n**Step 3:** Calculate \\(12 \\times 32\\)\n\\[\n12 \\times 32 = 384\n\\]\n\n**Step 4:** Calculate \\(3 - 384\\)\n\\[\n3 - 384 = -381\n\\]\n\n**Step 5:** Calculate \\(15 + 1\\)\n\\[\n15 + 1 = 16\n\\]\n\n**Step 6:** Multiply \\(-381 \\times 16\\)\n\\[\n-381 \\times 16 = -6096\n\\]\n\n**Step 7:** Add the two parts together\n\\[\n125 + (-6096) = 125 - 6096 = -5971\n\\]\n\n**Final result:**\n\n\\[\n\\boxed{-5971}\n\\]"
+      }
+    },
+    {
+      "input": {
+        "formula": "(49 * (69 + 80))",
+        "steps": [
+          "69 + 80 = 149",
+          "49 * 149 = 7301"
+        ],
+        "result": 7301
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula: (49 * (69 + 80))\n\n1. First, evaluate the expression inside the parentheses:\n69 + 80 = 149\n\n2. Now, multiply 49 by 149:\n49 * 149\n\nTo compute 49 * 149:\n\n- 49 * 149 = (50 - 1) * 149\n- = 50 * 149 - 1 * 149\n- = (50 * 149) - 149\n\nCalculate 50 * 149:\n50 * 149 = (50 * 150) - (50 * 1) = 7500 - 50 = 7450\n\nNow subtract 149:\n7450 - 149 = 7301\n\n**Final result: 7301**\n\n**Answer: 7301**"
+      }
+    },
+    {
+      "input": {
+        "formula": "((96 + 10) - 78)",
+        "steps": [
+          "96 + 10 = 106",
+          "106 - 78 = 28"
+        ],
+        "result": 28
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\n1. Calculate inside the parentheses: 96 + 10 = 106\n2. Subtract 78 from the result: 106 - 78 = 28\n\n**Final result: 28**"
+      }
+    },
+    {
+      "input": {
+        "formula": "(73 * ((89 + (59 + (52 * 93))) + (96 + 30)))",
+        "steps": [
+          "52 * 93 = 4836",
+          "59 + 4836 = 4895",
+          "89 + 4895 = 4984",
+          "96 + 30 = 126",
+          "4984 + 126 = 5110",
+          "73 * 5110 = 373030"
+        ],
+        "result": 373030
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula:\n(73 * ((89 + (59 + (52 * 93))) + (96 + 30)))\n\nStep 1: Calculate the innermost parentheses: (52 * 93)\n52 * 93 = 4836\n\nStep 2: Calculate (59 + 4836)\n59 + 4836 = 4895\n\nStep 3: Calculate (89 + 4895)\n89 + 4895 = 4984\n\nStep 4: Calculate (96 + 30)\n96 + 30 = 126\n\nStep 5: Sum the results from steps 3 and 4:\n4984 + 126 = 5110\n\nStep 6: Multiply by 73:\n73 * 5110 = 373,030\n\n**Final result: 373,030**"
+      }
+    },
+    {
+      "input": {
+        "formula": "(((93 - 89) - 84) - (29 * 92))",
+        "steps": [
+          "93 - 89 = 4",
+          "4 - 84 = -80",
+          "29 * 92 = 2668",
+          "-80 - 2668 = -2748"
+        ],
+        "result": -2748
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula:  \n\\[\n(((93 - 89) - 84) - (29 \\times 92))\n\\]\n\n1. Calculate \\(93 - 89\\):  \n\\[\n93 - 89 = 4\n\\]\n\n2. Substitute back:  \n\\[\n(4 - 84) - (29 \\times 92)\n\\]\n\n3. Calculate \\(4 - 84\\):  \n\\[\n4 - 84 = -80\n\\]\n\n4. Calculate \\(29 \\times 92\\):  \n\\[\n29 \\times 92 = (30 - 1) \\times 92 = (30 \\times 92) - (1 \\times 92) = 2760 - 92 = 2668\n\\]\n\n5. Now, substitute and evaluate:  \n\\[\n-80 - 2668 = -2748\n\\]\n\n**Final result:**\n\n\\[\n\\boxed{-2748}\n\\]"
+      }
+    },
+    {
+      "input": {
+        "formula": "(((18 * ((43 * 69) * 64)) + (7 + 58)) + (((10 * 62) + (71 + 30)) * 19))",
+        "steps": [
+          "43 * 69 = 2967",
+          "2967 * 64 = 189888",
+          "18 * 189888 = 3417984",
+          "7 + 58 = 65",
+          "3417984 + 65 = 3418049",
+          "10 * 62 = 620",
+          "71 + 30 = 101",
+          "620 + 101 = 721",
+          "721 * 19 = 13699",
+          "3418049 + 13699 = 3431748"
+        ],
+        "result": 3431748
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula:\n\\[\n(((18 \\times ((43 \\times 69) \\times 64)) + (7 + 58)) + (((10 \\times 62) + (71 + 30)) \\times 19))\n\\]\n\n**Step 1:** Calculate innermost parentheses:\n\n- \\(43 \\times 69\\):\n\n\\[\n43 \\times 69 = (40 \\times 69) + (3 \\times 69) = (2760) + (207) = 2967\n\\]\n\n- Multiply that result by 64:\n\n\\[\n2967 \\times 64\n\\]\n\nCalculate:\n\n\\[\n2967 \\times 64 = (2967 \\times 60) + (2967 \\times 4)\n\\]\n\n- \\(2967 \\times 60\\):\n\n\\[\n2967 \\times 60 = 178,020\n\\]\n\n- \\(2967 \\times 4\\):\n\n\\[\n2967 \\times 4 = 11,868\n\\]\n\nAdd:\n\n\\[\n178,020 + 11,868 = 189,888\n\\]\n\nSo,\n\n\\[\n(43 \\times 69) \\times 64 = 189,888\n\\]\n\n**Step 2:** Multiply by 18:\n\n\\[\n18 \\times 189,888\n\\]\n\nCalculate:\n\n\\[\n18 \\times 189,888 = (10 \\times 189,888) + (8 \\times 189,888) = 1,898,880 + 1,519,104 = 3,417,984\n\\]\n\n**Step 3:** Add \\(7 + 58\\):\n\n\\[\n7 + 58 = 65\n\\]\n\nNow, the first big sum:\n\n\\[\n(18 \\times ((43 \\times 69) \\times 64)) + (7 + 58) = 3,417,984 + 65 = 3,418,049\n\\]\n\n---\n\n**Step 4:** Calculate the second big part:\n\n- \\(10 \\times 62\\):\n\n\\[\n10 \\times 62 = 620\n\\]\n\n- \\(71 + 30\\):\n\n\\[\n71 + 30 = 101\n\\]\n\n- Sum:\n\n\\[\n620 + 101 = 721\n\\]\n\n- Multiply by 19:\n\n\\[\n721 \\times 19\n\\]\n\nCalculate:\n\n\\[\n721 \\times 19 = (700 \\times 19) + (21 \\times 19) = 13,300 + 399 = 13,699\n\\]\n\n---\n\n**Step 5:** Add the two parts:\n\n\\[\n3,418,049 + 13,699 = 3,431,748\n\\]\n\n**Final answer:**\n\n\\[\n\\boxed{3,431,748}\n\\]"
+      }
+    },
+    {
+      "input": {
+        "formula": "(((20 * 28) - 94) + (66 + 10))",
+        "steps": [
+          "20 * 28 = 560",
+          "560 - 94 = 466",
+          "66 + 10 = 76",
+          "466 + 76 = 542"
+        ],
+        "result": 542
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula: (((20 * 28) - 94) + (66 + 10))\n\n1. Calculate 20 * 28:\n   20 * 28 = 560\n\n2. Subtract 94:\n   560 - 94 = 466\n\n3. Calculate 66 + 10:\n   66 + 10 = 76\n\n4. Add the results:\n   466 + 76 = 542\n\n**Final result: 542**"
+      }
+    },
+    {
+      "input": {
+        "formula": "(62 * (52 + 41))",
+        "steps": [
+          "52 + 41 = 93",
+          "62 * 93 = 5766"
+        ],
+        "result": 5766
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula: (62 * (52 + 41))\n\n1. First, evaluate the expression inside the parentheses:\n52 + 41 = 93\n\n2. Now, multiply 62 by 93:\n62 * 93\n\nCalculating:\n62 * 93 = (60 + 2) * 93 = (60 * 93) + (2 * 93) = 5580 + 186 = 5766\n\n**Final result: 5766**"
+      }
+    },
+    {
+      "input": {
+        "formula": "((34 + 84) - 25)",
+        "steps": [
+          "34 + 84 = 118",
+          "118 - 25 = 93"
+        ],
+        "result": 93
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\n1. Calculate inside the parentheses: 34 + 84 = 118\n2. Subtract 25 from the result: 118 - 25 = 93\n\n**Final result: 93**"
+      }
+    },
+    {
+      "input": {
+        "formula": "(((79 + 40) + 21) * ((5 + 86) - 61))",
+        "steps": [
+          "79 + 40 = 119",
+          "119 + 21 = 140",
+          "5 + 86 = 91",
+          "91 - 61 = 30",
+          "140 * 30 = 4200"
+        ],
+        "result": 4200
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula:\n\\[\n(((79 + 40) + 21) \\times ((5 + 86) - 61))\n\\]\n\nStep 1: Calculate inside the first parentheses:\n\\[\n79 + 40 = 119\n\\]\n\nStep 2: Add 21:\n\\[\n119 + 21 = 140\n\\]\n\nStep 3: Calculate inside the second parentheses:\n\\[\n5 + 86 = 91\n\\]\n\nStep 4: Subtract 61:\n\\[\n91 - 61 = 30\n\\]\n\nStep 5: Multiply the two results:\n\\[\n140 \\times 30 = 4200\n\\]\n\n**Final answer: \\(\\boxed{4200}\\)**"
+      }
+    },
+    {
+      "input": {
+        "formula": "(72 + 21)",
+        "steps": [
+          "72 + 21 = 93"
+        ],
+        "result": 93
+      },
+      "output": {
+        "correct": true,
+        "steps": "The result of the formula (72 + 21) is 93."
+      }
+    },
+    {
+      "input": {
+        "formula": "(34 - ((10 - 96) * 61))",
+        "steps": [
+          "10 - 96 = -86",
+          "-86 * 61 = -5246",
+          "34 - -5246 = 5280"
+        ],
+        "result": 5280
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven: (34 - ((10 - 96) * 61))\n\n1. Calculate the inner parentheses: (10 - 96)\n   10 - 96 = -86\n\n2. Multiply the result by 61:\n   -86 * 61\n\n   To compute -86 * 61:\n   -86 * 61 = -86 * (60 + 1) = -86 * 60 + -86 * 1\n   = -5160 + -86\n   = -5246\n\n3. Now, substitute back into the original formula:\n   34 - (-5246)\n\n4. Subtracting a negative is equivalent to addition:\n   34 + 5246 = 5280\n\n**Final answer:**\n\n\\[\n\\boxed{5280}\n\\]"
+      }
+    },
+    {
+      "input": {
+        "formula": "(((53 + 9) + 53) * (8 - 65))",
+        "steps": [
+          "53 + 9 = 62",
+          "62 + 53 = 115",
+          "8 - 65 = -57",
+          "115 * -57 = -6555"
+        ],
+        "result": -6555
+      },
+      "output": {
+        "correct": true,
+        "steps": "Let's evaluate the formula step by step:\n\nGiven formula: \\(((53 + 9) + 53) \\times (8 - 65)\\)\n\n1. Calculate inside the first parentheses: \\(53 + 9 = 62\\)\n2. Add 53: \\(62 + 53 = 115\\)\n3. Calculate inside the second parentheses: \\(8 - 65 = -57\\)\n4. Multiply the results: \\(115 \\times -57\\)\n\nNow, multiply:\n\n\\(115 \\times -57 = -6555\\)\n\n**Final result: \\(-6555\\)**"
+      }
+    }
+  ]
+}
